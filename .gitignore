@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Survival_Game/Saved/Crashes/*
+Survival_Game/Saved/Config/CrashReportClient/*
+Survival_Game/Saved/WorldPartition/*
