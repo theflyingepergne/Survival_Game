@@ -76,3 +76,5 @@ DerivedDataCache/*
 Survival_Game/Saved/Crashes/*
 Survival_Game/Saved/Config/CrashReportClient/*
 Survival_Game/Saved/WorldPartition/*
+Survival_Game/Saved/Logs/*
+Survival_Game/Saved/Autosaves/*
