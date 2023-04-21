@@ -6775,3 +6775,1132 @@ Script Stack (0 frames):
 [2023.04.21-11.53.03:073][523]AssetCheck: New page: Asset Save: BP_Player
 [2023.04.21-11.53.03:073][523]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Player.BP_Player
 [2023.04.21-11.53.24:446][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.21-12.10.17:299][864]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2023.04.21-12.10.20:480][ 86]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-12.10.20:480][ 86]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-12.10.26:155][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-12.10.26:155][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-12.10.51:626][949]LogSlate: Window 'FBX Export Options' being destroyed
+[2023.04.21-12.10.52:049][949]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2023.04.21-12.20.56:002][961]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.746 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.21-12.48.44:871][756]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.21-12.48.44:879][756]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.21-12.48.44:890][757]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.21-12.48.57:648][286]LogContentBrowser: Attempting asset rename: NewFolder -> Environment
+[2023.04.21-12.48.57:648][286]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.21-12.49.07:838][ 81]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\GitHub\Survival_Game\Survival_Game\SourceFiles\3D Models\Cactus\Cactus.fbx)
+[2023.04.21-12.49.07:878][ 81]LogFbx: Loading FBX Scene from D:\GitHub\Survival_Game\Survival_Game\SourceFiles\3D Models\Cactus\Cactus.fbx
+[2023.04.21-12.49.07:893][ 81]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-12.49.18:559][ 81]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.21-12.49.18:669][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.21-12.49.18:671][ 81]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.04.21-12.49.19:052][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.21-12.49.19:054][ 81]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2023.04.21-12.49.19:054][ 81]FBXImport: Import was canceled. 
+[2023.04.21-12.49.19:117][ 81]LogAssetTools: The import task was canceled.
+[2023.04.21-12.49.20:717][267]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-12.49.20:723][267]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-12.52.49:284][275]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\GitHub\Survival_Game\Survival_Game\SourceFiles\3D Models\Cactus\Cactus.fbx)
+[2023.04.21-12.52.49:293][275]LogFbx: Loading FBX Scene from D:\GitHub\Survival_Game\Survival_Game\SourceFiles\3D Models\Cactus\Cactus.fbx
+[2023.04.21-12.52.49:302][275]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-12.52.51:194][275]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.21-12.52.51:436][275]LogTexture: Display: Building textures: /Game/Environment/Cactus_Texture.Cactus_Texture (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.21-12.52.51:438][275]LogMaterial: Display: Missing cached shadermap for Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 98050CA70C889558F1774EE8B8A3C1EE5DFF3D07), compiling. 
+[2023.04.21-12.52.51:442][275]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-12.52.51:638][275]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-12.52.51:775][275]LogStaticMesh: Display: Building static mesh Cactus...
+[2023.04.21-12.52.51:889][275]LogStaticMesh: Built static mesh [0.16s] /Game/Environment/Cactus.Cactus
+[2023.04.21-12.52.51:936][275]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: ================================================
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Total job queries 37, among them cache hits 0 (0.00%)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Tracking 34 distinct input hashes that result in 26 distinct outputs (76.47%)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.01%
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Shaders Compiled: 31
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Jobs assigned 37, completed 34 (91.89%)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Average time worker was idle: 4160.39 s
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Time job spent in pending queue: average 0.34 s, longest 2.69 s
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Job execution time: average 6.30 s, max 8.60 s
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Job life time (pending + execution): average 6.67 s, max 8.70
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.93 s
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 2.31 jobs/batch
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Average processing rate: 2.44 jobs/sec
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Effective parallelization: 2.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.38 sec, max 1.38 sec, min 1.38 sec)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.08% of total time (compiled    3 times, average 0.87 sec, max 0.89 sec, min 0.83 sec)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.92% of total time (compiled    3 times, average 0.85 sec, max 1.01 sec, min 0.69 sec)
+[2023.04.21-12.52.54:155][468]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.62% of total time (compiled    3 times, average 0.82 sec, max 1.00 sec, min 0.71 sec)
+[2023.04.21-12.52.54:156][468]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.63% of total time (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2023.04.21-12.52.54:156][468]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.63% of total time (compiled    4 times, average 0.37 sec, max 0.43 sec, min 0.34 sec)
+[2023.04.21-12.52.54:156][468]LogShaderCompilers: Display: ================================================
+[2023.04.21-12.53.12:829][669]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-12.53.12:838][669]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-12.53.17:334][  4]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environment/Cactus.Cactus
+[2023.04.21-12.53.17:334][  4]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environment/Cactus.Cactus
+[2023.04.21-12.53.17:339][  4]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environment/Cactus.Cactus as actor: StaticMeshActor /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2023.04.21-12.53.17:763][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environment/Cactus.Cactus
+[2023.04.21-12.53.17:763][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environment/Cactus.Cactus
+[2023.04.21-12.53.17:765][ 34]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environment/Cactus.Cactus as actor: StaticMeshActor /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_001A7DDA7113407B01_2025297311
+[2023.04.21-12.53.26:628][656]LogViewport: Scene viewport resized to 2100x1251, mode Windowed.
+[2023.04.21-12.53.39:780][477]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Cactus.Cactus
+[2023.04.21-12.53.39:817][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-12.53.40:130][477]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.04.21-12.53.40:651][477]LogViewport: Scene viewport resized to 2146x1893, mode Windowed.
+[2023.04.21-12.55.17:281][315]LogEditorFactories: Performing atomic reimport of [D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx]
+[2023.04.21-12.55.17:304][315]LogFbx: Loading FBX Scene from D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx
+[2023.04.21-12.55.17:419][315]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-12.55.17:508][315]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-12.55.17:519][315]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-12.55.17:544][315]LogStaticMesh: Display: Building static mesh Cactus...
+[2023.04.21-12.55.17:616][315]LogStaticMesh: Built static mesh [0.07s] /Game/Environment/Cactus.Cactus
+[2023.04.21-12.55.17:635][315]LogEditorFactories: -- imported successfully
+[2023.04.21-12.55.17:654][315]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-12.55.58:641][158]LogEditorFactories: Performing atomic reimport of [D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx]
+[2023.04.21-12.55.58:663][158]LogFbx: Loading FBX Scene from D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx
+[2023.04.21-12.55.58:776][158]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-12.55.58:840][158]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-12.55.59:001][158]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-12.55.59:040][158]LogStaticMesh: Display: Building static mesh Cactus...
+[2023.04.21-12.55.59:153][158]LogStaticMesh: Built static mesh [0.11s] /Game/Environment/Cactus.Cactus
+[2023.04.21-12.55.59:177][158]LogEditorFactories: -- imported successfully
+[2023.04.21-12.55.59:197][158]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-12.56.09:209][866]LogSlate: Took 0.003533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.21-12.57.31:180][413]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Documents\_3D modelling\blender\projects\220125 - bard game\props\Paddle.FBX)
+[2023.04.21-12.57.31:189][413]LogFbx: Loading FBX Scene from D:\Documents\_3D modelling\blender\projects\220125 - bard game\props\Paddle.FBX
+[2023.04.21-12.57.31:194][413]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-12.57.38:938][413]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.21-12.57.38:969][413]LogFbx: Display: Triangulating static mesh Paddle
+[2023.04.21-12.57.39:028][413]LogFbx: Display: Triangulating mesh UCX_Paddle for collision model
+[2023.04.21-12.57.39:042][413]LogStaticMesh: Display: Building static mesh Paddle...
+[2023.04.21-12.57.39:074][413]LogStaticMesh: Built static mesh [0.03s] /Game/Environment/Paddle.Paddle
+[2023.04.21-12.57.39:088][413]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-12.57.41:876][505]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Paddle.Paddle
+[2023.04.21-12.57.41:882][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-12.57.42:300][505]LogViewport: Scene viewport resized to 2146x1893, mode Windowed.
+[2023.04.21-12.58.00:842][257]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-12.58.00:871][257]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-12.59.05:384][157]LogWorld: UWorld::CleanupWorld for World_154, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-12.59.05:384][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-12.59.07:471][305]LogWorld: UWorld::CleanupWorld for World_153, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-12.59.07:471][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-12.59.10:717][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.21-12.59.11:995][636]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.21-12.59.12:085][636]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Environment/Paddle.Paddle
+	Asset Type: StaticMesh
+	Asset Name: /Game/Environment/Cactus.Cactus
+	Asset Type: StaticMesh
+	Asset Name: /Game/Environment/Cactus_Material.Cactus_Material
+	Asset Type: Material
+	Asset Name: /Game/Environment/Cactus_Texture.Cactus_Texture
+	Asset Type: Texture2D
+[2023.04.21-12.59.12:369][636]LogMaterial: Display: Missing cached shadermap for Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: C461736AE67CBEC2CD957AF7C8C2406CC2CA714E), compiling. 
+[2023.04.21-12.59.12:386][636]LogMaterial: Warning: [AssetLog] /Game/Environment/Cactus_Material.Cactus_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.21-12.59.12:394][636]LogMaterial: Warning: Cactus_Material: Requesting an invalid TextureIndex! (0 / 0)
+[2023.04.21-12.59.12:656][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.21-12.59.12:715][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.21-12.59.12:775][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.21-12.59.21:436][830]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\GitHub\Survival_Game\Survival_Game\SourceFiles\3D Models\Cactus\Cactus.fbx)
+[2023.04.21-12.59.21:458][830]LogFbx: Loading FBX Scene from D:\GitHub\Survival_Game\Survival_Game\SourceFiles\3D Models\Cactus\Cactus.fbx
+[2023.04.21-12.59.21:575][830]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-12.59.24:051][830]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.21-12.59.24:089][830]LogTexture: Display: Building textures: /Game/Environment/Cactus_Texture.Cactus_Texture (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.21-12.59.24:092][830]LogMaterial: Display: Missing cached shadermap for Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 44B2C9D86AEACF632CCD41A456338D50BEFA1F02), compiling. 
+[2023.04.21-12.59.24:097][830]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-12.59.24:276][830]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-12.59.24:314][830]LogStaticMesh: Display: Building static mesh Cactus_Cactus...
+[2023.04.21-12.59.24:382][830]LogStaticMesh: Built static mesh [0.07s] /Game/Environment/Cactus_Cactus.Cactus_Cactus
+[2023.04.21-12.59.24:413][830]LogFbxMaterialImport: Display: Unable to find Texture file D:\Programs\Epic Games\temp\render\ttt\Q_tex\baked\T_Quinn_01ID_N.TGA
+[2023.04.21-12.59.24:417][830]LogMaterial: Display: Missing cached shadermap for MI_Quinn_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 29D3E00A15FBD59D1D1FFDCD2DA6F76C988E73E6), compiling. 
+[2023.04.21-12.59.24:423][830]LogFbxMaterialImport: Display: Unable to find Texture file D:\Programs\Epic Games\temp\render\ttt\Q_tex\baked\T_Quinn_02ID_N.TGA
+[2023.04.21-12.59.24:429][830]LogMaterial: Display: Missing cached shadermap for MI_Quinn_02 in PCD3D_SM5, Default, SM5 (DDC key hash: BD9EDC4C36CB057A8671C33A7EE4D056BF3FF0DA), compiling. 
+[2023.04.21-12.59.24:756][830]LogStaticMesh: Display: Building static mesh Cactus_SKM_Quinn_LOD0...
+[2023.04.21-12.59.25:405][830]LogStaticMesh: Built static mesh [0.65s] /Game/Environment/Cactus_SKM_Quinn_LOD0.Cactus_SKM_Quinn_LOD0
+[2023.04.21-12.59.25:825][830]LogStaticMesh: Display: Building static mesh Cactus_SKM_Quinn_LOD1...
+[2023.04.21-12.59.26:446][830]LogStaticMesh: Built static mesh [0.62s] /Game/Environment/Cactus_SKM_Quinn_LOD1.Cactus_SKM_Quinn_LOD1
+[2023.04.21-12.59.26:660][830]LogStaticMesh: Display: Building static mesh Cactus_SKM_Quinn_LOD2...
+[2023.04.21-12.59.26:888][830]LogStaticMesh: Built static mesh [0.23s] /Game/Environment/Cactus_SKM_Quinn_LOD2.Cactus_SKM_Quinn_LOD2
+[2023.04.21-12.59.26:975][830]LogStaticMesh: Display: Building static mesh Cactus_SKM_Quinn_LOD3...
+[2023.04.21-12.59.27:091][830]LogStaticMesh: Built static mesh [0.12s] /Game/Environment/Cactus_SKM_Quinn_LOD3.Cactus_SKM_Quinn_LOD3
+[2023.04.21-12.59.27:134][830]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Environment/Cactus_SKM_Quinn_LOD0) ...
+[2023.04.21-12.59.27:252][830]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Environment/Cactus_SKM_Quinn_LOD1) ...
+[2023.04.21-12.59.27:399][830]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Environment/Cactus_SKM_Quinn_LOD2) ...
+[2023.04.21-12.59.27:437][830]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Environment/Cactus_SKM_Quinn_LOD3) ...
+[2023.04.21-12.59.27:443][830]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-12.59.27:513][830]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Environment/Cactus_Cactus) ...
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: ================================================
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: Total job queries 41, among them cache hits 4 (9.76%)
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: Tracking 37 distinct input hashes that result in 27 distinct outputs (72.97%)
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.01%
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: Shaders Compiled: 31
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: Jobs assigned 37, completed 37 (100.00%)
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: Average time worker was idle: 4160.39 s
+[2023.04.21-12.59.27:606][831]LogShaderCompilers: Display: Time job spent in pending queue: average 0.34 s, longest 2.69 s
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: Job execution time: average 5.98 s, max 8.60 s
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: Job life time (pending + execution): average 6.32 s, max 8.70
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.54 s
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 2.31 jobs/batch
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: Average processing rate: 2.55 jobs/sec
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.38 sec, max 1.38 sec, min 1.38 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.31% of total time (compiled    4 times, average 0.91 sec, max 1.03 sec, min 0.83 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.98% of total time (compiled    4 times, average 0.88 sec, max 1.01 sec, min 0.69 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.92% of total time (compiled    4 times, average 0.87 sec, max 1.04 sec, min 0.71 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.14% of total time (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.23% of total time (compiled    4 times, average 0.37 sec, max 0.43 sec, min 0.34 sec)
+[2023.04.21-12.59.27:607][831]LogShaderCompilers: Display: ================================================
+[2023.04.21-12.59.33:823][437]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-12.59.33:829][437]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-12.59.36:416][723]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Cactus_Cactus.Cactus_Cactus
+[2023.04.21-12.59.36:422][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-12.59.36:798][723]LogViewport: Scene viewport resized to 2146x1893, mode Windowed.
+[2023.04.21-13.00.06:996][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.04.21-13.00.07:050][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/2/ZD/C7DP20WMTZJ0ZWBQYMEBBB_Auto3
+[2023.04.21-13.00.07:050][409]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/C7DP20WMTZJ0ZWBQYMEBBB_Auto38AD76A844A2E5CBDCFDA109A904D4682.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/2/ZD/C7DP20WMTZJ0ZWBQYMEBBB_Auto3.uasset'
+[2023.04.21-13.00.07:050][409]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.159
+[2023.04.21-13.00.07:050][409]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.159
+[2023.04.21-13.00.07:051][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Cactus_SKM_Quinn_LOD1] ([1] browsable assets)...
+[2023.04.21-13.00.07:061][409]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/Cactus_SKM_Quinn_LOD1.Cactus_SKM_Quinn_LOD1]
+[2023.04.21-13.00.07:062][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Cactus_SKM_Quinn_LOD1]
+[2023.04.21-13.00.07:183][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Cactus_SKM_Quinn_LOD1_Auto3
+[2023.04.21-13.00.07:183][409]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus_SKM_Quinn_LOD1_Auto362D61D994FA392A357A55CBA775C2A0F.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Autosaves/Game/Environment/Cactus_SKM_Quinn_LOD1_Auto3.uasset'
+[2023.04.21-13.00.07:184][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Cactus_Cactus] ([1] browsable assets)...
+[2023.04.21-13.00.07:191][409]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/Cactus_Cactus.Cactus_Cactus]
+[2023.04.21-13.00.07:191][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Cactus_Cactus]
+[2023.04.21-13.00.07:207][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Cactus_Cactus_Auto3
+[2023.04.21-13.00.07:207][409]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus_Cactus_Auto3E2A58AF249FB7474912519A357A12181.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Autosaves/Game/Environment/Cactus_Cactus_Auto3.uasset'
+[2023.04.21-13.00.07:208][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Cactus_SKM_Quinn_LOD0] ([1] browsable assets)...
+[2023.04.21-13.00.07:216][409]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/Cactus_SKM_Quinn_LOD0.Cactus_SKM_Quinn_LOD0]
+[2023.04.21-13.00.07:216][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Cactus_SKM_Quinn_LOD0]
+[2023.04.21-13.00.07:337][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Cactus_SKM_Quinn_LOD0_Auto3
+[2023.04.21-13.00.07:337][409]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus_SKM_Quinn_LOD0_Auto30FE4AE7D4563FC25C7D9C58484C690E3.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Autosaves/Game/Environment/Cactus_SKM_Quinn_LOD0_Auto3.uasset'
+[2023.04.21-13.00.07:338][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Cactus_SKM_Quinn_LOD2] ([1] browsable assets)...
+[2023.04.21-13.00.07:346][409]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/Cactus_SKM_Quinn_LOD2.Cactus_SKM_Quinn_LOD2]
+[2023.04.21-13.00.07:346][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Cactus_SKM_Quinn_LOD2]
+[2023.04.21-13.00.07:388][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Cactus_SKM_Quinn_LOD2_Auto3
+[2023.04.21-13.00.07:388][409]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus_SKM_Quinn_LOD2_Auto3C6E157CB4B10FB186AD65C9C24955E76.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Autosaves/Game/Environment/Cactus_SKM_Quinn_LOD2_Auto3.uasset'
+[2023.04.21-13.00.07:389][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environment/Cactus_SKM_Quinn_LOD3] ([1] browsable assets)...
+[2023.04.21-13.00.07:397][409]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environment/Cactus_SKM_Quinn_LOD3.Cactus_SKM_Quinn_LOD3]
+[2023.04.21-13.00.07:397][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Cactus_SKM_Quinn_LOD3]
+[2023.04.21-13.00.07:419][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment/Cactus_SKM_Quinn_LOD3_Auto3
+[2023.04.21-13.00.07:419][409]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus_SKM_Quinn_LOD3_Auto34FAC7C994A0373DA45928DAE095711A4.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Autosaves/Game/Environment/Cactus_SKM_Quinn_LOD3_Auto3.uasset'
+[2023.04.21-13.00.07:420][409]LogFileHelpers: Auto-saving content packages took 0.370
+[2023.04.21-13.00.09:463][637]LogWorld: UWorld::CleanupWorld for World_155, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.00.09:463][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.00.13:443][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.21-13.00.14:687][ 59]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.21-13.00.14:768][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.04.21-13.00.14:836][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.04.21-13.00.14:901][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.21-13.00.38:372][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\GitHub\Survival_Game\Survival_Game\SourceFiles\3D Models\Cactus\Cactus.fbx)
+[2023.04.21-13.00.38:381][344]LogFbx: Loading FBX Scene from D:\GitHub\Survival_Game\Survival_Game\SourceFiles\3D Models\Cactus\Cactus.fbx
+[2023.04.21-13.00.38:390][344]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-13.00.43:528][344]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.21-13.00.43:572][344]LogTexture: Display: Building textures: /Game/Environment/Cactus_Texture.Cactus_Texture (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.21-13.00.43:572][344]LogMaterial: Display: Missing cached shadermap for Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 0218B9B94374A7CEAA8AD3C31BC3E84A5298F575), compiling. 
+[2023.04.21-13.00.43:576][344]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-13.00.43:759][344]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-13.00.43:793][344]LogStaticMesh: Display: Building static mesh Cactus...
+[2023.04.21-13.00.43:857][344]LogStaticMesh: Built static mesh [0.06s] /Game/Environment/Cactus.Cactus
+[2023.04.21-13.00.43:880][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-13.00.47:426][647]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Cactus.Cactus
+[2023.04.21-13.00.47:434][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.00.47:816][647]LogViewport: Scene viewport resized to 2146x1893, mode Windowed.
+[2023.04.21-13.01.22:029][599]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-13.01.22:047][599]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-13.01.43:234][193]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 1095217443928
+[2023.04.21-13.01.43:234][193]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2023.04.21-13.03.24:148][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.21-13.03.25:272][869]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.21-13.03.25:394][869]LogWorld: UWorld::CleanupWorld for World_156, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.03.25:394][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.03.25:421][869]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Environment/Cactus_Texture.Cactus_Texture
+	Asset Type: Texture2D
+	Asset Name: /Game/Environment/Cactus.Cactus
+	Asset Type: StaticMesh
+	Asset Name: /Game/Environment/Cactus_Material.Cactus_Material
+	Asset Type: Material
+[2023.04.21-13.03.25:758][869]LogMaterial: Display: Missing cached shadermap for Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 3DC80F515538F4258C7917D8D61D5EBEA3452A20), compiling. 
+[2023.04.21-13.03.25:758][869]LogMaterial: Warning: [AssetLog] /Game/Environment/Cactus_Material.Cactus_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.21-13.03.25:968][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.21-13.03.26:039][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.21-13.03.26:106][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.21-13.03.36:191][  6]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx)
+[2023.04.21-13.03.36:200][  6]LogFbx: Loading FBX Scene from ../../../../../../GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx
+[2023.04.21-13.03.36:208][  6]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-13.03.55:632][  6]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.21-13.03.55:674][  6]LogTexture: Display: Building textures: /Game/Environment/Cactus_Texture.Cactus_Texture (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.21-13.03.55:679][  6]LogMaterial: Display: Missing cached shadermap for Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: FB37E81F63EE28F487973E0104EA8B5107FD35A7), compiling. 
+[2023.04.21-13.03.55:684][  6]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-13.03.55:888][  6]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-13.03.55:921][  6]LogStaticMesh: Display: Building static mesh Cactus...
+[2023.04.21-13.03.55:999][  6]LogStaticMesh: Built static mesh [0.08s] /Game/Environment/Cactus.Cactus
+[2023.04.21-13.03.56:022][  6]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: ================================================
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Total job queries 65, among them cache hits 20 (30.77%)
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Tracking 45 distinct input hashes that result in 29 distinct outputs (64.44%)
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.01%
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Shaders Compiled: 35
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Jobs assigned 45, completed 45 (100.00%)
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Average time worker was idle: 2575.20 s
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Time job spent in pending queue: average 0.40 s, longest 2.69 s
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Job execution time: average 5.09 s, max 8.60 s
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Job life time (pending + execution): average 5.49 s, max 8.70
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.89 s
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.88 jobs/batch
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Average processing rate: 2.66 jobs/sec
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Effective parallelization: 2.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.38 sec, max 1.38 sec, min 1.38 sec)
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2023.04.21-13.03.56:131][  7]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.21-13.03.56:132][  7]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.52% of total time (compiled    6 times, average 0.93 sec, max 1.06 sec, min 0.83 sec)
+[2023.04.21-13.03.56:132][  7]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.78% of total time (compiled    6 times, average 0.88 sec, max 1.01 sec, min 0.69 sec)
+[2023.04.21-13.03.56:132][  7]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.78% of total time (compiled    6 times, average 0.88 sec, max 1.04 sec, min 0.71 sec)
+[2023.04.21-13.03.56:132][  7]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.37% of total time (compiled    6 times, average 0.37 sec, max 0.43 sec, min 0.34 sec)
+[2023.04.21-13.03.56:132][  7]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.36% of total time (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2023.04.21-13.03.56:132][  7]LogShaderCompilers: Display: ================================================
+[2023.04.21-13.03.57:625][ 95]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Environment/Cactus.Cactus
+[2023.04.21-13.03.57:631][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.03.58:020][ 95]LogViewport: Scene viewport resized to 2146x1893, mode Windowed.
+[2023.04.21-13.04.22:483][271]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-13.04.22:503][271]LogSlate: Window 'Message Log' being destroyed
+[2023.04.21-13.05.22:708][869]LogEditorFactories: Performing atomic reimport of [D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx]
+[2023.04.21-13.05.22:715][869]LogFbx: Loading FBX Scene from D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx
+[2023.04.21-13.05.22:723][869]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-13.05.22:790][869]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-13.05.22:985][869]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-13.05.23:026][869]LogStaticMesh: Display: Building static mesh Cactus...
+[2023.04.21-13.05.23:142][869]LogStaticMesh: Built static mesh [0.12s] /Game/Environment/Cactus.Cactus
+[2023.04.21-13.05.23:168][869]LogEditorFactories: -- imported successfully
+[2023.04.21-13.05.23:169][869]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-13.05.27:227][149]LogEditorFactories: Performing atomic reimport of [D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx]
+[2023.04.21-13.05.27:235][149]LogFbx: Loading FBX Scene from D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx
+[2023.04.21-13.05.27:245][149]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-13.05.27:326][149]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-13.05.27:512][149]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-13.05.27:557][149]LogStaticMesh: Display: Building static mesh Cactus...
+[2023.04.21-13.05.27:671][149]LogStaticMesh: Built static mesh [0.11s] /Game/Environment/Cactus.Cactus
+[2023.04.21-13.05.27:699][149]LogEditorFactories: -- imported successfully
+[2023.04.21-13.05.27:701][149]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-13.05.33:144][525]LogEditorFactories: Performing atomic reimport of [D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx]
+[2023.04.21-13.05.33:151][525]LogFbx: Loading FBX Scene from D:/GitHub/Survival_Game/Survival_Game/SourceFiles/3D Models/Cactus/Cactus.fbx
+[2023.04.21-13.05.33:159][525]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.21-13.05.33:245][525]LogFbx: Display: Triangulating static mesh Cactus
+[2023.04.21-13.05.33:433][525]LogFbx: Display: Triangulating mesh UCX_Cactus for collision model
+[2023.04.21-13.05.33:474][525]LogStaticMesh: Display: Building static mesh Cactus...
+[2023.04.21-13.05.33:588][525]LogStaticMesh: Built static mesh [0.11s] /Game/Environment/Cactus.Cactus
+[2023.04.21-13.05.33:615][525]LogEditorFactories: -- imported successfully
+[2023.04.21-13.05.33:617][525]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.21-13.05.42:657][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Cactus_Texture" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus_Texture.uasset" SILENT=true
+[2023.04.21-13.05.42:715][ 77]LogSavePackage: Moving output files for package: /Game/Environment/Cactus_Texture
+[2023.04.21-13.05.42:715][ 77]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus_TextureA6298D554328E867C127C89937490D2D.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus_Texture.uasset'
+[2023.04.21-13.05.56:723][ 77]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.04.21-13.05.56:723][ 77]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [11681ms] waiting for h/w. InstanceID=1
+[2023.04.21-13.05.56:723][ 77]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049976s
+[2023.04.21-13.05.56:735][ 77]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000518s (0.063775s overbudget)
+[2023.04.21-13.05.56:762][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Cactus_Material" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus_Material.uasset" SILENT=true
+[2023.04.21-13.05.56:764][ 77]LogSavePackage: Moving output files for package: /Game/Environment/Cactus_Material
+[2023.04.21-13.05.56:764][ 77]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus_Material84DFFD154DD7DE7BBC42398958D9F1A6.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus_Material.uasset'
+[2023.04.21-13.05.56:791][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus.uasset" SILENT=true
+[2023.04.21-13.05.56:810][ 77]LogSavePackage: Moving output files for package: /Game/Environment/Cactus
+[2023.04.21-13.05.56:810][ 77]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus1F26F32948F540BFD34BACA851739393.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus.uasset'
+[2023.04.21-13.05.56:831][ 77]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-13.05.56:831][ 77]LogContentValidation: Display: Validating Texture2D /Game/Environment/Cactus_Texture.Cactus_Texture
+[2023.04.21-13.05.56:831][ 77]LogContentValidation: Display: Validating Material /Game/Environment/Cactus_Material.Cactus_Material
+[2023.04.21-13.05.56:831][ 77]LogContentValidation: Display: Validating StaticMesh /Game/Environment/Cactus.Cactus
+[2023.04.21-13.05.56:843][ 78]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2472
+[2023.04.21-13.05.57:191][ 79]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{eba5f1f7-e64c-4abf-92dc-086d7e1ede4e}, Name=U32J59x (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=22.28
+[2023.04.21-13.05.57:192][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.21-13.05.57:201][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.21-13.06.00:510][155]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Environment/Cactus_Material.Cactus_Material
+[2023.04.21-13.06.00:524][155]LogMaterial: Display: Missing cached shadermap for Preview:Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 979C282383FC7AFACCE2365DD1E106589489416A), compiling. 
+[2023.04.21-13.06.00:610][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.06.00:707][155]LogMaterial: Display: Missing cached shadermap for Preview:Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 7FEC1ED0E5D250B965EC197E21FE1A9C7F4F7906), compiling. 
+[2023.04.21-13.06.00:713][155]LogMaterial: Display: Missing cached shadermap for Preview:Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 6F7B0EDB914472C8E12F8B9854127995392E4E35), compiling. 
+[2023.04.21-13.06.00:716][155]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FB3C9DC570C58A751242E8A7F4166DCF3467B7EC), compiling. 
+[2023.04.21-13.06.00:750][155]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.21-13.06.00:750][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.21-13.06.00:750][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.21-13.06.00:750][155]MaterialEditorStats: Shader Count: 0
+[2023.04.21-13.06.00:754][155]LogViewport: Scene viewport resized to 756x905, mode Windowed.
+[2023.04.21-13.06.00:927][157]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.21-13.06.00:927][157]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.21-13.06.00:928][157]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.21-13.06.00:928][157]MaterialEditorStats: Shader Count: 4
+[2023.04.21-13.06.09:105][561]LogSlate: Window 'Message' being destroyed
+[2023.04.21-13.06.09:111][561]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Environment/Cactus_Material.Cactus_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2023.04.21-13.06.12:318][561]LogMaterial: Display: Missing cached shadermap for Preview:Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: C16CCE48F7660CD0C5D34433ABBA2A04EB57A4AD), compiling. 
+[2023.04.21-13.06.12:328][561]LogMaterial: Display: Missing cached shadermap for Cactus_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 11F3084ADEE1911702283F59803C9FE49FC6794D), compiling. 
+[2023.04.21-13.06.12:404][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.04.21-13.06.12:755][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.04.21-13.06.12:784][561]LogWorld: UWorld::CleanupWorld for World_158, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.06.12:784][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.06.14:132][655]LogWorld: UWorld::CleanupWorld for World_157, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.06.14:132][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.06.16:803][950]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.06.16:803][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.06.16:815][950]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.06.16:815][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.06.18:063][ 83]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.06.18:063][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.06.18:075][ 83]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.06.18:075][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.06.19:743][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.21-13.06.19:743][266]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.06.19:743][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.06.26:725][ 58]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.21-13.06.26:725][ 58]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.06.26:725][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.06.52:589][768]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.21-13.06.53:671][768]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.21-13.06.53:680][768]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.21-13.06.53:687][768]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.21-13.06.53:703][769]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.21-13.06.56:233][946]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Cactus
+[2023.04.21-13.06.56:238][946]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.21-13.06.57:659][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.06.57:660][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.06.58:105][ 37]LogViewport: Scene viewport resized to 2537x1330, mode Windowed.
+[2023.04.21-13.08.15:891][751]BlueprintLog: New page: Compile BP_Cactus
+[2023.04.21-13.08.16:017][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.04.21-13.08.16:366][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.08.16:369][773]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.08.16:369][773]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Cactus0BADE5A84F6E5C34A9979284CE8A107A.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.08.16:383][773]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.08.16:383][773]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.08.18:081][890]Cmd: DELETE
+[2023.04.21-13.08.18:081][890]Cmd: ACTOR DELETE
+[2023.04.21-13.08.18:083][890]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.21-13.08.18:168][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.21-13.08.18:182][890]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2023.04.21-13.08.19:301][956]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/BP_Cactus.BP_Cactus_C
+[2023.04.21-13.08.19:301][956]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/BP_Cactus.BP_Cactus_C
+[2023.04.21-13.08.19:303][956]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/BP_Cactus.BP_Cactus as actor: BP_Cactus_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cactus_C_0
+[2023.04.21-13.08.19:304][956]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/BP_Cactus.BP_Cactus as actor: BP_Cactus_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cactus_C_0
+[2023.04.21-13.08.19:730][980]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/BP_Cactus.BP_Cactus_C
+[2023.04.21-13.08.19:730][980]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/BP_Cactus.BP_Cactus_C
+[2023.04.21-13.08.19:734][980]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/BP_Cactus.BP_Cactus as actor: BP_Cactus_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488
+[2023.04.21-13.08.19:735][980]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/BP_Cactus.BP_Cactus as actor: BP_Cactus_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488
+[2023.04.21-13.08.20:713][ 44]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-13.08.20:722][ 44]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-13.08.20:722][ 44]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-13.08.20:722][ 44]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.08.20:722][ 44]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-13.08.20:722][ 44]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-13.08.20:722][ 44]LogWorldPartition: Display: GetPartitionedActors took 53 us
+[2023.04.21-13.08.20:722][ 44]LogWorldPartition: Display: GenerateStreaming took 324 us
+[2023.04.21-13.08.20:724][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-13.08.20:724][ 44]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 15:08:20)
+[2023.04.21-13.08.20:746][ 44]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.08.20:751][ 44]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-13.08.20:751][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004639s)
+[2023.04.21-13.08.20:751][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004729s)
+[2023.04.21-13.08.20:751][ 44]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.08.20:752][ 44]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-13.08.20:752][ 44]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-13.08.20:752][ 44]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-13.08.20:753][ 44]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-13.08.20:753][ 44]LogPlayLevel: PIE: World Init took: (0.002315s)
+[2023.04.21-13.08.20:798][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.21-13.08.20:805][ 44]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2023.04.21-13.08.20:805][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-13.08.20:805][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-13.08.20:805][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-13.08.20:805][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-13.08.20:805][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-13.08.20:805][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-13.08.20:805][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-13.08.20:805][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-13.08.20:806][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-13.08.20:806][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-13.08.20:806][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-13.08.20:808][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-13.08.20:850][ 44]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-13.08.20:851][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-13.08.20:851][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-13.08.20:851][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-13.08.20:851][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2023.04.21-13.08.20:851][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2023.04.21-13.08.20:853][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2023.04.21-13.08.20:853][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2023.04.21-13.08.20:853][ 44]LogInit: FAudioDevice initialized.
+[2023.04.21-13.08.20:853][ 44]LogAudio: Display: Audio Device (ID: 60) registered with world 'ThirdPersonMap'.
+[2023.04.21-13.08.20:867][ 44]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-13.08.20:869][ 44]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-14.08.20
+[2023.04.21-13.08.20:869][ 44]LogWorld: Bringing up level for play took: 0.001666
+[2023.04.21-13.08.20:871][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2023.04.21-13.08.20:871][ 44]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.08.20:871][ 44]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.08.20:875][ 44]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-13.08.20:875][ 44]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.21-13.08.20:875][ 44]PIE: Server logged in
+[2023.04.21-13.08.20:875][ 44]PIE: Play in editor total start time 0.155 seconds.
+[2023.04.21-13.08.22:551][109]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-13.08.23:053][130]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-13.08.26:927][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.08.26:927][286]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.08.26:927][286]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.08.26:928][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.08.26:948][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-13.08.26:954][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.08.26:998][286]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-13.08.26:999][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2023.04.21-13.08.27:000][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2023.04.21-13.08.27:003][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.08.27:006][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.21-13.08.27:092][287]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2023.04.21-13.08.28:406][381]LogViewport: Scene viewport resized to 2537x1328, mode Windowed.
+[2023.04.21-13.08.39:424][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.08.39:427][582]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.08.39:427][582]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_CactusC4A804C64C44F8BACD1132A0B68E04D1.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.08.39:442][582]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.08.39:442][582]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.08.40:088][642]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-13.08.40:095][642]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-13.08.40:095][642]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-13.08.40:095][642]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.08.40:095][642]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-13.08.40:095][642]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-13.08.40:095][642]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2023.04.21-13.08.40:095][642]LogWorldPartition: Display: GenerateStreaming took 260 us
+[2023.04.21-13.08.40:095][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-13.08.40:095][642]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 15:08:40)
+[2023.04.21-13.08.40:095][642]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.08.40:099][642]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-13.08.40:100][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004416s)
+[2023.04.21-13.08.40:100][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004477s)
+[2023.04.21-13.08.40:100][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.08.40:100][642]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-13.08.40:101][642]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-13.08.40:101][642]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-13.08.40:102][642]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-13.08.40:102][642]LogPlayLevel: PIE: World Init took: (0.002344s)
+[2023.04.21-13.08.40:146][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.21-13.08.40:151][642]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2023.04.21-13.08.40:151][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-13.08.40:151][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-13.08.40:151][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-13.08.40:151][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-13.08.40:151][642]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-13.08.40:151][642]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-13.08.40:151][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-13.08.40:151][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-13.08.40:151][642]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-13.08.40:151][642]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-13.08.40:151][642]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-13.08.40:153][642]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-13.08.40:194][642]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-13.08.40:195][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-13.08.40:195][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-13.08.40:195][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-13.08.40:195][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2023.04.21-13.08.40:195][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2023.04.21-13.08.40:197][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2023.04.21-13.08.40:197][642]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2023.04.21-13.08.40:197][642]LogInit: FAudioDevice initialized.
+[2023.04.21-13.08.40:197][642]LogAudio: Display: Audio Device (ID: 61) registered with world 'ThirdPersonMap'.
+[2023.04.21-13.08.40:247][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.08.40:248][642]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-13.08.40:250][642]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-14.08.40
+[2023.04.21-13.08.40:250][642]LogWorld: Bringing up level for play took: 0.002642
+[2023.04.21-13.08.40:253][642]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2023.04.21-13.08.40:253][642]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.08.40:254][642]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.08.40:256][642]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-13.08.40:256][642]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.21-13.08.40:258][642]PIE: Server logged in
+[2023.04.21-13.08.40:259][642]PIE: Play in editor total start time 0.166 seconds.
+[2023.04.21-13.08.40:297][642]LogViewport: Scene viewport resized to 4092x2040, mode Windowed.
+[2023.04.21-13.08.42:039][697]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-13.08.43:133][747]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-13.08.47:597][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.08.47:597][951]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.08.47:598][951]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-13.08.47:604][951]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.08.47:604][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.08.47:615][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-13.08.47:622][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.08.47:667][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2023.04.21-13.08.47:668][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2023.04.21-13.08.47:674][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.21-13.08.47:758][952]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2023.04.21-13.09.11:440][604]LogUObjectHash: Warning: Ambiguous path search, could be RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.RigVMMemory_Work or RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.RigVMMemory_Work
+[2023.04.21-13.09.11:440][604]LogUObjectHash: Warning: Ambiguous path search, could be RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.RigVMMemory_Literal or RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.RigVMMemory_Literal
+[2023.04.21-13.09.12:756][734]LogUObjectHash: Warning: Ambiguous path search, could be RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.RigVMMemory_Work or RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.RigVMMemory_Work
+[2023.04.21-13.09.12:756][734]LogUObjectHash: Warning: Ambiguous path search, could be RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.RigVMMemory_Literal or RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.RigVMMemory_Literal
+[2023.04.21-13.09.32:236][881]BlueprintLog: New page: Compile BP_Cactus
+[2023.04.21-13.09.32:309][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.04.21-13.09.32:820][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.09.32:824][923]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.09.32:825][923]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Cactus7FA38A3A4C9BF4FCC7BF80B43AEA23F0.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.09.32:840][923]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.09.32:840][923]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.09.34:386][102]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-13.09.34:392][102]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-13.09.34:392][102]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-13.09.34:392][102]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.09.34:392][102]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-13.09.34:392][102]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-13.09.34:392][102]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.04.21-13.09.34:392][102]LogWorldPartition: Display: GenerateStreaming took 263 us
+[2023.04.21-13.09.34:393][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-13.09.34:393][102]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 15:09:34)
+[2023.04.21-13.09.34:393][102]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.09.34:397][102]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-13.09.34:397][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004209s)
+[2023.04.21-13.09.34:397][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004261s)
+[2023.04.21-13.09.34:397][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.09.34:397][102]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-13.09.34:398][102]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-13.09.34:398][102]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-13.09.34:399][102]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-13.09.34:399][102]LogPlayLevel: PIE: World Init took: (0.002083s)
+[2023.04.21-13.09.34:442][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.21-13.09.34:444][102]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2023.04.21-13.09.34:444][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-13.09.34:444][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-13.09.34:444][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-13.09.34:445][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-13.09.34:445][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-13.09.34:445][102]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-13.09.34:445][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-13.09.34:445][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-13.09.34:445][102]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-13.09.34:445][102]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-13.09.34:445][102]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-13.09.34:447][102]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-13.09.34:488][102]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-13.09.34:489][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-13.09.34:489][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-13.09.34:489][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-13.09.34:489][102]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2023.04.21-13.09.34:489][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2023.04.21-13.09.34:491][102]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2023.04.21-13.09.34:491][102]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2023.04.21-13.09.34:491][102]LogInit: FAudioDevice initialized.
+[2023.04.21-13.09.34:491][102]LogAudio: Display: Audio Device (ID: 62) registered with world 'ThirdPersonMap'.
+[2023.04.21-13.09.34:549][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.09.34:549][102]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-13.09.34:553][102]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-14.09.34
+[2023.04.21-13.09.34:553][102]LogWorld: Bringing up level for play took: 0.003547
+[2023.04.21-13.09.34:555][102]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2023.04.21-13.09.34:556][102]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.09.34:556][102]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.09.34:560][102]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-13.09.34:560][102]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.09.34:561][102]PIE: Server logged in
+[2023.04.21-13.09.34:562][102]PIE: Play in editor total start time 0.171 seconds.
+[2023.04.21-13.09.34:571][102]LogViewport: Scene viewport resized to 4095x2040, mode Windowed.
+[2023.04.21-13.09.36:011][162]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-13.09.36:258][174]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-13.09.39:697][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.09.39:697][331]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.09.39:699][331]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-13.09.39:706][331]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.09.39:706][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.09.39:720][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-13.09.39:727][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.09.39:774][331]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-13.09.39:774][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2023.04.21-13.09.39:775][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2023.04.21-13.09.39:782][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.21-13.09.39:816][332]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2023.04.21-13.10.08:952][663]BlueprintLog: New page: Compile BP_Cactus
+[2023.04.21-13.10.09:022][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.04.21-13.10.09:376][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.10.09:380][687]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.10.09:381][687]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Cactus9292DAC049EC0BB0E9E186A520B2BC61.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.10.09:397][687]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.10.09:397][687]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.10.10:161][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-13.10.10:168][772]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-13.10.10:168][772]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-13.10.10:168][772]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.10.10:168][772]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-13.10.10:168][772]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-13.10.10:168][772]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2023.04.21-13.10.10:168][772]LogWorldPartition: Display: GenerateStreaming took 293 us
+[2023.04.21-13.10.10:168][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-13.10.10:169][772]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 15:10:10)
+[2023.04.21-13.10.10:169][772]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.10.10:173][772]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-13.10.10:173][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004597s)
+[2023.04.21-13.10.10:173][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004652s)
+[2023.04.21-13.10.10:173][772]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.10.10:174][772]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-13.10.10:174][772]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-13.10.10:174][772]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-13.10.10:175][772]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-13.10.10:175][772]LogPlayLevel: PIE: World Init took: (0.002011s)
+[2023.04.21-13.10.10:217][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.04.21-13.10.10:220][772]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2023.04.21-13.10.10:220][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-13.10.10:220][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-13.10.10:220][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-13.10.10:221][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-13.10.10:221][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-13.10.10:221][772]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-13.10.10:221][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-13.10.10:221][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-13.10.10:221][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-13.10.10:221][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-13.10.10:221][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-13.10.10:223][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-13.10.10:263][772]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-13.10.10:263][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-13.10.10:263][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-13.10.10:264][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-13.10.10:264][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2023.04.21-13.10.10:264][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2023.04.21-13.10.10:266][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2023.04.21-13.10.10:266][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2023.04.21-13.10.10:266][772]LogInit: FAudioDevice initialized.
+[2023.04.21-13.10.10:266][772]LogAudio: Display: Audio Device (ID: 63) registered with world 'ThirdPersonMap'.
+[2023.04.21-13.10.10:334][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.10.10:334][772]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-13.10.10:337][772]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-14.10.10
+[2023.04.21-13.10.10:337][772]LogWorld: Bringing up level for play took: 0.002678
+[2023.04.21-13.10.10:339][772]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2023.04.21-13.10.10:340][772]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.21-13.10.10:340][772]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.10.10:343][772]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-13.10.10:343][772]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.21-13.10.10:345][772]PIE: Server logged in
+[2023.04.21-13.10.10:346][772]PIE: Play in editor total start time 0.18 seconds.
+[2023.04.21-13.10.10:356][772]LogViewport: Scene viewport resized to 4098x2040, mode Windowed.
+[2023.04.21-13.10.11:492][815]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-13.10.11:659][823]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-13.10.15:058][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.10.15:058][980]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.10.15:059][980]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-13.10.15:064][980]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.10.15:064][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.10.15:086][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-13.10.15:093][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.10.15:138][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-13.10.15:139][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2023.04.21-13.10.15:140][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2023.04.21-13.10.15:146][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.21-13.10.15:182][981]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2023.04.21-13.10.29:078][559]BlueprintLog: New page: Compile BP_Cactus
+[2023.04.21-13.10.29:149][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.21-13.10.29:481][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.10.29:487][580]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.10.29:487][580]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Cactus77823D874449277A913635A0004138BB.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.10.29:502][580]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.10.29:502][580]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.10.30:198][653]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-13.10.30:205][653]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-13.10.30:205][653]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-13.10.30:205][653]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.10.30:205][653]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-13.10.30:205][653]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-13.10.30:205][653]LogWorldPartition: Display: GetPartitionedActors took 77 us
+[2023.04.21-13.10.30:205][653]LogWorldPartition: Display: GenerateStreaming took 313 us
+[2023.04.21-13.10.30:205][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-13.10.30:205][653]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 15:10:30)
+[2023.04.21-13.10.30:205][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.10.30:210][653]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-13.10.30:210][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004545s)
+[2023.04.21-13.10.30:210][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004601s)
+[2023.04.21-13.10.30:210][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.10.30:211][653]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-13.10.30:211][653]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-13.10.30:211][653]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-13.10.30:212][653]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-13.10.30:212][653]LogPlayLevel: PIE: World Init took: (0.002110s)
+[2023.04.21-13.10.30:255][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.21-13.10.30:258][653]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2023.04.21-13.10.30:258][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-13.10.30:258][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-13.10.30:258][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-13.10.30:258][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-13.10.30:258][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-13.10.30:258][653]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-13.10.30:258][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-13.10.30:258][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-13.10.30:258][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-13.10.30:258][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-13.10.30:258][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-13.10.30:260][653]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-13.10.30:300][653]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-13.10.30:301][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-13.10.30:301][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-13.10.30:301][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-13.10.30:301][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2023.04.21-13.10.30:301][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2023.04.21-13.10.30:303][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2023.04.21-13.10.30:303][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2023.04.21-13.10.30:303][653]LogInit: FAudioDevice initialized.
+[2023.04.21-13.10.30:303][653]LogAudio: Display: Audio Device (ID: 64) registered with world 'ThirdPersonMap'.
+[2023.04.21-13.10.30:364][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.10.30:364][653]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-13.10.30:367][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-14.10.30
+[2023.04.21-13.10.30:367][653]LogWorld: Bringing up level for play took: 0.002815
+[2023.04.21-13.10.30:370][653]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2023.04.21-13.10.30:371][653]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.10.30:371][653]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.10.30:374][653]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-13.10.30:374][653]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.10.30:375][653]PIE: Server logged in
+[2023.04.21-13.10.30:376][653]PIE: Play in editor total start time 0.173 seconds.
+[2023.04.21-13.10.30:386][653]LogViewport: Scene viewport resized to 4101x2040, mode Windowed.
+[2023.04.21-13.10.31:460][697]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-13.10.31:712][709]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-13.10.35:568][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.10.35:568][887]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.10.35:569][887]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-13.10.35:577][887]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.10.35:578][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.10.35:596][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-13.10.35:604][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.10.35:649][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2023.04.21-13.10.35:650][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2023.04.21-13.10.35:659][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.21-13.10.35:714][888]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2023.04.21-13.10.51:975][623]BlueprintLog: New page: Compile BP_Cactus
+[2023.04.21-13.10.52:049][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.21-13.10.52:406][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.10.52:411][641]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.10.52:411][641]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Cactus2B8FF066403C00F1A88D19B67778DDBA.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.10.52:427][641]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.10.52:427][641]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.10.53:114][718]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-13.10.53:121][718]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-13.10.53:121][718]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-13.10.53:121][718]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.10.53:121][718]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-13.10.53:121][718]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-13.10.53:121][718]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2023.04.21-13.10.53:121][718]LogWorldPartition: Display: GenerateStreaming took 285 us
+[2023.04.21-13.10.53:121][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-13.10.53:121][718]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 15:10:53)
+[2023.04.21-13.10.53:122][718]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.10.53:126][718]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-13.10.53:126][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004221s)
+[2023.04.21-13.10.53:126][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004277s)
+[2023.04.21-13.10.53:126][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.10.53:126][718]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-13.10.53:127][718]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-13.10.53:127][718]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-13.10.53:128][718]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-13.10.53:128][718]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2023.04.21-13.10.53:170][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.21-13.10.53:174][718]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2023.04.21-13.10.53:174][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-13.10.53:174][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-13.10.53:174][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-13.10.53:174][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-13.10.53:174][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-13.10.53:174][718]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-13.10.53:174][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-13.10.53:174][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-13.10.53:175][718]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-13.10.53:175][718]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-13.10.53:175][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-13.10.53:177][718]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-13.10.53:216][718]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-13.10.53:217][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-13.10.53:217][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-13.10.53:217][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-13.10.53:218][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2023.04.21-13.10.53:218][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2023.04.21-13.10.53:219][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2023.04.21-13.10.53:219][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2023.04.21-13.10.53:219][718]LogInit: FAudioDevice initialized.
+[2023.04.21-13.10.53:219][718]LogAudio: Display: Audio Device (ID: 65) registered with world 'ThirdPersonMap'.
+[2023.04.21-13.10.53:285][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.10.53:285][718]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-13.10.53:288][718]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-14.10.53
+[2023.04.21-13.10.53:288][718]LogWorld: Bringing up level for play took: 0.002610
+[2023.04.21-13.10.53:290][718]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2023.04.21-13.10.53:291][718]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.10.53:291][718]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.10.53:304][718]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-13.10.53:304][718]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.10.53:305][718]PIE: Server logged in
+[2023.04.21-13.10.53:307][718]PIE: Play in editor total start time 0.187 seconds.
+[2023.04.21-13.10.53:319][718]LogViewport: Scene viewport resized to 4104x2040, mode Windowed.
+[2023.04.21-13.10.54:674][770]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-13.10.54:926][782]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-13.10.55:974][829]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus
+[2023.04.21-13.10.57:762][913]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus
+[2023.04.21-13.10.58:990][970]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus
+[2023.04.21-13.10.59:798][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.10.59:798][  5]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.10.59:799][  5]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-13.10.59:805][  5]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.10.59:806][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.10.59:826][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-13.10.59:832][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.10.59:877][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-13.10.59:877][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2023.04.21-13.10.59:879][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2023.04.21-13.10.59:885][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.21-13.10.59:948][  6]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2023.04.21-13.11.06:121][641]BlueprintLog: New page: Compile BP_Cactus
+[2023.04.21-13.11.06:195][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.21-13.11.06:565][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.11.06:570][662]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.11.06:570][662]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Cactus86FAA1C54CC5F5E72724F98AA0389F5D.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.11.06:586][662]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.11.06:586][662]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.11.07:209][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-13.11.07:216][732]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-13.11.07:216][732]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-13.11.07:216][732]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.11.07:216][732]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-13.11.07:216][732]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-13.11.07:216][732]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2023.04.21-13.11.07:216][732]LogWorldPartition: Display: GenerateStreaming took 258 us
+[2023.04.21-13.11.07:216][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-13.11.07:216][732]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 15:11:07)
+[2023.04.21-13.11.07:216][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.11.07:222][732]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-13.11.07:222][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005276s)
+[2023.04.21-13.11.07:222][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005333s)
+[2023.04.21-13.11.07:222][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.11.07:222][732]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-13.11.07:223][732]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-13.11.07:223][732]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-13.11.07:224][732]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-13.11.07:224][732]LogPlayLevel: PIE: World Init took: (0.002056s)
+[2023.04.21-13.11.07:265][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.21-13.11.07:270][732]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2023.04.21-13.11.07:270][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-13.11.07:270][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-13.11.07:270][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-13.11.07:270][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-13.11.07:270][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-13.11.07:270][732]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-13.11.07:270][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-13.11.07:270][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-13.11.07:270][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-13.11.07:270][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-13.11.07:270][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-13.11.07:272][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-13.11.07:313][732]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-13.11.07:314][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-13.11.07:314][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-13.11.07:314][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-13.11.07:314][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2023.04.21-13.11.07:314][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2023.04.21-13.11.07:316][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2023.04.21-13.11.07:316][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2023.04.21-13.11.07:316][732]LogInit: FAudioDevice initialized.
+[2023.04.21-13.11.07:316][732]LogAudio: Display: Audio Device (ID: 66) registered with world 'ThirdPersonMap'.
+[2023.04.21-13.11.07:389][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.11.07:390][732]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-13.11.07:392][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-14.11.07
+[2023.04.21-13.11.07:392][732]LogWorld: Bringing up level for play took: 0.002700
+[2023.04.21-13.11.07:394][732]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2023.04.21-13.11.07:395][732]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.11.07:395][732]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.11.07:414][732]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-13.11.07:414][732]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.11.07:416][732]PIE: Server logged in
+[2023.04.21-13.11.07:418][732]PIE: Play in editor total start time 0.203 seconds.
+[2023.04.21-13.11.07:429][732]LogViewport: Scene viewport resized to 4107x2040, mode Windowed.
+[2023.04.21-13.11.08:799][790]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-13.11.08:921][796]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-13.11.09:977][844]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus
+[2023.04.21-13.11.11:440][912]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus
+[2023.04.21-13.11.12:382][956]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus
+[2023.04.21-13.11.13:679][ 17]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus
+[2023.04.21-13.11.15:308][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.11.15:308][ 92]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.11.15:309][ 92]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-13.11.15:315][ 92]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.11.15:315][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.11.15:333][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-13.11.15:339][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.11.15:383][ 92]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-13.11.15:384][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2023.04.21-13.11.15:385][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2023.04.21-13.11.15:392][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.21-13.11.15:460][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2023.04.21-13.11.25:076][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.21-13.11.25:200][204]LogWorldPartition: Warning: Actor /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_001A7DDA7113407B01_2025297311 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/ThirdPersonMap/2/ZD/C7DP20WMTZJ0ZWBQYMEBBB.PackageMetaData in its package
+[2023.04.21-13.11.25:203][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.21-13.11.25:249][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.21-13.11.25:294][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.21-13.11.25:297][204]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/9/0E/YAGCMVPNZ0YUDHPDFB26QO
+[2023.04.21-13.11.25:298][204]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/YAGCMVPNZ0YUDHPDFB26QO7FD3DAE149F2703DAC3FD583A590E436.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/ThirdPersonMap/9/0E/YAGCMVPNZ0YUDHPDFB26QO.uasset'
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: ================================================
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Total job queries 123, among them cache hits 64 (52.03%)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Tracking 59 distinct input hashes that result in 38 distinct outputs (64.41%)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: RAM used: 0.10 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.01%
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Shaders Compiled: 49
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Jobs assigned 59, completed 59 (100.00%)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Average time worker was idle: 1558.77 s
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Time job spent in pending queue: average 0.53 s, longest 2.69 s
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Job execution time: average 4.86 s, max 12.09 s
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Job life time (pending + execution): average 5.39 s, max 13.99
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.99 s
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.55 jobs/batch
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Average processing rate: 1.84 jobs/sec
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.27 sec, max 1.81 sec, min 0.74 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.15 sec, max 1.38 sec, min 0.92 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.28% of total time (compiled    7 times, average 0.93 sec, max 1.06 sec, min 0.83 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.48% of total time (compiled    7 times, average 0.87 sec, max 1.04 sec, min 0.71 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.01% of total time (compiled    6 times, average 0.88 sec, max 1.01 sec, min 0.69 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.81% of total time (compiled    2 times, average 1.27 sec, max 1.81 sec, min 0.74 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.33% of total time (compiled    2 times, average 1.15 sec, max 1.38 sec, min 0.92 sec)
+[2023.04.21-13.11.25:336][204]LogShaderCompilers: Display: ================================================
+[2023.04.21-13.11.25:374][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Cactus_Material" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus_Material.uasset" SILENT=true
+[2023.04.21-13.11.25:377][204]LogSavePackage: Moving output files for package: /Game/Environment/Cactus_Material
+[2023.04.21-13.11.25:377][204]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Cactus_MaterialBAFABAD64F21322839D8B0AFF545AD0C.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus_Material.uasset'
+[2023.04.21-13.11.25:387][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.11.25:391][204]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.11.25:392][204]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_CactusD222BE92406CDDFE5115C1952B862BE2.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.11.25:407][204]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-13.11.25:408][204]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488
+[2023.04.21-13.11.25:408][204]LogContentValidation: Display: Validating Material /Game/Environment/Cactus_Material.Cactus_Material
+[2023.04.21-13.11.25:408][204]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.11.25:453][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.21-13.11.26:119][279]BlueprintLog: New page: Compile BP_Cactus
+[2023.04.21-13.11.26:191][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.21-13.11.26:619][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.11.26:623][313]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.11.26:623][313]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_CactusD010864D4FBAE661CB4C999BD3079BE7.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.11.26:641][313]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.11.26:641][313]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.11.54:565][423]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.21-13.11.56:262][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.21-13.11.56:328][601]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/9/0E/YAGCMVPNZ0YUDHPDFB26QO
+[2023.04.21-13.11.56:329][601]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/YAGCMVPNZ0YUDHPDFB26QOD9CA9C57425379A9E0385884787C1E7A.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/ThirdPersonMap/9/0E/YAGCMVPNZ0YUDHPDFB26QO.uasset'
+[2023.04.21-13.11.56:375][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.11.56:379][601]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.11.56:380][601]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_CactusBF15BE6F4DF2888C637496972305E3FE.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.11.56:395][601]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-13.11.56:395][601]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488
+[2023.04.21-13.11.56:395][601]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.12.05:645][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.21-13.12.05:756][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.12.05:761][668]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.12.05:761][668]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Cactus661CE0854B8E037B299444BD86369C87.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.12.05:776][668]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.12.05:776][668]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.12.06:675][762]BlueprintLog: New page: Compile BP_Cactus
+[2023.04.21-13.12.06:745][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.21-13.12.07:109][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset" SILENT=true
+[2023.04.21-13.12.07:114][785]LogSavePackage: Moving output files for package: /Game/Environment/BP_Cactus
+[2023.04.21-13.12.07:114][785]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Cactus112729BF4302EE65BF391896E2B06C0C.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/BP_Cactus.uasset'
+[2023.04.21-13.12.07:131][785]AssetCheck: New page: Asset Save: BP_Cactus
+[2023.04.21-13.12.07:131][785]LogContentValidation: Display: Validating Blueprint /Game/Environment/BP_Cactus.BP_Cactus
+[2023.04.21-13.12.07:853][872]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-13.12.07:859][872]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-13.12.07:859][872]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-13.12.07:859][872]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.12.07:859][872]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-13.12.07:859][872]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-13.12.07:859][872]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2023.04.21-13.12.07:859][872]LogWorldPartition: Display: GenerateStreaming took 259 us
+[2023.04.21-13.12.07:860][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-13.12.07:860][872]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 15:12:07)
+[2023.04.21-13.12.07:860][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.12.07:864][872]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-13.12.07:864][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004230s)
+[2023.04.21-13.12.07:864][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004285s)
+[2023.04.21-13.12.07:864][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-13.12.07:864][872]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-13.12.07:865][872]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-13.12.07:865][872]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-13.12.07:866][872]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-13.12.07:866][872]LogPlayLevel: PIE: World Init took: (0.001975s)
+[2023.04.21-13.12.07:909][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.21-13.12.07:912][872]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2023.04.21-13.12.07:912][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-13.12.07:912][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-13.12.07:912][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-13.12.07:912][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-13.12.07:912][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-13.12.07:912][872]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-13.12.07:912][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-13.12.07:912][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-13.12.07:913][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-13.12.07:913][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-13.12.07:913][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-13.12.07:914][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-13.12.07:955][872]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-13.12.07:955][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-13.12.07:955][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-13.12.07:955][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-13.12.07:956][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2023.04.21-13.12.07:956][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2023.04.21-13.12.07:957][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2023.04.21-13.12.07:957][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2023.04.21-13.12.07:957][872]LogInit: FAudioDevice initialized.
+[2023.04.21-13.12.07:957][872]LogAudio: Display: Audio Device (ID: 67) registered with world 'ThirdPersonMap'.
+[2023.04.21-13.12.08:017][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.12.08:018][872]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-13.12.08:021][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-14.12.08
+[2023.04.21-13.12.08:022][872]LogWorld: Bringing up level for play took: 0.003896
+[2023.04.21-13.12.08:024][872]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2023.04.21-13.12.08:025][872]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.12.08:025][872]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-13.12.08:028][872]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-13.12.08:028][872]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-13.12.08:029][872]PIE: Server logged in
+[2023.04.21-13.12.08:030][872]PIE: Play in editor total start time 0.172 seconds.
+[2023.04.21-13.12.08:040][872]LogViewport: Scene viewport resized to 4110x2040, mode Windowed.
+[2023.04.21-13.12.09:369][925]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-13.12.09:493][931]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-13.12.11:394][ 19]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus, ouch!
+[2023.04.21-13.12.13:170][103]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus, ouch!
+[2023.04.21-13.12.14:677][174]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus, ouch!
+[2023.04.21-13.12.15:548][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-13.12.15:548][214]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-13.12.15:549][214]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-13.12.15:555][214]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-13.12.15:556][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.12.15:572][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-13.12.15:580][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-13.12.15:626][214]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-13.12.15:626][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2023.04.21-13.12.15:627][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2023.04.21-13.12.15:633][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.21-13.12.15:676][215]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2023.04.21-13.12.16:544][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.21-13.12.16:593][309]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/9/0E/YAGCMVPNZ0YUDHPDFB26QO
+[2023.04.21-13.12.16:594][309]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/YAGCMVPNZ0YUDHPDFB26QO7DF3C8024229C7DD298FE3B515536C82.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/ThirdPersonMap/9/0E/YAGCMVPNZ0YUDHPDFB26QO.uasset'
+[2023.04.21-13.12.16:609][309]AssetCheck: New page: Asset Save: BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488
+[2023.04.21-13.12.16:609][309]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488
