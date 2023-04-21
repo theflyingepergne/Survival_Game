@@ -3518,3 +3518,545 @@ Script Stack (0 frames):
 [2023.04.21-10.32.17:394][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
 [2023.04.21-10.32.17:400][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2023.04.21-10.32.17:425][603]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.04.21-10.33.10:203][816]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Core/W_HUD.W_HUD
+[2023.04.21-10.33.10:203][816]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.33.10:221][816]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.33.10:612][816]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.21-10.33.10:612][816]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.21-10.33.12:654][ 44]LogSlate: Took 0.043172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.21-10.33.30:881][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.21-10.33.30:934][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/W_HUD" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/W_HUD.uasset" SILENT=true
+[2023.04.21-10.33.30:939][174]LogSavePackage: Moving output files for package: /Game/Core/W_HUD
+[2023.04.21-10.33.30:939][174]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/W_HUD6E0F5A944F528749A950ECB15BF89DEE.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/W_HUD.uasset'
+[2023.04.21-10.33.30:954][174]AssetCheck: New page: Asset Save: W_HUD
+[2023.04.21-10.33.30:954][174]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/W_HUD.W_HUD
+[2023.04.21-10.33.34:120][540]BlueprintLog: New page: Compile W_HUD
+[2023.04.21-10.33.34:225][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.21-10.33.42:021][392]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-10.33.42:022][392]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-10.33.42:874][479]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-10.33.42:874][479]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-10.33.43:308][501]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-10.33.43:308][501]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-10.33.43:450][513]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-10.33.43:450][513]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.21-10.33.55:509][922]LogSlate: Window 'Reference Viewer' being destroyed
+[2023.04.21-10.33.55:515][922]LogSlate: Window 'Reference Viewer' being destroyed
+[2023.04.21-10.33.57:522][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/SurvivalGame_HUD.SurvivalGame_HUD
+[2023.04.21-10.33.57:523][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.34.15:965][314]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-10.34.15:972][314]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-10.34.15:973][314]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-10.34.15:973][314]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.34.15:973][314]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-10.34.15:973][314]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-10.34.15:973][314]LogWorldPartition: Display: GetPartitionedActors took 76 us
+[2023.04.21-10.34.15:973][314]LogWorldPartition: Display: GenerateStreaming took 395 us
+[2023.04.21-10.34.15:973][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-10.34.15:973][314]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 12:34:15)
+[2023.04.21-10.34.15:973][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.34.15:978][314]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-10.34.15:978][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004541s)
+[2023.04.21-10.34.15:978][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004606s)
+[2023.04.21-10.34.15:978][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.34.15:978][314]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-10.34.15:979][314]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-10.34.15:979][314]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-10.34.15:980][314]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-10.34.15:980][314]LogPlayLevel: PIE: World Init took: (0.002152s)
+[2023.04.21-10.34.16:063][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.21-10.34.16:064][314]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.04.21-10.34.16:064][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-10.34.16:064][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-10.34.16:064][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-10.34.16:064][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-10.34.16:064][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-10.34.16:064][314]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-10.34.16:064][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-10.34.16:064][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-10.34.16:064][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-10.34.16:064][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-10.34.16:064][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-10.34.16:092][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-10.34.16:135][314]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-10.34.16:135][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-10.34.16:135][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-10.34.16:135][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-10.34.16:136][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.04.21-10.34.16:136][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.04.21-10.34.16:137][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.04.21-10.34.16:137][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.04.21-10.34.16:137][314]LogInit: FAudioDevice initialized.
+[2023.04.21-10.34.16:137][314]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2023.04.21-10.34.16:205][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.34.16:205][314]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-10.34.16:208][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-11.34.16
+[2023.04.21-10.34.16:208][314]LogWorld: Bringing up level for play took: 0.002610
+[2023.04.21-10.34.16:210][314]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.04.21-10.34.16:211][314]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-10.34.16:211][314]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.34.16:214][314]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-10.34.16:214][314]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-10.34.16:215][314]PIE: Server logged in
+[2023.04.21-10.34.16:216][314]PIE: Play in editor total start time 0.245 seconds.
+[2023.04.21-10.34.16:222][314]LogViewport: Scene viewport resized to 4008x2040, mode Windowed.
+[2023.04.21-10.34.24:322][701]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-10.34.25:290][748]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-10.34.28:107][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.34.28:107][880]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.34.28:107][880]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-10.34.28:113][880]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-10.34.28:114][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.34.28:125][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-10.34.28:133][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.34.28:217][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.04.21-10.34.28:218][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.04.21-10.34.28:225][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.21-10.34.28:240][881]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.04.21-10.34.52:633][720]BlueprintLog: New page: Compile SurvivalGame_HUD
+[2023.04.21-10.34.52:743][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.21-10.34.52:999][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/SurvivalGame_HUD" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/SurvivalGame_HUD.uasset" SILENT=true
+[2023.04.21-10.34.53:002][735]LogSavePackage: Moving output files for package: /Game/Core/SurvivalGame_HUD
+[2023.04.21-10.34.53:003][735]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/SurvivalGame_HUDF694FA714B7F3B431C6C68BBF96DFB2F.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/SurvivalGame_HUD.uasset'
+[2023.04.21-10.34.53:019][735]AssetCheck: New page: Asset Save: SurvivalGame_HUD
+[2023.04.21-10.34.53:019][735]LogContentValidation: Display: Validating Blueprint /Game/Core/SurvivalGame_HUD.SurvivalGame_HUD
+[2023.04.21-10.34.53:942][844]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-10.34.53:949][844]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-10.34.53:949][844]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-10.34.53:949][844]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.34.53:949][844]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-10.34.53:949][844]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-10.34.53:949][844]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.04.21-10.34.53:949][844]LogWorldPartition: Display: GenerateStreaming took 250 us
+[2023.04.21-10.34.53:950][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-10.34.53:950][844]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 12:34:53)
+[2023.04.21-10.34.53:950][844]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.34.53:954][844]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-10.34.53:954][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003908s)
+[2023.04.21-10.34.53:954][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003957s)
+[2023.04.21-10.34.53:954][844]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.34.53:954][844]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-10.34.53:955][844]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-10.34.53:955][844]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-10.34.53:956][844]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-10.34.53:956][844]LogPlayLevel: PIE: World Init took: (0.002040s)
+[2023.04.21-10.34.54:035][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.21-10.34.54:036][844]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.04.21-10.34.54:036][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-10.34.54:036][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-10.34.54:036][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-10.34.54:036][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-10.34.54:036][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-10.34.54:036][844]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-10.34.54:036][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-10.34.54:036][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-10.34.54:037][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-10.34.54:037][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-10.34.54:037][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-10.34.54:039][844]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-10.34.54:080][844]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-10.34.54:080][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-10.34.54:081][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-10.34.54:081][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-10.34.54:081][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.04.21-10.34.54:081][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.04.21-10.34.54:083][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.04.21-10.34.54:083][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.04.21-10.34.54:083][844]LogInit: FAudioDevice initialized.
+[2023.04.21-10.34.54:083][844]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonMap'.
+[2023.04.21-10.34.54:136][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.34.54:136][844]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-10.34.54:138][844]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-11.34.54
+[2023.04.21-10.34.54:138][844]LogWorld: Bringing up level for play took: 0.002319
+[2023.04.21-10.34.54:141][844]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.04.21-10.34.54:142][844]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.21-10.34.54:142][844]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.34.54:146][844]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-10.34.54:146][844]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.21-10.34.54:147][844]PIE: Server logged in
+[2023.04.21-10.34.54:148][844]PIE: Play in editor total start time 0.2 seconds.
+[2023.04.21-10.34.54:155][844]LogViewport: Scene viewport resized to 4011x2040, mode Windowed.
+[2023.04.21-10.34.56:141][934]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-10.34.56:719][962]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-10.34.58:027][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.34.58:027][ 22]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.34.58:028][ 22]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-10.34.58:035][ 22]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-10.34.58:035][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.34.58:046][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-10.34.58:052][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.34.58:135][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.04.21-10.34.58:136][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.04.21-10.34.58:143][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.21-10.34.58:159][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.04.21-10.35.01:241][387]BlueprintLog: New page: Compile SurvivalGame_HUD
+[2023.04.21-10.35.01:352][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.21-10.35.01:597][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/SurvivalGame_HUD" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/SurvivalGame_HUD.uasset" SILENT=true
+[2023.04.21-10.35.01:599][404]LogSavePackage: Moving output files for package: /Game/Core/SurvivalGame_HUD
+[2023.04.21-10.35.01:599][404]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/SurvivalGame_HUD119693074AFA0630467EB5845E0578C7.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/SurvivalGame_HUD.uasset'
+[2023.04.21-10.35.01:615][404]AssetCheck: New page: Asset Save: SurvivalGame_HUD
+[2023.04.21-10.35.01:615][404]LogContentValidation: Display: Validating Blueprint /Game/Core/SurvivalGame_HUD.SurvivalGame_HUD
+[2023.04.21-10.35.03:649][643]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-10.35.03:649][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.35.16:493][139]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.21-10.35.16:493][139]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.21-10.36.15:034][909]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.21-10.36.15:156][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.21-10.36.15:415][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.21-10.36.15:438][924]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.21-10.36.15:438][924]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameModeB25B74FA4CB094CF035BF295B91247D4.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.21-10.36.15:455][924]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.21-10.36.15:455][924]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.21-10.36.16:793][ 73]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-10.36.16:800][ 73]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-10.36.16:800][ 73]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-10.36.16:800][ 73]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.36.16:800][ 73]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-10.36.16:800][ 73]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-10.36.16:800][ 73]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2023.04.21-10.36.16:800][ 73]LogWorldPartition: Display: GenerateStreaming took 260 us
+[2023.04.21-10.36.16:801][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-10.36.16:801][ 73]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 12:36:16)
+[2023.04.21-10.36.16:801][ 73]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.36.16:806][ 73]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-10.36.16:806][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005670s)
+[2023.04.21-10.36.16:806][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005739s)
+[2023.04.21-10.36.16:807][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.36.16:807][ 73]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-10.36.16:808][ 73]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-10.36.16:808][ 73]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-10.36.16:809][ 73]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-10.36.16:809][ 73]LogPlayLevel: PIE: World Init took: (0.002709s)
+[2023.04.21-10.36.16:885][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.04.21-10.36.16:887][ 73]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.04.21-10.36.16:887][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-10.36.16:887][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-10.36.16:887][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-10.36.16:887][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-10.36.16:887][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-10.36.16:887][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-10.36.16:887][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-10.36.16:887][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-10.36.16:887][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-10.36.16:887][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-10.36.16:887][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-10.36.16:889][ 73]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-10.36.16:932][ 73]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-10.36.16:932][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-10.36.16:932][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-10.36.16:932][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-10.36.16:933][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.04.21-10.36.16:933][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.04.21-10.36.16:934][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.04.21-10.36.16:934][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.04.21-10.36.16:934][ 73]LogInit: FAudioDevice initialized.
+[2023.04.21-10.36.16:934][ 73]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonMap'.
+[2023.04.21-10.36.16:990][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.36.16:991][ 73]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-10.36.16:993][ 73]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-11.36.16
+[2023.04.21-10.36.16:993][ 73]LogWorld: Bringing up level for play took: 0.002531
+[2023.04.21-10.36.16:995][ 73]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2023.04.21-10.36.16:996][ 73]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-10.36.16:996][ 73]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.36.16:999][ 73]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-10.36.16:999][ 73]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-10.36.17:001][ 73]PIE: Server logged in
+[2023.04.21-10.36.17:003][ 73]PIE: Play in editor total start time 0.203 seconds.
+[2023.04.21-10.36.17:012][ 73]LogViewport: Scene viewport resized to 4014x2040, mode Windowed.
+[2023.04.21-10.36.19:303][174]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-10.36.19:943][205]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-10.36.23:157][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.36.23:157][355]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.36.23:158][355]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-10.36.23:164][355]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-10.36.23:164][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.36.23:175][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-10.36.23:183][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.36.23:259][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.04.21-10.36.23:261][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.04.21-10.36.23:267][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.21-10.36.23:283][356]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.04.21-10.36.27:233][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.21-10.36.27:299][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.21-10.36.27:322][807]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.21-10.36.27:323][807]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode90FDF3734C9261588D026A9D0E5C47C8.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.21-10.36.27:329][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/W_HUD" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/W_HUD.uasset" SILENT=true
+[2023.04.21-10.36.27:333][807]LogSavePackage: Moving output files for package: /Game/Core/W_HUD
+[2023.04.21-10.36.27:334][807]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/W_HUD40DE91CF430987F728173296FC3BE182.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/W_HUD.uasset'
+[2023.04.21-10.36.27:349][807]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-10.36.27:349][807]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/W_HUD.W_HUD
+[2023.04.21-10.36.27:349][807]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.21-10.36.35:942][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.04.21-10.36.35:997][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.21-10.36.36:020][807]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.21-10.36.36:021][807]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode8DE001E848981D8F535B188F710BABD8.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.21-10.36.36:036][807]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.21-10.36.36:036][807]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.21-10.36.40:125][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.04.21-10.36.43:984][281]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.21-10.36.46:497][568]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/SurvivalGame_HUD.SurvivalGame_HUD
+[2023.04.21-10.36.46:498][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.36.51:487][ 92]BlueprintLog: New page: Compile SurvivalGame_HUD
+[2023.04.21-10.36.51:596][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.21-10.36.51:900][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/SurvivalGame_HUD" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/SurvivalGame_HUD.uasset" SILENT=true
+[2023.04.21-10.36.51:901][115]LogSavePackage: Moving output files for package: /Game/Core/SurvivalGame_HUD
+[2023.04.21-10.36.51:902][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/SurvivalGame_HUDA11BE8894C9E6B8FACF69BA04EE49AE0.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/SurvivalGame_HUD.uasset'
+[2023.04.21-10.36.51:918][115]AssetCheck: New page: Asset Save: SurvivalGame_HUD
+[2023.04.21-10.36.51:918][115]LogContentValidation: Display: Validating Blueprint /Game/Core/SurvivalGame_HUD.SurvivalGame_HUD
+[2023.04.21-10.36.54:135][379]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-10.36.54:135][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.37.04:015][515]LogContentBrowser: Attempting asset rename: W_HUD -> W_InGameHUD
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.W_InGameHUD_C' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.SKEL_W_InGameHUD_C' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.W_InGameHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.W_InGameHUD:OnPreviewKeyDown.K2Node_FunctionResult_0' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.W_InGameHUD:OnPreviewKeyDown.K2Node_FunctionEntry_0' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.SKEL_W_InGameHUD_C:Construct' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.SKEL_W_InGameHUD_C:OnPreviewKeyDown' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.W_InGameHUD_C:Construct' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:034][515]LogMetaData: Removing '/Game/Core/W_InGameHUD.W_InGameHUD_C:OnPreviewKeyDown' ref from Metadata '/Game/Core/W_HUD.PackageMetaData'
+[2023.04.21-10.37.04:083][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/W_InGameHUD" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/W_InGameHUD.uasset" SILENT=true
+[2023.04.21-10.37.04:087][515]LogSavePackage: Moving output files for package: /Game/Core/W_InGameHUD
+[2023.04.21-10.37.04:087][515]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/W_InGameHUD1C8C90434CAC03C4E1C6ABA88BE1D453.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/W_InGameHUD.uasset'
+[2023.04.21-10.37.04:203][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.04.21-10.37.04:284][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.04.21-10.37.04:359][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.21-10.37.04:368][515]AssetCheck: New page: Asset Save: W_InGameHUD
+[2023.04.21-10.37.04:368][515]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/W_InGameHUD.W_InGameHUD
+[2023.04.21-10.37.10:961][208]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.21-10.37.10:975][208]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.21-10.37.10:982][209]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.21-10.37.12:994][451]LogContentBrowser: Attempting asset rename: NewFolder -> PreGame
+[2023.04.21-10.37.12:994][451]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.21-10.37.16:127][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_CharacterSelect.WBP_CharacterSelect_C' ref from Metadata '/Game/UI/WBP_CharacterSelect.PackageMetaData'
+[2023.04.21-10.37.16:127][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_CharacterSelect.SKEL_WBP_CharacterSelect_C' ref from Metadata '/Game/UI/WBP_CharacterSelect.PackageMetaData'
+[2023.04.21-10.37.16:127][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_CharacterSelect.WBP_CharacterSelect:SwitchCharacter.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/WBP_CharacterSelect.PackageMetaData'
+[2023.04.21-10.37.16:127][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_CharacterSelect.WBP_CharacterSelect_C:SwitchCharacter' ref from Metadata '/Game/UI/WBP_CharacterSelect.PackageMetaData'
+[2023.04.21-10.37.16:127][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_CharacterSelect.WBP_CharacterSelect_C:Construct' ref from Metadata '/Game/UI/WBP_CharacterSelect.PackageMetaData'
+[2023.04.21-10.37.16:127][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_CharacterSelect.SKEL_WBP_CharacterSelect_C:SwitchCharacter' ref from Metadata '/Game/UI/WBP_CharacterSelect.PackageMetaData'
+[2023.04.21-10.37.16:127][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_CharacterSelect.SKEL_WBP_CharacterSelect_C:Construct' ref from Metadata '/Game/UI/WBP_CharacterSelect.PackageMetaData'
+[2023.04.21-10.37.16:129][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_Menu.WBP_Menu_C' ref from Metadata '/Game/UI/WBP_Menu.PackageMetaData'
+[2023.04.21-10.37.16:129][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_Menu.SKEL_WBP_Menu_C' ref from Metadata '/Game/UI/WBP_Menu.PackageMetaData'
+[2023.04.21-10.37.16:129][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_Menu.WBP_Menu:AddCharacterSelect.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/WBP_Menu.PackageMetaData'
+[2023.04.21-10.37.16:129][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_Menu.WBP_Menu_C:AddCharacterSelect' ref from Metadata '/Game/UI/WBP_Menu.PackageMetaData'
+[2023.04.21-10.37.16:129][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_Menu.SKEL_WBP_Menu_C:AddCharacterSelect' ref from Metadata '/Game/UI/WBP_Menu.PackageMetaData'
+[2023.04.21-10.37.16:130][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_PreGameScreen.SKEL_WBP_PreGameScreen_C' ref from Metadata '/Game/UI/WBP_PreGameScreen.PackageMetaData'
+[2023.04.21-10.37.16:130][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_PreGameScreen.WBP_PreGameScreen_C' ref from Metadata '/Game/UI/WBP_PreGameScreen.PackageMetaData'
+[2023.04.21-10.37.16:130][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_PreGameScreen.WBP_PreGameScreen:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/WBP_PreGameScreen.PackageMetaData'
+[2023.04.21-10.37.16:130][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_PreGameScreen.WBP_PreGameScreen:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/WBP_PreGameScreen.PackageMetaData'
+[2023.04.21-10.37.16:130][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_PreGameScreen.WBP_PreGameScreen:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/WBP_PreGameScreen.PackageMetaData'
+[2023.04.21-10.37.16:130][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_PreGameScreen.SKEL_WBP_PreGameScreen_C:Tick' ref from Metadata '/Game/UI/WBP_PreGameScreen.PackageMetaData'
+[2023.04.21-10.37.16:130][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_PreGameScreen.SKEL_WBP_PreGameScreen_C:Construct' ref from Metadata '/Game/UI/WBP_PreGameScreen.PackageMetaData'
+[2023.04.21-10.37.16:130][787]LogMetaData: Removing '/Game/UI/PreGame/WBP_PreGameScreen.SKEL_WBP_PreGameScreen_C:PreConstruct' ref from Metadata '/Game/UI/WBP_PreGameScreen.PackageMetaData'
+[2023.04.21-10.37.16:181][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.21-10.37.16:216][787]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.21-10.37.16:217][787]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameModeF2FADADE4F9C1561A641BCA4533152B6.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.21-10.37.16:218][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_InputReceiver" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset" SILENT=true
+[2023.04.21-10.37.16:228][787]LogSavePackage: Moving output files for package: /Game/Core/BP_InputReceiver
+[2023.04.21-10.37.16:228][787]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_InputReceiverAE2C2E09480C8C7D52D2F0A3629B52AB.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset'
+[2023.04.21-10.37.16:230][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PreGame/WBP_CharacterSelect" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/UI/PreGame/WBP_CharacterSelect.uasset" SILENT=true
+[2023.04.21-10.37.16:240][787]LogSavePackage: Moving output files for package: /Game/UI/PreGame/WBP_CharacterSelect
+[2023.04.21-10.37.16:240][787]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/WBP_CharacterSelect86393CD24E8C2515E68080B23BAB0326.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/UI/PreGame/WBP_CharacterSelect.uasset'
+[2023.04.21-10.37.16:241][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PreGame/WBP_Menu" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/UI/PreGame/WBP_Menu.uasset" SILENT=true
+[2023.04.21-10.37.16:245][787]LogSavePackage: Moving output files for package: /Game/UI/PreGame/WBP_Menu
+[2023.04.21-10.37.16:246][787]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/WBP_Menu10BE7CA24F477045AFA09BB26F1FD5F6.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/UI/PreGame/WBP_Menu.uasset'
+[2023.04.21-10.37.16:246][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PreGame/WBP_PreGameScreen" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/UI/PreGame/WBP_PreGameScreen.uasset" SILENT=true
+[2023.04.21-10.37.16:250][787]LogSavePackage: Moving output files for package: /Game/UI/PreGame/WBP_PreGameScreen
+[2023.04.21-10.37.16:250][787]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/WBP_PreGameScreen12F45DFF4A32F5AAE87689BCD4341E4F.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/UI/PreGame/WBP_PreGameScreen.uasset'
+[2023.04.21-10.37.16:408][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.04.21-10.37.16:485][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.21-10.37.16:560][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.21-10.37.16:587][787]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-10.37.16:587][787]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_InputReceiver.BP_InputReceiver
+[2023.04.21-10.37.16:587][787]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PreGame/WBP_CharacterSelect.WBP_CharacterSelect
+[2023.04.21-10.37.16:587][787]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PreGame/WBP_Menu.WBP_Menu
+[2023.04.21-10.37.16:588][787]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.21-10.37.16:588][787]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PreGame/WBP_PreGameScreen.WBP_PreGameScreen
+[2023.04.21-10.37.18:410][963]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.21-10.37.18:425][963]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.21-10.37.18:431][964]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.21-10.37.20:610][226]LogContentBrowser: Attempting asset rename: NewFolder -> InGame
+[2023.04.21-10.37.20:611][226]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.W_InGameHUD_C' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.W_InGameHUD_C:Construct' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.W_InGameHUD_C:OnPreviewKeyDown' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.SKEL_W_InGameHUD_C' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.SKEL_W_InGameHUD_C:Construct' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.SKEL_W_InGameHUD_C:OnPreviewKeyDown' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.W_InGameHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.W_InGameHUD:OnPreviewKeyDown.K2Node_FunctionResult_0' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:127][406]LogMetaData: Removing '/Game/UI/InGame/W_InGameHUD.W_InGameHUD:OnPreviewKeyDown.K2Node_FunctionEntry_0' ref from Metadata '/Game/Core/W_InGameHUD.PackageMetaData'
+[2023.04.21-10.37.31:182][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/W_InGameHUD" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/UI/InGame/W_InGameHUD.uasset" SILENT=true
+[2023.04.21-10.37.31:186][406]LogSavePackage: Moving output files for package: /Game/UI/InGame/W_InGameHUD
+[2023.04.21-10.37.31:186][406]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/W_InGameHUDC114333E4ABC619FDB8516AD547BEDC2.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/UI/InGame/W_InGameHUD.uasset'
+[2023.04.21-10.37.31:301][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.21-10.37.31:379][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.21-10.37.31:453][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.21-10.37.31:474][406]AssetCheck: New page: Asset Save: W_InGameHUD
+[2023.04.21-10.37.31:474][406]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/InGame/W_InGameHUD.W_InGameHUD
+[2023.04.21-10.37.58:780][550]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.21-10.38.19:040][867]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.21-10.38.19:160][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.04.21-10.38.19:634][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.21-10.38.19:659][906]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.21-10.38.19:659][906]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode15A59DF0407798ECD9AFBE99E7C99DDA.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.21-10.38.19:676][906]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.21-10.38.19:676][906]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.21-10.38.21:167][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.04.21-10.38.26:013][651]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.21-10.38.26:013][651]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.21-10.38.27:748][822]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-10.38.27:758][822]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-10.38.27:758][822]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-10.38.27:758][822]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.38.27:758][822]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-10.38.27:758][822]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-10.38.27:758][822]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.04.21-10.38.27:759][822]LogWorldPartition: Display: GenerateStreaming took 268 us
+[2023.04.21-10.38.27:759][822]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.21-10.38.27:762][822]LogPlayLevel: [PlayLevel] Compiling BP_InputReceiver before play...
+[2023.04.21-10.38.27:903][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.04.21-10.38.27:904][822]LogPlayLevel: PlayLevel: Blueprint regeneration took 145 ms (1 blueprints)
+[2023.04.21-10.38.27:904][822]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 12:38:27)
+[2023.04.21-10.38.27:905][822]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.38.27:909][822]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-10.38.27:909][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004509s)
+[2023.04.21-10.38.27:909][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004561s)
+[2023.04.21-10.38.27:909][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.38.27:909][822]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-10.38.27:910][822]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-10.38.27:910][822]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-10.38.27:911][822]LogWorldPartition: Display: WorldPartition initialize took 999 us
+[2023.04.21-10.38.27:911][822]LogPlayLevel: PIE: World Init took: (0.001913s)
+[2023.04.21-10.38.27:985][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.21-10.38.27:986][822]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.04.21-10.38.27:986][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-10.38.27:986][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-10.38.27:986][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-10.38.27:986][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-10.38.27:986][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-10.38.27:986][822]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-10.38.27:986][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-10.38.27:986][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-10.38.27:986][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-10.38.27:987][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-10.38.27:987][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-10.38.27:988][822]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-10.38.28:032][822]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-10.38.28:032][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-10.38.28:032][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-10.38.28:033][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-10.38.28:034][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.04.21-10.38.28:034][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.04.21-10.38.28:036][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.04.21-10.38.28:036][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.04.21-10.38.28:036][822]LogInit: FAudioDevice initialized.
+[2023.04.21-10.38.28:036][822]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonMap'.
+[2023.04.21-10.38.28:091][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.38.28:091][822]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-10.38.28:093][822]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-11.38.28
+[2023.04.21-10.38.28:094][822]LogWorld: Bringing up level for play took: 0.002566
+[2023.04.21-10.38.28:095][822]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.04.21-10.38.28:096][822]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.21-10.38.28:096][822]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.38.28:100][822]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-10.38.28:100][822]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.21-10.38.28:102][822]PIE: Server logged in
+[2023.04.21-10.38.28:104][822]PIE: Play in editor total start time 0.347 seconds.
+[2023.04.21-10.38.28:115][822]LogViewport: Scene viewport resized to 4017x2040, mode Windowed.
+[2023.04.21-10.38.30:135][906]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-10.38.30:549][926]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-10.38.31:808][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.38.31:808][983]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.38.31:809][983]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-10.38.31:815][983]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-10.38.31:815][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.38.31:823][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-10.38.31:830][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.38.31:907][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.04.21-10.38.31:909][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.04.21-10.38.31:916][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.21-10.38.31:951][984]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.04.21-10.38.40:606][885]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.21-10.38.40:725][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.04.21-10.38.41:101][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.21-10.38.41:125][913]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.21-10.38.41:126][913]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode81FDB8284379F57C8BFA479BF6E7BF3B.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.21-10.38.41:144][913]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.21-10.38.41:144][913]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.21-10.38.41:902][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.21-10.38.41:909][999]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.21-10.38.41:910][999]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.21-10.38.41:910][999]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.38.41:910][999]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.21-10.38.41:910][999]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.21-10.38.41:910][999]LogWorldPartition: Display: GetPartitionedActors took 49 us
+[2023.04.21-10.38.41:910][999]LogWorldPartition: Display: GenerateStreaming took 267 us
+[2023.04.21-10.38.41:910][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-10.38.41:910][999]PIE: New page: PIE session: ThirdPersonMap (21 Apr 2023, 12:38:41)
+[2023.04.21-10.38.41:910][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.38.41:914][999]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.21-10.38.41:914][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004029s)
+[2023.04.21-10.38.41:914][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004080s)
+[2023.04.21-10.38.41:914][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.21-10.38.41:915][999]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.21-10.38.41:915][999]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.21-10.38.41:915][999]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.21-10.38.41:916][999]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.21-10.38.41:916][999]LogPlayLevel: PIE: World Init took: (0.001964s)
+[2023.04.21-10.38.41:992][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.04.21-10.38.41:994][999]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.04.21-10.38.41:994][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-10.38.41:994][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-10.38.41:994][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-10.38.41:994][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-10.38.41:994][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-10.38.41:994][999]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.21-10.38.41:994][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-10.38.41:994][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-10.38.41:994][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-10.38.41:994][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-10.38.41:994][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-10.38.41:996][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.21-10.38.42:038][999]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.21-10.38.42:038][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-10.38.42:038][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-10.38.42:039][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-10.38.42:039][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.04.21-10.38.42:039][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.04.21-10.38.42:041][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.04.21-10.38.42:041][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.04.21-10.38.42:041][999]LogInit: FAudioDevice initialized.
+[2023.04.21-10.38.42:041][999]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonMap'.
+[2023.04.21-10.38.42:104][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.38.42:104][999]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.21-10.38.42:106][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.21-11.38.42
+[2023.04.21-10.38.42:107][999]LogWorld: Bringing up level for play took: 0.002527
+[2023.04.21-10.38.42:109][999]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2023.04.21-10.38.42:110][999]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-10.38.42:110][999]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.21-10.38.42:113][999]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.21-10.38.42:113][999]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.21-10.38.42:115][999]PIE: Server logged in
+[2023.04.21-10.38.42:116][999]PIE: Play in editor total start time 0.208 seconds.
+[2023.04.21-10.38.42:125][999]LogViewport: Scene viewport resized to 4020x2040, mode Windowed.
+[2023.04.21-10.38.43:937][ 80]LogBlueprintUserMessages: [BP_InputReceiver_C_0] Hello
+[2023.04.21-10.38.44:221][ 94]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] Game Started!
+[2023.04.21-10.38.46:498][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-10.38.46:498][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.21-10.38.46:499][200]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.21-10.38.46:506][200]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-10.38.46:507][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.38.46:518][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-10.38.46:525][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-10.38.46:602][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-10.38.46:602][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.04.21-10.38.46:604][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.04.21-10.38.46:610][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.21-10.38.46:628][201]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.04.21-10.38.50:755][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.21-10.38.50:815][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.21-10.38.50:841][678]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.21-10.38.50:841][678]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode5EA92BD848AC711D1714DABD71D7868C.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.21-10.38.50:856][678]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.21-10.38.50:856][678]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
