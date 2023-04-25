@@ -1089,3 +1089,313 @@ Script Stack (0 frames):
 [2023.04.25-10.17.29:333][ 25]LogFileHelpers: Saving map 'Level_02' took 0.063
 [2023.04.25-10.17.29:344][ 25]AssetCheck: New page: Asset Save: Level_02
 [2023.04.25-10.17.29:344][ 25]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.04.25-10.17.42:152][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-10.17.42:161][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-10.17.42:161][290]PIE: New page: PIE session: Level_02 (25 Apr 2023, 12:17:42)
+[2023.04.25-10.17.42:161][290]LogPlayLevel: Creating play world package: /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.17.42:164][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002511s)
+[2023.04.25-10.17.42:164][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_02/Level_02.Level_02 to /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 (0.002590s)
+[2023.04.25-10.17.42:164][290]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.17.42:164][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.17.42:164][290]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-10.17.42:164][290]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2023.04.25-10.17.42:172][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.04.25-10.17.42:173][290]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-10.17.42:173][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-10.17.42:173][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-10.17.42:173][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-10.17.42:173][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-10.17.42:175][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-10.17.42:216][290]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.25-10.17.42:216][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-10.17.42:216][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-10.17.42:216][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-10.17.42:217][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.25-10.17.42:217][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.25-10.17.42:219][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.25-10.17.42:219][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.25-10.17.42:219][290]LogInit: FAudioDevice initialized.
+[2023.04.25-10.17.42:219][290]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_02'.
+[2023.04.25-10.17.42:230][290]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.17.42:230][290]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.04.25-11.17.42
+[2023.04.25-10.17.42:231][290]LogWorld: Bringing up level for play took: 0.000728
+[2023.04.25-10.17.42:232][290]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.04.25-10.17.42:236][290]PIE: Server logged in
+[2023.04.25-10.17.42:237][290]PIE: Play in editor total start time 0.078 seconds.
+[2023.04.25-10.17.46:762][708]LogBlueprintUserMessages: [BP_Cactus_C_1] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.17.47:938][815]LogBlueprintUserMessages: [BP_Cactus_C_2] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.17.48:875][903]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.04.25-10.17.50:105][ 17]LogNet: Browse: /Game/Maps/Level_01/Level_01
+[2023.04.25-10.17.50:105][ 17]LogLoad: LoadMap: /Game/Maps/Level_01/Level_01
+[2023.04.25-10.17.50:105][ 17]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.17.50:105][ 17]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.17.50:106][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.17.50:146][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.17.50:147][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.25-10.17.50:148][ 17]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:150][ 17]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.25-10.17.50:150][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001386s)
+[2023.04.25-10.17.50:150][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.001457s)
+[2023.04.25-10.17.50:150][ 17]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_01'.
+[2023.04.25-10.17.50:150][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.17.50:150][ 17]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-10.17.50:151][ 17]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-10.17.50:151][ 17]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: GetPartitionedActors took 76 us
+[2023.04.25-10.17.50:164][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\0H\5UOYYCJOJ6HNFXCHP6UCG4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:165][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\0H\5UOYYCJOJ6HNFXCHP6UCG4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:165][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\0H\5UOYYCJOJ6HNFXCHP6UCG4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:165][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\0H\5UOYYCJOJ6HNFXCHP6UCG4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:166][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\DV\TG3EG8ZKZJOL7Y5MEHNK88.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:166][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\DV\TG3EG8ZKZJOL7Y5MEHNK88.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:166][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\DV\TG3EG8ZKZJOL7Y5MEHNK88.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:167][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\DV\TG3EG8ZKZJOL7Y5MEHNK88.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:168][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\R7\J8NZW79FLFIPIEFHAMC6E2.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:168][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\R7\J8NZW79FLFIPIEFHAMC6E2.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:168][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\R7\J8NZW79FLFIPIEFHAMC6E2.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:168][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\R7\J8NZW79FLFIPIEFHAMC6E2.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:169][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\4J\93TIDKPSQSEW2KZ29CNARF.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:169][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\4J\93TIDKPSQSEW2KZ29CNARF.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:169][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\4J\93TIDKPSQSEW2KZ29CNARF.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:169][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\4J\93TIDKPSQSEW2KZ29CNARF.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:170][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\GJ\YQ2PY2TW20CXPOI4H8SL5I.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:170][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\GJ\YQ2PY2TW20CXPOI4H8SL5I.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:170][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\GJ\YQ2PY2TW20CXPOI4H8SL5I.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:170][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\GJ\YQ2PY2TW20CXPOI4H8SL5I.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:171][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\LO\VG4LUGIK09M67G0BRPE21V.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:171][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\LO\VG4LUGIK09M67G0BRPE21V.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:171][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\LO\VG4LUGIK09M67G0BRPE21V.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:171][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\LO\VG4LUGIK09M67G0BRPE21V.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:172][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\TJ\HQ8ZBBDAFKD9VKDK1EZWJR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:172][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\TJ\HQ8ZBBDAFKD9VKDK1EZWJR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:172][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\TJ\HQ8ZBBDAFKD9VKDK1EZWJR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:172][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\TJ\HQ8ZBBDAFKD9VKDK1EZWJR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:173][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\2\O9\OFVMTIL4VPHY5QAIZ4HAUH.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:173][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\2\O9\OFVMTIL4VPHY5QAIZ4HAUH.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:173][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\2\O9\OFVMTIL4VPHY5QAIZ4HAUH.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:173][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\2\O9\OFVMTIL4VPHY5QAIZ4HAUH.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:174][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\XN\4F732URP17AO6R6OI14JAD.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:174][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\XN\4F732URP17AO6R6OI14JAD.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:174][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\XN\4F732URP17AO6R6OI14JAD.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:174][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\XN\4F732URP17AO6R6OI14JAD.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:175][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\ZU\P4ZJAS58K9HTGZN2WMMXS7.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:175][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\ZU\P4ZJAS58K9HTGZN2WMMXS7.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:175][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\ZU\P4ZJAS58K9HTGZN2WMMXS7.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:175][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\ZU\P4ZJAS58K9HTGZN2WMMXS7.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:176][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\B0\WHODBUX4N0FMZO2JG1SJ0S.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:176][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\B0\WHODBUX4N0FMZO2JG1SJ0S.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:176][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\B0\WHODBUX4N0FMZO2JG1SJ0S.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:176][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\B0\WHODBUX4N0FMZO2JG1SJ0S.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:177][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\JN\TE53MY8FQILF1LEJ30I59C.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:177][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\JN\TE53MY8FQILF1LEJ30I59C.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:177][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\JN\TE53MY8FQILF1LEJ30I59C.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:177][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\JN\TE53MY8FQILF1LEJ30I59C.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:177][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\62\G3VFRCS4G3R8CAEZXILCE6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:178][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\62\G3VFRCS4G3R8CAEZXILCE6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:178][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\62\G3VFRCS4G3R8CAEZXILCE6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:178][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\62\G3VFRCS4G3R8CAEZXILCE6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:178][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\71\WWD6K257T9MJTM96SHOJBE.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:178][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\71\WWD6K257T9MJTM96SHOJBE.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:179][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\71\WWD6K257T9MJTM96SHOJBE.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:179][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\71\WWD6K257T9MJTM96SHOJBE.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:179][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\FG\PQIOAM4JQJTIC8VTO7GO5M.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:179][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\FG\PQIOAM4JQJTIC8VTO7GO5M.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:180][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\FG\PQIOAM4JQJTIC8VTO7GO5M.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:180][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\FG\PQIOAM4JQJTIC8VTO7GO5M.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:180][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\TA\8AIN99TXYF693EJBRFTCPG.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:180][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\TA\8AIN99TXYF693EJBRFTCPG.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:181][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\TA\8AIN99TXYF693EJBRFTCPG.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:181][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\TA\8AIN99TXYF693EJBRFTCPG.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:181][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\7\W5\9KE5GUMOZ6C1W2DZC7RX2U.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:181][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\7\W5\9KE5GUMOZ6C1W2DZC7RX2U.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:181][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\7\W5\9KE5GUMOZ6C1W2DZC7RX2U.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:182][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\7\W5\9KE5GUMOZ6C1W2DZC7RX2U.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:182][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\LY\VPML0WM4EGRLLT5J9BQOZI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:182][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\LY\VPML0WM4EGRLLT5J9BQOZI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:182][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\LY\VPML0WM4EGRLLT5J9BQOZI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:183][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\LY\VPML0WM4EGRLLT5J9BQOZI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:183][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\V9\NWHMSFYE06N4VZ54858R7T.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:183][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\V9\NWHMSFYE06N4VZ54858R7T.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:183][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\V9\NWHMSFYE06N4VZ54858R7T.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:184][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\V9\NWHMSFYE06N4VZ54858R7T.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:184][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\X7\SDJGZLQAXJ6XERS08AC81Y.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:185][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\X7\SDJGZLQAXJ6XERS08AC81Y.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:185][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\X7\SDJGZLQAXJ6XERS08AC81Y.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:185][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\X7\SDJGZLQAXJ6XERS08AC81Y.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:186][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\00\0OMT8CJ3M69RXVEP4AGXOI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:186][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\00\0OMT8CJ3M69RXVEP4AGXOI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:186][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\00\0OMT8CJ3M69RXVEP4AGXOI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:186][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\00\0OMT8CJ3M69RXVEP4AGXOI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:187][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\2J\Y7H51EFH2B5LDLMYSQ5GBC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:187][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\2J\Y7H51EFH2B5LDLMYSQ5GBC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:187][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\2J\Y7H51EFH2B5LDLMYSQ5GBC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:187][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\2J\Y7H51EFH2B5LDLMYSQ5GBC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:188][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\H9\C9VQFEDG3JIVJLY0YAPQXK.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:188][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\H9\C9VQFEDG3JIVJLY0YAPQXK.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:188][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\H9\C9VQFEDG3JIVJLY0YAPQXK.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:188][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\H9\C9VQFEDG3JIVJLY0YAPQXK.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:189][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\J9\DS8QWM7Q7UEPFH53T2Q7BN.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:189][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\J9\DS8QWM7Q7UEPFH53T2Q7BN.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:189][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\J9\DS8QWM7Q7UEPFH53T2Q7BN.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:189][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\J9\DS8QWM7Q7UEPFH53T2Q7BN.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:190][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\PY\38A24EUHNP6PUT95XV42Z4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:190][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\PY\38A24EUHNP6PUT95XV42Z4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:190][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\PY\38A24EUHNP6PUT95XV42Z4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:190][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\PY\38A24EUHNP6PUT95XV42Z4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:191][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\56\2I2WNB9VF8YX23IX0ZIQM9.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:191][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\56\2I2WNB9VF8YX23IX0ZIQM9.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:191][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\56\2I2WNB9VF8YX23IX0ZIQM9.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:191][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\56\2I2WNB9VF8YX23IX0ZIQM9.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:192][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\6X\YRYZM4BIC0ZRJPE3714KB6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:192][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\6X\YRYZM4BIC0ZRJPE3714KB6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:192][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\6X\YRYZM4BIC0ZRJPE3714KB6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:192][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\6X\YRYZM4BIC0ZRJPE3714KB6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:193][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\7Z\YFW38I6D5IVXCE3JTNL75X.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:193][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\7Z\YFW38I6D5IVXCE3JTNL75X.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:193][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\7Z\YFW38I6D5IVXCE3JTNL75X.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:193][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\7Z\YFW38I6D5IVXCE3JTNL75X.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:194][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\LM\8L9KY15UP2JJALFMEI75MO.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:194][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\LM\8L9KY15UP2JJALFMEI75MO.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:194][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\LM\8L9KY15UP2JJALFMEI75MO.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:194][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\LM\8L9KY15UP2JJALFMEI75MO.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:195][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\22\7RS9WGI8T45MRK1VUJH348.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:195][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\22\7RS9WGI8T45MRK1VUJH348.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:195][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\22\7RS9WGI8T45MRK1VUJH348.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:195][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\22\7RS9WGI8T45MRK1VUJH348.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:196][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\S7\A17I0TCISHORG5KYV1NQRM.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:196][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\S7\A17I0TCISHORG5KYV1NQRM.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:196][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\S7\A17I0TCISHORG5KYV1NQRM.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:196][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\S7\A17I0TCISHORG5KYV1NQRM.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:197][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\WF\9UCUXUH7XJT4YEXVDESQXR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:197][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\WF\9UCUXUH7XJT4YEXVDESQXR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:197][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\WF\9UCUXUH7XJT4YEXVDESQXR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:197][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\WF\9UCUXUH7XJT4YEXVDESQXR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:198][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\C\04\IEJQM9H90HF4VSA7OPQ9P0.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:198][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\C\04\IEJQM9H90HF4VSA7OPQ9P0.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:198][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\C\04\IEJQM9H90HF4VSA7OPQ9P0.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:198][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\C\04\IEJQM9H90HF4VSA7OPQ9P0.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:199][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\D\32\25O9AIOH84WTOIYUEDB1RV.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:199][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\D\32\25O9AIOH84WTOIYUEDB1RV.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:199][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\D\32\25O9AIOH84WTOIYUEDB1RV.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:199][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\D\32\25O9AIOH84WTOIYUEDB1RV.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:200][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\PN\WUNZ41HL8OTS1RQG7K5BL5.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:200][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\PN\WUNZ41HL8OTS1RQG7K5BL5.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:200][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\PN\WUNZ41HL8OTS1RQG7K5BL5.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:200][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\PN\WUNZ41HL8OTS1RQG7K5BL5.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:201][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\YO\CI7GP0JTLB0CSR3I1Y09JC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:201][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\YO\CI7GP0JTLB0CSR3I1Y09JC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:202][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\YO\CI7GP0JTLB0CSR3I1Y09JC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:202][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\YO\CI7GP0JTLB0CSR3I1Y09JC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:202][ 17]LogWorldPartition: Display: GenerateStreaming took 49 ms
+[2023.04.25-10.17.50:204][ 17]LogWorldPartition: Display: WorldPartition initialize took 53 ms
+[2023.04.25-10.17.50:204][ 17]LogPlayLevel: PIE: World Init took: (0.054336s)
+[2023.04.25-10.17.50:204][ 17]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.17.50:206][ 17]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.04.25-11.17.50
+[2023.04.25-10.17.50:206][ 17]LogWorld: Bringing up level for play took: 0.001248
+[2023.04.25-10.17.50:209][ 17]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_3 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-10.17.50:209][ 17]LogLoad: Took 0.104414 seconds to LoadMap(/Game/Maps/Level_01/UEDPIE_0_Level_01)
+[2023.04.25-10.17.53:225][253]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.17.55:173][404]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113467B01_1263309369] you walked into a cactus and took 30.0 damage, ouch!
+[2023.04.25-10.17.59:921][785]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113467B01_1268361370] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.18.02:402][997]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.18.02:402][997]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.18.02:402][997]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.18.02:403][997]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.18.02:403][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.02:438][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.18.02:440][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.25-10.18.02:442][997]LogPlayLevel: Creating play world package: /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.18.02:445][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002562s)
+[2023.04.25-10.18.02:445][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_02/Level_02.Level_02 to /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 (0.002657s)
+[2023.04.25-10.18.02:445][997]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_02'.
+[2023.04.25-10.18.02:445][997]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.18.02:445][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.18.02:445][997]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-10.18.02:445][997]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2023.04.25-10.18.02:445][997]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.18.02:446][997]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.04.25-11.18.02
+[2023.04.25-10.18.02:446][997]LogWorld: Bringing up level for play took: 0.000601
+[2023.04.25-10.18.02:449][997]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-10.18.02:449][997]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-10.18.02:449][997]LogLoad: Took 0.047026 seconds to LoadMap(/Game/Maps/Level_02/UEDPIE_0_Level_02)
+[2023.04.25-10.18.06:400][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.18.06:400][370]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.18.06:400][370]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.18.06:401][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.06:413][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-10.18.06:415][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.06:421][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.18.06:422][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.25-10.18.06:423][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.25-10.18.06:427][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.25-10.18.06:473][371]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.04.25-10.18.32:851][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.25-10.18.32:853][683]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_01/Level_01.Level_01
+[2023.04.25-10.18.32:854][683]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_01/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-10.18.32:854][683]LightingResults: New page: Lighting Build
+[2023.04.25-10.18.32:854][683]LoadErrors: New page: Loading map: Level_01.umap
+[2023.04.25-10.18.32:856][683]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.18.32:857][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.32:857][683]MapCheck: New page: Map Check
+[2023.04.25-10.18.32:857][683]LightingResults: New page: Lighting Build
+[2023.04.25-10.18.32:864][683]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.18.32:865][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.25-10.18.32:867][683]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.18.32:867][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.32:875][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.25-10.18.32:882][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.25-10.18.32:897][683]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.04.25-10.18.32:897][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.18.32:897][683]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-10.18.32:898][683]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-10.18.32:898][683]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-10.18.32:924][683]LogWorldPartition: Display: WorldPartition initialize took 25 ms
+[2023.04.25-10.18.32:941][683]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-10.18.32:950][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.25-10.18.32:959][683]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-10.18.32:960][683]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
+[2023.04.25-10.18.32:960][683]LogFileHelpers: Loading map 'Level_01' took 0.106
+[2023.04.25-10.18.32:985][683]LogViewport: Scene viewport resized to 1847x1285, mode Windowed.
+[2023.04.25-10.18.40:720][393]LogViewport: Scene viewport resized to 2231x1285, mode Windowed.
+[2023.04.25-10.20.28:998][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-10.20.29:041][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.20.32:561][652]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.04.25-10.20.32:561][652]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.035920s
+[2023.04.25-10.20.32:855][652]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2023.04.25-10.20.33:192][652]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001159s (0.992051s overbudget)
+[2023.04.25-10.20.33:306][652]LogSlate: Took 0.025894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.25-10.20.43:437][656]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.04.25-10.20.49:962][306]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-10.20.49:962][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.21.10:192][629]BlueprintLog: New page: Compile BP_Core_GameInstance
+[2023.04.25-10.21.10:229][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.25-10.21.10:694][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.04.25-10.21.10:697][677]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.04.25-10.21.10:698][677]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameInstanceC840146B4AF0CEBEF7782EAAEC975DE1.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.04.25-10.21.10:710][677]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.04.25-10.21.10:710][677]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-10.23.03:671][235]LogSlate: Window 'Message' being destroyed
+[2023.04.25-10.23.03:676][235]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to update the default settings?
+[2023.04.25-10.23.07:135][235]LogSlate: Window 'Message' being destroyed
+[2023.04.25-10.23.07:143][235]Message dialog closed, result: Yes, title: Message, text: The default configuration file for these settings is not currently writable. Would you like to make it writable?
+[2023.04.25-10.23.10:042][235]LogSlate: Window 'Message' being destroyed
+[2023.04.25-10.23.10:047][235]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
+
+If checked into source control this would affect other developers.
