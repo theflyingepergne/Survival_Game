@@ -2771,3 +2771,290 @@ If checked into source control this would affect other developers.
 [2023.04.25-11.45.00:415][288]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/7RJXZK4T3H9SBTR8HY9ERZ459F87F34AB69C098B47EF89D8561034.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/3/D1/7RJXZK4T3H9SBTR8HY9ERZ.uasset'
 [2023.04.25-11.45.00:441][288]AssetCheck: New page: Asset Save: BP_Buff_Health_C_UAID_001A7DDA71137E7C01_2020523279
 [2023.04.25-11.45.00:441][288]LogContentValidation: Display: Validating BP_Buff_Health_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Buff_Health_C_UAID_001A7DDA71137E7C01_2020523279
+[2023.04.25-11.45.32:698][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.25-11.45.32:746][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.45.32:772][455]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.45.32:772][455]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameModeED885D5146E4976F39E13E9780BCA49A.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.45.32:786][455]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-11.45.32:786][455]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.46.07:279][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BPI_GameMode.BPI_GameMode
+[2023.04.25-11.46.07:279][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-11.46.24:264][414]BlueprintLog: New page: Compile BPI_GameMode
+[2023.04.25-11.46.24:350][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.25-11.46.24:662][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BPI_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameMode.uasset" SILENT=true
+[2023.04.25-11.46.24:664][434]LogSavePackage: Moving output files for package: /Game/Core/BPI_GameMode
+[2023.04.25-11.46.24:665][434]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BPI_GameMode34C827B1450B7CE52D344CAB3BDF1972.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameMode.uasset'
+[2023.04.25-11.46.24:678][434]AssetCheck: New page: Asset Save: BPI_GameMode
+[2023.04.25-11.46.24:678][434]LogContentValidation: Display: Validating Blueprint /Game/Core/BPI_GameMode.BPI_GameMode
+[2023.04.25-11.46.27:170][699]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.25-11.46.27:269][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.25-11.46.27:545][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.46.27:570][716]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.46.27:571][716]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameModeBAE313C744AE13214A6D2280B8A81E1A.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.46.27:587][716]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-11.46.27:587][716]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.46.28:236][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.25-11.46.29:246][903]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.25-11.46.29:342][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.25-11.46.32:425][181]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.25-11.46.32:524][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.25-11.47.03:564][856]BlueprintLog: New page: Compile BPI_GameMode
+[2023.04.25-11.47.03:643][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.25-11.47.04:062][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BPI_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameMode.uasset" SILENT=true
+[2023.04.25-11.47.04:064][891]LogSavePackage: Moving output files for package: /Game/Core/BPI_GameMode
+[2023.04.25-11.47.04:065][891]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BPI_GameMode4152EF8E4428D5EF5BB497AAAFC82147.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameMode.uasset'
+[2023.04.25-11.47.04:078][891]AssetCheck: New page: Asset Save: BPI_GameMode
+[2023.04.25-11.47.04:078][891]LogContentValidation: Display: Validating Blueprint /Game/Core/BPI_GameMode.BPI_GameMode
+[2023.04.25-11.47.06:435][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.25-11.47.06:495][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.47.06:520][156]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.47.06:521][156]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode5542801A485D2CF5932A1090C0D9D107.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.47.06:522][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_InputReceiver" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset" SILENT=true
+[2023.04.25-11.47.06:531][156]LogSavePackage: Moving output files for package: /Game/Core/BP_InputReceiver
+[2023.04.25-11.47.06:531][156]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_InputReceiver5A5286364CED86F846F547AEFF3256B0.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset'
+[2023.04.25-11.47.06:544][156]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-11.47.06:544][156]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.47.06:544][156]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_InputReceiver.BP_InputReceiver
+[2023.04.25-11.47.47:604][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.25-11.47.47:662][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.47.47:688][844]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.47.47:689][844]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameModeB4B72DA74D198518A9D76FBEA8325BD9.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.47.47:702][844]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-11.47.47:702][844]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.47.48:515][938]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.25-11.47.48:613][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.25-11.47.48:896][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.47.48:920][958]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.47.48:921][958]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode4BA9331C4411CCCB73FB38A890F94EDD.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.47.48:934][958]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-11.47.48:934][958]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.48.25:466][415]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.25-11.48.48:657][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.25-11.48.48:714][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.48.48:740][978]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.48.48:740][978]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode85F6A2BA4204BD1FF9033CB5388CADE3.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.48.48:753][978]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-11.48.48:753][978]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.48.49:728][ 83]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.25-11.48.49:828][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.25-11.48.50:330][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.48.50:356][131]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.48.50:357][131]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode40AF41E147AA9DF288D010A4B4FBD3F3.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.48.50:370][131]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-11.48.50:370][131]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.49.04:023][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.25-11.49.04:080][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.49.04:106][712]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.49.04:106][712]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode735175C64204D89CBED9699156006ABE.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.49.04:119][712]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-11.49.04:119][712]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.49.05:462][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-11.49.05:488][858]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-11.49.05:489][858]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameMode77E5BC444CF87A5DD4DD2CB78833AA40.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-11.49.05:502][858]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-11.49.05:502][858]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-11.49.21:690][653]BlueprintLog: New page: Compile BP_InputReceiver
+[2023.04.25-11.49.21:781][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.25-11.49.22:080][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_InputReceiver" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset" SILENT=true
+[2023.04.25-11.49.22:090][673]LogSavePackage: Moving output files for package: /Game/Core/BP_InputReceiver
+[2023.04.25-11.49.22:091][673]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_InputReceiver3135200C467AAB698C47F79C79FA6B70.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset'
+[2023.04.25-11.49.22:105][673]AssetCheck: New page: Asset Save: BP_InputReceiver
+[2023.04.25-11.49.22:105][673]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_InputReceiver.BP_InputReceiver
+[2023.04.25-11.49.23:174][799]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-11.49.23:181][799]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.25-11.49.23:181][799]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.25-11.49.23:181][799]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-11.49.23:181][799]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.25-11.49.23:181][799]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.25-11.49.23:181][799]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2023.04.25-11.49.23:182][799]LogWorldPartition: Display: GenerateStreaming took 264 us
+[2023.04.25-11.49.23:182][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-11.49.23:182][799]PIE: New page: PIE session: Level_01 (25 Apr 2023, 13:49:23)
+[2023.04.25-11.49.23:182][799]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-11.49.23:187][799]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.25-11.49.23:187][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004930s)
+[2023.04.25-11.49.23:187][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.004986s)
+[2023.04.25-11.49.23:187][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-11.49.23:187][799]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-11.49.23:188][799]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-11.49.23:188][799]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.25-11.49.23:189][799]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.25-11.49.23:189][799]LogPlayLevel: PIE: World Init took: (0.002231s)
+[2023.04.25-11.49.23:251][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.04.25-11.49.23:253][799]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.04.25-11.49.23:253][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-11.49.23:253][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-11.49.23:253][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-11.49.23:253][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-11.49.23:253][799]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-11.49.23:253][799]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-11.49.23:253][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-11.49.23:253][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-11.49.23:254][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-11.49.23:254][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-11.49.23:254][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-11.49.23:256][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-11.49.23:296][799]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.25-11.49.23:296][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-11.49.23:296][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-11.49.23:296][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-11.49.23:297][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.04.25-11.49.23:297][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.04.25-11.49.23:299][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.04.25-11.49.23:299][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.04.25-11.49.23:299][799]LogInit: FAudioDevice initialized.
+[2023.04.25-11.49.23:299][799]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_01'.
+[2023.04.25-11.49.23:349][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-11.49.23:350][799]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-11.49.23:352][799]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.04.25-12.49.23
+[2023.04.25-11.49.23:352][799]LogWorld: Bringing up level for play took: 0.002124
+[2023.04.25-11.49.23:354][799]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.04.25-11.49.23:355][799]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.25-11.49.23:355][799]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-11.49.23:357][799]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.04.25-11.49.23:358][799]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.04.25-11.49.23:359][799]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-11.49.23:359][799]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.25-11.49.23:361][799]PIE: Server logged in
+[2023.04.25-11.49.23:362][799]PIE: Play in editor total start time 0.182 seconds.
+[2023.04.25-11.49.23:371][799]LogViewport: Scene viewport resized to 1971x1420, mode Windowed.
+[2023.04.25-11.49.25:124][928]LogBlueprintUserMessages: [BP_Player_C_0] Player 0
+[2023.04.25-11.49.29:559][280]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.04.25-11.49.29:559][280]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.04.25-11.49.29:559][280]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-11.49.29:560][280]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-11.49.29:560][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-11.49.29:658][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-11.49.29:661][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.25-11.49.29:671][280]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_02'.
+[2023.04.25-11.49.29:671][280]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-11.49.29:671][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-11.49.29:671][280]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-11.49.29:671][280]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2023.04.25-11.49.29:671][280]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-11.49.29:674][280]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.04.25-12.49.29
+[2023.04.25-11.49.29:674][280]LogWorld: Bringing up level for play took: 0.002519
+[2023.04.25-11.49.29:677][280]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.04.25-11.49.29:678][280]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-11.49.29:678][280]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.04.25-11.49.29:678][280]LogLoad: Took 0.119039 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.04.25-11.49.30:454][350]LogBlueprintUserMessages: [BP_Player_C_0] Player 0
+[2023.04.25-11.49.33:882][684]LogNet: Browse: /Game/Maps/Level_01/Level_01
+[2023.04.25-11.49.33:882][684]LogLoad: LoadMap: /Game/Maps/Level_01/Level_01
+[2023.04.25-11.49.33:882][684]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-11.49.33:883][684]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-11.49.33:883][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-11.49.33:968][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-11.49.33:971][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.25-11.49.33:973][684]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-11.49.33:977][684]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.25-11.49.33:977][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004619s)
+[2023.04.25-11.49.33:977][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.004695s)
+[2023.04.25-11.49.33:977][684]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_01'.
+[2023.04.25-11.49.33:977][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-11.49.33:978][684]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-11.49.33:978][684]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-11.49.33:978][684]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.25-11.49.33:979][684]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.04.25-11.49.33:979][684]LogPlayLevel: PIE: World Init took: (0.001962s)
+[2023.04.25-11.49.33:979][684]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-11.49.33:980][684]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.04.25-12.49.33
+[2023.04.25-11.49.33:981][684]LogWorld: Bringing up level for play took: 0.001171
+[2023.04.25-11.49.33:983][684]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-11.49.33:983][684]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.04.25-11.49.33:983][684]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-11.49.33:983][684]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.04.25-11.49.33:984][684]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-11.49.33:984][684]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-11.49.33:984][684]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.25-11.49.33:984][684]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_3 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.25-11.49.33:984][684]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-11.49.33:984][684]LogLoad: Took 0.101919 seconds to LoadMap(/Game/Maps/Level_01/UEDPIE_0_Level_01)
+[2023.04.25-11.49.34:548][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-11.49.34:548][728]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-11.49.34:549][728]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.25-11.49.34:554][728]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-11.49.34:554][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-11.49.34:566][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-11.49.34:571][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-11.49.34:632][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-11.49.34:633][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.04.25-11.49.34:634][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.04.25-11.49.34:640][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.25-11.49.34:661][729]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.04.25-11.49.38:532][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.25-11.49.38:580][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_InputReceiver" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset" SILENT=true
+[2023.04.25-11.49.38:589][173]LogSavePackage: Moving output files for package: /Game/Core/BP_InputReceiver
+[2023.04.25-11.49.38:589][173]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_InputReceiverBE6003DC430D01E46B35E392288D1556.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset'
+[2023.04.25-11.49.38:602][173]AssetCheck: New page: Asset Save: BP_InputReceiver
+[2023.04.25-11.49.38:602][173]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_InputReceiver.BP_InputReceiver
+[2023.04.25-11.49.57:852][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BPI_GameInstance.BPI_GameInstance
+[2023.04.25-11.49.57:852][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-11.50.12:570][168]LogSlate: Took 0.014581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.25-11.50.26:100][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.25-11.50.26:167][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BPI_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameInstance.uasset" SILENT=true
+[2023.04.25-11.50.26:169][736]LogSavePackage: Moving output files for package: /Game/Core/BPI_GameInstance
+[2023.04.25-11.50.26:170][736]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BPI_GameInstanceD99C9CA3455D3D648636F5BFCBB4B97F.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameInstance.uasset'
+[2023.04.25-11.50.26:183][736]AssetCheck: New page: Asset Save: BPI_GameInstance
+[2023.04.25-11.50.26:183][736]LogContentValidation: Display: Validating Blueprint /Game/Core/BPI_GameInstance.BPI_GameInstance
+[2023.04.25-11.51.05:118][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.25-11.51.05:185][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BPI_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameInstance.uasset" SILENT=true
+[2023.04.25-11.51.05:188][310]LogSavePackage: Moving output files for package: /Game/Core/BPI_GameInstance
+[2023.04.25-11.51.05:188][310]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BPI_GameInstance6A6ACFC3498F9BB1EBB8F6A1DEF5B421.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameInstance.uasset'
+[2023.04.25-11.51.05:202][310]AssetCheck: New page: Asset Save: BPI_GameInstance
+[2023.04.25-11.51.05:202][310]LogContentValidation: Display: Validating Blueprint /Game/Core/BPI_GameInstance.BPI_GameInstance
+[2023.04.25-11.51.06:416][456]BlueprintLog: New page: Compile BPI_GameInstance
+[2023.04.25-11.51.06:487][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.25-11.51.06:913][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BPI_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameInstance.uasset" SILENT=true
+[2023.04.25-11.51.06:916][492]LogSavePackage: Moving output files for package: /Game/Core/BPI_GameInstance
+[2023.04.25-11.51.06:916][492]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BPI_GameInstanceAB4E0BB74C2E0622125184B04D3E0562.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameInstance.uasset'
+[2023.04.25-11.51.06:930][492]AssetCheck: New page: Asset Save: BPI_GameInstance
+[2023.04.25-11.51.06:930][492]LogContentValidation: Display: Validating Blueprint /Game/Core/BPI_GameInstance.BPI_GameInstance
+[2023.04.25-11.51.10:223][875]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-11.51.10:223][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-11.51.50:005][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.25-11.51.50:064][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.04.25-11.51.50:070][436]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.04.25-11.51.50:070][436]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameInstance42CEB27541DD98528E97BB9A410D0CB3.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.04.25-11.51.50:083][436]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.04.25-11.51.50:083][436]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-11.51.53:922][841]BlueprintLog: New page: Compile BP_Core_GameInstance
+[2023.04.25-11.51.53:997][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.25-11.51.54:314][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.04.25-11.51.54:319][867]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.04.25-11.51.54:320][867]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameInstance7E6D04F34188A0D037F0AF8BE87848B1.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.04.25-11.51.54:335][867]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.04.25-11.51.54:335][867]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-11.52.12:546][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.25-11.52.12:597][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.04.25-11.52.12:603][937]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.04.25-11.52.12:603][937]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameInstanceEB548F56485960118DB8F3B269A40641.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.04.25-11.52.12:616][937]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.04.25-11.52.12:616][937]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-11.52.28:635][851]BlueprintLog: New page: Compile BP_Core_GameInstance
+[2023.04.25-11.52.28:708][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.04.25-11.52.29:266][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.04.25-11.52.29:272][904]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.04.25-11.52.29:272][904]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameInstanceC7DC5BBE45B9D2B6C2D55DAD3B184CB4.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.04.25-11.52.29:285][904]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.04.25-11.52.29:285][904]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-11.53.40:598][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.25-11.53.40:648][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_InputReceiver" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset" SILENT=true
+[2023.04.25-11.53.40:659][105]LogSavePackage: Moving output files for package: /Game/Core/BP_InputReceiver
+[2023.04.25-11.53.40:659][105]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_InputReceiverA84DBCEB42AB1EBAD7C23288EBE8E56A.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset'
+[2023.04.25-11.53.40:671][105]AssetCheck: New page: Asset Save: BP_InputReceiver
+[2023.04.25-11.53.40:671][105]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_InputReceiver.BP_InputReceiver
+[2023.04.25-11.54.42:456][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.25-11.54.42:517][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_InputReceiver" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset" SILENT=true
+[2023.04.25-11.54.42:527][143]LogSavePackage: Moving output files for package: /Game/Core/BP_InputReceiver
+[2023.04.25-11.54.42:527][143]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_InputReceiver7CAB033C47C880522887B4A065CDAF98.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset'
+[2023.04.25-11.54.42:542][143]AssetCheck: New page: Asset Save: BP_InputReceiver
+[2023.04.25-11.54.42:542][143]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_InputReceiver.BP_InputReceiver
+[2023.04.25-11.54.44:735][397]BlueprintLog: New page: Compile BP_InputReceiver
+[2023.04.25-11.54.44:838][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.25-11.54.45:266][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_InputReceiver" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset" SILENT=true
+[2023.04.25-11.54.45:276][429]LogSavePackage: Moving output files for package: /Game/Core/BP_InputReceiver
+[2023.04.25-11.54.45:277][429]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_InputReceiver72F03F6B40800994CE9819BAA6800C12.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_InputReceiver.uasset'
+[2023.04.25-11.54.45:291][429]AssetCheck: New page: Asset Save: BP_InputReceiver
+[2023.04.25-11.54.45:291][429]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_InputReceiver.BP_InputReceiver
+[2023.04.25-11.54.56:724][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
