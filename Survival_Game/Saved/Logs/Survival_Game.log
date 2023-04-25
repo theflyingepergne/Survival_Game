@@ -907,3 +907,185 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.25-10.15.51:470][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2023.04.25-10.15.51:477][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2023.04.25-10.15.51:485][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.25-10.16.09:319][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-10.16.09:335][246]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.25-10.16.09:335][246]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.25-10.16.09:335][246]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-10.16.09:335][246]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.25-10.16.09:336][246]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.25-10.16.09:336][246]LogWorldPartition: Display: GetPartitionedActors took 92 us
+[2023.04.25-10.16.09:336][246]LogWorldPartition: Display: GenerateStreaming took 322 us
+[2023.04.25-10.16.09:378][246]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.25-10.16.09:396][246]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2023.04.25-10.16.09:426][246]LogPlayLevel: [PlayLevel] Compiling BP_VendingMachine before play...
+[2023.04.25-10.16.09:436][246]LogPlayLevel: [PlayLevel] Compiling BP_Cactus before play...
+[2023.04.25-10.16.09:456][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.25-10.16.09:456][246]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (3 blueprints)
+[2023.04.25-10.16.09:492][246]PIE: New page: PIE session: Level_01 (25 Apr 2023, 12:16:09)
+[2023.04.25-10.16.09:519][246]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.04.25-10.16.09:522][246]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.25-10.16.09:522][246]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.16.09:548][246]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.25-10.16.09:556][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033511s)
+[2023.04.25-10.16.09:556][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.033600s)
+[2023.04.25-10.16.09:556][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.16.09:556][246]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-10.16.09:557][246]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-10.16.09:557][246]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.25-10.16.09:567][246]LogWorldPartition: Display: WorldPartition initialize took 10 ms
+[2023.04.25-10.16.09:567][246]LogPlayLevel: PIE: World Init took: (0.011365s)
+[2023.04.25-10.16.09:575][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.25-10.16.09:582][246]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-10.16.09:582][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-10.16.09:582][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-10.16.09:582][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-10.16.09:582][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-10.16.09:585][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-10.16.09:628][246]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.25-10.16.09:628][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-10.16.09:628][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-10.16.09:628][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-10.16.09:629][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.04.25-10.16.09:629][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.04.25-10.16.09:631][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.04.25-10.16.09:631][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.04.25-10.16.09:631][246]LogInit: FAudioDevice initialized.
+[2023.04.25-10.16.09:631][246]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_01'.
+[2023.04.25-10.16.09:647][246]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.16.09:648][246]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.04.25-11.16.09
+[2023.04.25-10.16.09:649][246]LogWorld: Bringing up level for play took: 0.001567
+[2023.04.25-10.16.09:654][246]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.04.25-10.16.09:691][246]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.25-10.16.09:691][246]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-10.16.09:800][246]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-10.16.09:800][246]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.25-10.16.09:810][246]PIE: Server logged in
+[2023.04.25-10.16.09:811][246]PIE: Play in editor total start time 0.477 seconds.
+[2023.04.25-10.16.10:013][246]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2023.04.25-10.16.10:013][246]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2023.04.25-10.16.10:013][246]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2023.04.25-10.16.10:014][246]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2023.04.25-10.16.14:791][598]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.16.16:656][745]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113467B01_1263309369] you walked into a cactus and took 30.0 damage, ouch!
+[2023.04.25-10.16.20:355][ 36]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.16.20:355][ 36]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.16.20:355][ 36]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.16.20:362][ 36]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.16.20:362][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.20:416][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.16.20:418][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.25-10.16.20:430][ 36]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_02'.
+[2023.04.25-10.16.20:430][ 36]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.16.20:430][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.16.20:430][ 36]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-10.16.20:430][ 36]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2023.04.25-10.16.20:430][ 36]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.16.20:433][ 36]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.04.25-11.16.20
+[2023.04.25-10.16.20:433][ 36]LogWorld: Bringing up level for play took: 0.002348
+[2023.04.25-10.16.20:437][ 36]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-10.16.20:438][ 36]LogLoad: Took 0.081859 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.04.25-10.16.20:440][ 36]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2023.04.25-10.16.20:440][ 36]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2023.04.25-10.16.23:583][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.16.23:583][316]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.16.23:584][316]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.16.23:584][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.23:595][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-10.16.23:606][316]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.04.25-10.16.23:697][316]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.091 s
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: === Handled ensure: ===
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: 
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: 
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: Stack: 
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff813c05fa6 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff813c1f705 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff813c006aa UnrealEditor-Engine.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8aa00ebed UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8aab00c73 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8aa4efa40 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8aae7aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ec82f6 UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ee0d9c UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ee0e8a UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ee3c4d UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ef5564 UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ef8736 UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8fa717604 KERNEL32.DLL!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8fb3c26a1 ntdll.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: 
+[2023.04.25-10.16.23:735][316]LogStats:                SubmitErrorReport -  0.000 s
+[2023.04.25-10.16.25:269][316]LogStats:                    SendNewReport -  1.534 s
+[2023.04.25-10.16.25:269][316]LogStats:             FDebug::EnsureFailed -  1.664 s
+[2023.04.25-10.16.25:272][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.25:280][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.16.25:314][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.25-10.16.25:315][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.25-10.16.25:321][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.25-10.16.25:382][317]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.04.25-10.16.27:588][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.25-10.16.28:952][500]LogSlate: Window 'Save Content' being destroyed
+[2023.04.25-10.16.29:044][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/6/71/WWD6K257T9MJTM96SHOJBE
+[2023.04.25-10.16.29:044][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/WWD6K257T9MJTM96SHOJBE75B7F10E4BF7B095100AE0896BD6EF98.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/6/71/WWD6K257T9MJTM96SHOJBE.uasset'
+[2023.04.25-10.16.29:047][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/0/0H/5UOYYCJOJ6HNFXCHP6UCG4
+[2023.04.25-10.16.29:047][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/5UOYYCJOJ6HNFXCHP6UCG4F359FDB94CF14DB7C08CF4AEBC99F2EF.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/0/0H/5UOYYCJOJ6HNFXCHP6UCG4.uasset'
+[2023.04.25-10.16.29:049][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/A/LM/8L9KY15UP2JJALFMEI75MO
+[2023.04.25-10.16.29:050][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/8L9KY15UP2JJALFMEI75MO1CCDE3D44DCE8FF5D0D84386996667D3.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/A/LM/8L9KY15UP2JJALFMEI75MO.uasset'
+[2023.04.25-10.16.29:053][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/9/00/0OMT8CJ3M69RXVEP4AGXOI
+[2023.04.25-10.16.29:054][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/0OMT8CJ3M69RXVEP4AGXOI3B7A6B15404F481A9C364BA537B7A373.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/9/00/0OMT8CJ3M69RXVEP4AGXOI.uasset'
+[2023.04.25-10.16.29:056][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/A/6X/YRYZM4BIC0ZRJPE3714KB6
+[2023.04.25-10.16.29:056][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/YRYZM4BIC0ZRJPE3714KB6E81D680D4B64059ADD1A6597D5335FD4.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/A/6X/YRYZM4BIC0ZRJPE3714KB6.uasset'
+[2023.04.25-10.16.29:117][500]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02.Level_02
+[2023.04.25-10.16.29:117][500]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_02/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-10.16.29:117][500]LightingResults: New page: Lighting Build
+[2023.04.25-10.16.29:117][500]LoadErrors: New page: Loading map: Level_02.umap
+[2023.04.25-10.16.29:160][500]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.16.29:160][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.29:164][500]MapCheck: New page: Map Check
+[2023.04.25-10.16.29:164][500]LightingResults: New page: Lighting Build
+[2023.04.25-10.16.29:172][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.16.29:174][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.25-10.16.29:175][500]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.16.29:175][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.29:183][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.25-10.16.29:190][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.25-10.16.29:198][500]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2023.04.25-10.16.29:198][500]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.16.29:198][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.16.29:198][500]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-10.16.29:212][500]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-10.16.29:221][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.25-10.16.29:230][500]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-10.16.29:230][500]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2023.04.25-10.16.29:230][500]LogFileHelpers: Loading map 'Level_02' took 0.113
+[2023.04.25-10.16.29:251][500]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-10.16.29:251][500]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488
+[2023.04.25-10.16.29:266][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488'
+[2023.04.25-10.16.29:266][500]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1263309369
+[2023.04.25-10.16.29:267][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1263309369'
+[2023.04.25-10.16.29:267][500]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1268361370
+[2023.04.25-10.16.29:267][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1268361370'
+[2023.04.25-10.16.29:267][500]LogContentValidation: Display: Validating BP_VendingMachine_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_VendingMachine_C_UAID_001A7DDA71134B7B01_1687864252
+[2023.04.25-10.16.29:267][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_VendingMachine_C_UAID_001A7DDA71134B7B01_1687864252'
+[2023.04.25-10.16.29:267][500]LogContentValidation: Display: Validating BP_VendingMachine_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_VendingMachine_C_UAID_001A7DDA71134B7B01_2054500253
+[2023.04.25-10.16.29:267][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_VendingMachine_C_UAID_001A7DDA71134B7B01_2054500253'
+[2023.04.25-10.16.34:333][895]LogViewport: Scene viewport resized to 1055x608, mode Windowed.
+[2023.04.25-10.17.18:030][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.25-10.17.29:211][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.25-10.17.29:265][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.25-10.17.29:273][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.25-10.17.29:286][ 25]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.17.29:287][ 25]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Level_0267FA6E764C848794522317B89F3DB226.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.04.25-10.17.29:333][ 25]LogFileHelpers: Saving map 'Level_02' took 0.063
+[2023.04.25-10.17.29:344][ 25]AssetCheck: New page: Asset Save: Level_02
+[2023.04.25-10.17.29:344][ 25]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
