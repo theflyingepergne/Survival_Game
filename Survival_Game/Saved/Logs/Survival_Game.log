@@ -1399,3 +1399,22 @@ Script Stack (0 frames):
 [2023.04.25-10.23.10:047][235]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
 
 If checked into source control this would affect other developers.
+[2023.04.25-10.23.30:682][623]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.25-10.23.30:687][623]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.25-10.24.15:765][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BPI_GameMode.BPI_GameMode
+[2023.04.25-10.24.15:765][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.24.41:572][927]BlueprintLog: New page: Compile BPI_GameMode
+[2023.04.25-10.24.41:618][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.25-10.24.42:510][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BPI_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameMode.uasset" SILENT=true
+[2023.04.25-10.24.42:513][ 22]LogSavePackage: Moving output files for package: /Game/Core/BPI_GameMode
+[2023.04.25-10.24.42:514][ 22]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BPI_GameMode285FF3B9411779BAE1B6269852217D1A.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameMode.uasset'
+[2023.04.25-10.24.42:524][ 22]AssetCheck: New page: Asset Save: BPI_GameMode
+[2023.04.25-10.24.42:524][ 22]LogContentValidation: Display: Validating Blueprint /Game/Core/BPI_GameMode.BPI_GameMode
+[2023.04.25-10.24.43:124][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.25-10.25.34:264][115]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.25-10.25.34:331][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.25-10.25.34:762][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-10.25.34:786][156]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-10.25.34:787][156]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameModeEA6555194BB766C462D106AFACB136A9.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-10.25.34:798][156]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-10.25.34:798][156]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
