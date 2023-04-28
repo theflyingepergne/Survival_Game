@@ -1,0 +1,1420 @@
+﻿Log file open, 04/25/23 11:09:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=1744)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Survival_Game
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\GitHub\Survival_Game\Survival_Game\Survival_Game.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2846] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7740X CPU @ 4.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="4ab64a3140743355bd00cea51de16c94"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.059334
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B850AFE0499E202511EDDFAFF6815AE2
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.12 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2846] (), CPU: Intel(R) Core(TM) i7-7740X CPU @ 4.30GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programs/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.04.25-10.09.28:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.04.25-10.09.28:781][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.04.25-10.09.28:781][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.04.25-10.09.28:781][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.04.25-10.09.28:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.04.25-10.09.28:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.04.25-10.09.28:797][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.04.25-10.09.28:798][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.04.25-10.09.28:863][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.04.25-10.09.28:863][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.04.25-10.09.28:863][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.04.25-10.09.28:863][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.04.25-10.09.28:863][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.04.25-10.09.28:863][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.04.25-10.09.28:863][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.04.25-10.09.28:863][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.04.25-10.09.28:878][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.04.25-10.09.28:878][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.04.25-10.09.28:878][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.04.25-10.09.29:102][  0]LogD3D12RHI: Aftermath initialized
+[2023.04.25-10.09.29:102][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.04.25-10.09.29:564][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1080 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.04.25-10.09.29:564][  0]LogD3D12RHI: Adapter has 8072MB of dedicated video memory, 0MB of dedicated system memory, and 12260MB of shared system memory, 2 output[s]
+[2023.04.25-10.09.29:588][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.04.25-10.09.29:588][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 12260MB of shared system memory, 0 output[s]
+[2023.04.25-10.09.29:588][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.04.25-10.09.29:588][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.25-10.09.29:608][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.04.25-10.09.29:611][  0]LogHAL: Display: Platform has ~ 24 GB [25711116288 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.25-10.09.29:612][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.04.25-10.09.29:612][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.04.25-10.09.29:612][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.25-10.09.29:626][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.04.25-10.09.29:626][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/Survival_Game/Survival_Game/Saved/Config/WindowsEditor/Editor.ini]
+[2023.04.25-10.09.29:648][  0]LogInit: Computer: ANDY-PC
+[2023.04.25-10.09.29:648][  0]LogInit: User: Andy
+[2023.04.25-10.09.29:648][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.04.25-10.09.29:648][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.25-10.09.29:663][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2023.04.25-10.09.29:663][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.04.25-10.09.29:663][  0]LogMemory: Process Physical Memory: 263.21 MB used, 274.44 MB peak
+[2023.04.25-10.09.29:663][  0]LogMemory: Process Virtual Memory: 208.83 MB used, 208.83 MB peak
+[2023.04.25-10.09.29:664][  0]LogMemory: Physical Memory: 6663.40 MB used,  17856.63 MB free, 24520.03 MB total
+[2023.04.25-10.09.29:664][  0]LogMemory: Virtual Memory: 9694.58 MB used,  22761.45 MB free, 32456.03 MB total
+[2023.04.25-10.09.29:664][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.04.25-10.09.29:678][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.25-10.09.30:004][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.25-10.09.30:041][  0]LogInit: Using OS detected language (en-GB).
+[2023.04.25-10.09.30:041][  0]LogInit: Using OS detected locale (en-GB).
+[2023.04.25-10.09.30:177][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.04.25-10.09.30:600][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.25-10.09.30:860][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.04.25-10.09.30:860][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.04.25-10.09.30:860][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.04.25-10.09.30:860][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.04.25-10.09.31:434][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.25-10.09.31:434][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.25-10.09.33:978][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.04.25-10.09.33:996][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.04.25-10.09.33:996][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.04.25-10.09.34:112][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.04.25-10.09.34:189][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.04.25-10.09.34:197][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.04.25-10.09.34:214][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.04.25-10.09.34:256][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.04.25-10.09.34:256][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.04.25-10.09.34:406][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2023.04.25-10.09.34:406][  0]LogD3D12RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.25-10.09.34:406][  0]LogWindows: Attached monitors:
+[2023.04.25-10.09.34:407][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2100), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.04.25-10.09.34:407][  0]LogWindows:     resolution: 3840x2160, work area: (-3840, 0) -> (0, 2100), device: '\\.\DISPLAY2'
+[2023.04.25-10.09.34:407][  0]LogWindows: Found 2 attached monitors.
+[2023.04.25-10.09.34:407][  0]LogWindows: EnumDisplayDevices:
+[2023.04.25-10.09.34:407][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.04.25-10.09.34:407][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.04.25-10.09.34:407][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.04.25-10.09.34:407][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.04.25-10.09.34:407][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.04.25-10.09.34:407][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2023.04.25-10.09.34:407][  0]LogD3D12RHI:   Driver Version: 531.41 (internal:31.0.15.3141, unified:531.41)
+[2023.04.25-10.09.34:407][  0]LogD3D12RHI:      Driver Date: 3-16-2023
+[2023.04.25-10.09.34:407][  0]LogRHI: Texture pool is 4601 MB (70% of 6573 MB)
+[2023.04.25-10.09.34:407][  0]LogD3D12RHI: Async texture creation enabled
+[2023.04.25-10.09.34:407][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.04.25-10.09.34:916][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.04.25-10.09.35:010][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/GitHub/Survival_Game/Survival_Game/Survival_Game.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GitHub/Survival_Game/Survival_Game/Intermediate/TurnkeyReport_0.log" -log="D:/GitHub/Survival_Game/Survival_Game/Intermediate/TurnkeyLog_0.log" -project="D:/GitHub/Survival_Game/Survival_Game/Survival_Game.uproject"  -platform=all'
+[2023.04.25-10.09.35:010][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Programs/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/GitHub/Survival_Game/Survival_Game/Survival_Game.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GitHub/Survival_Game/Survival_Game/Intermediate/TurnkeyReport_0.log" -log="D:/GitHub/Survival_Game/Survival_Game/Intermediate/TurnkeyLog_0.log" -project="D:/GitHub/Survival_Game/Survival_Game/Survival_Game.uproject"  -platform=all" ]
+[2023.04.25-10.09.35:393][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.04.25-10.09.35:393][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.04.25-10.09.35:674][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.04.25-10.09.35:674][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.25-10.09.35:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.25-10.09.36:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.04.25-10.09.36:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.04.25-10.09.36:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.25-10.09.36:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.25-10.09.36:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.25-10.09.36:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.04.25-10.09.36:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.25-10.09.36:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.25-10.09.36:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.04.25-10.09.36:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.04.25-10.09.36:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.04.25-10.09.36:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.25-10.09.36:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.25-10.09.36:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.25-10.09.36:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.04.25-10.09.36:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.25-10.09.36:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.25-10.09.36:296][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.04.25-10.09.36:518][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.25-10.09.36:550][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.04.25-10.09.36:550][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.04.25-10.09.36:550][  0]LogTargetPlatformManager:   ADPCM
+[2023.04.25-10.09.36:550][  0]LogTargetPlatformManager:   PCM
+[2023.04.25-10.09.36:577][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.04.25-10.09.36:577][  0]LogTargetPlatformManager:   BINKA
+[2023.04.25-10.09.36:577][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.04.25-10.09.36:577][  0]LogTargetPlatformManager:   OGG
+[2023.04.25-10.09.36:577][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.04.25-10.09.36:577][  0]LogTargetPlatformManager:   OPUS
+[2023.04.25-10.09.37:324][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   SF_METAL
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.04.25-10.09.37:384][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.04.25-10.09.37:426][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.04.25-10.09.37:426][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.04.25-10.09.37:426][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.04.25-10.09.37:426][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.04.25-10.09.37:426][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.04.25-10.09.37:426][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.04.25-10.09.37:426][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.04.25-10.09.37:436][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.25-10.09.37:650][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../GitHub/Survival_Game/Survival_Game/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.04.25-10.09.37:672][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.25-10.09.37:673][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../GitHub/Survival_Game/Survival_Game/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.04.25-10.09.37:721][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.25-10.09.37:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/Survival_Game/Survival_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.25-10.09.37:744][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.04.25-10.09.37:744][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/Survival_Game/Survival_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.25-10.09.37:744][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.04.25-10.09.37:868][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.04.25-10.09.37:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.25-10.09.37:868][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.04.25-10.09.37:924][  0]LogDerivedDataCache: Speed tests for C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2023.04.25-10.09.37:924][  0]LogDerivedDataCache: Display: Performance to C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.44ms. RandomReadSpeed=23.79MBs, RandomWriteSpeed=84.32MBs. Assigned SpeedClass 'Local'
+[2023.04.25-10.09.37:950][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.25-10.09.37:950][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.25-10.09.37:950][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.04.25-10.09.37:967][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.04.25-10.09.37:967][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.04.25-10.09.38:286][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../GitHub/Survival_Game/Survival_Game/Intermediate/Shaders/WorkingDirectory/10984/).
+[2023.04.25-10.09.38:287][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andy/AppData/Local/Temp/UnrealShaderWorkingDir/B81F8A2B45191C87731DD894E12EB527/'.
+[2023.04.25-10.09.38:287][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.25-10.09.38:287][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.04.25-10.09.48:454][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.25-10.09.48:584][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.25-10.09.49:328][  0]LogAssetRegistry: FAssetRegistry took 0.0157 seconds to start up
+[2023.04.25-10.09.49:411][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.04.25-10.09.56:538][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.04.25-10.09.56:816][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.04.25-10.09.57:073][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.25-10.09.57:073][  0]LogDeviceProfileManager: Active device profile: [000004AE94DE0A80][000004AE8BF02800 50] WindowsEditor
+[2023.04.25-10.09.57:073][  0]LogDeviceProfileManager: Profiles: [000004AE94DE0540][000004AE79725000 50] Windows, [000004AE94DE0A80][000004AE8BF02800 50] WindowsEditor, [000004AE94DE2680][000004AE8BECA000 50] WindowsServer, [000004AE94DE24C0][000004AE94D60000 50] WindowsClient, [000004AE94DE2D80][000004AE94D65000 50] IOS, [000004AE94DE1880][000004AE94D67800 50] iPadAir2, [000004AE94DE4EC0][000004AE94D6C800 50] IPadPro, [000004AE94DE5240][000004AE94D6A000 50] iPadAir3, [000004AE94DE0380][000004AE8B492800 50] iPadAir4, [000004AE94DE4D00][000004AE94DC0000 50] iPadMini4, [000004AE94DE1A40][000004AE94DC5000 50] iPadMini5, [000004AE94DE4B40][000004AE94DC7800 50] iPadMini6, [000004AE94DE7FC0][000004AE94D62800 50] iPhone6S, [000004AE94DE8340][000004AE94DCC800 50] iPhone7, [000004AE94DE86C0][000004AE94DCA000 50] iPodTouch7, [000004AE94DE4280][000004AE94E10000 50] iPhone6SPlus, [000004AE94DE63C0][000004AE94E15000 50] iPhone7Plus, [000004AE94DE16C0][000004AE94E17800 50] iPhoneSE, [000004AE94DE5940][000004AE94E1A000 50] iPhone8, [000004AE94DE4600][000004AE94E1C800 50] iPhone8Plus, [000004AE94DE4980][000004AE94DC2800 50] iPhoneX, [000004AE94DE2BC0][000004AE94E00000 50] iPhoneXS, [000004AE94DE01C0][000004AE94E05000 50] iPhoneXSMax, [000004AE94DE8880][000004AE94E07800 50] iPhoneXR, [000004AE94DE6C80][000004AE94E0A000 50] iPhone11, [000004AE94DE7A80][000004AE94E0C800 50] iPhone11Pro, [000004AE94DE3480][000004AE94E12800 50] iPhone11ProMax, [000004AE94DE1F80][000004AE94DD0000 50] iPhoneSE2, [000004AE94DE6900][000004AE94DD5000 50] iPhone12Mini, [000004AE94DE4440][000004AE94DD7800 50] iPhone12, [000004AE94DE7E00][000004AE94DDA000 50] iPhone12Pro, [000004AE94DE0C40][000004AE94DDC800 50] iPhone12ProMax, [000004AE94DE8180][000004AE94E02800 50] iPhone13Mini, [000004AE94DE6200][000004AE94E30000 50] iPhone13, [000004AE94DE2A00][000004AE94E35000 50] iPhone13Pro, [000004AE94DE40C0][000004AE94E37800 50] iPhone13ProMax, [000004AE94DE55C0][000004AE94E3A000 50] iPadPro105, [000004AE94DE5400][000004AE94E3C800 50] iPadPro129, [000004AE94DE8A40][000004AE94DD2800 50] iPadPro97, [000004AE94DE6740][000004AE94E40000 50] iPadPro2_129, [000004AE94DE71C0][000004AE94E45000 50] iPad5, [000004AE94DE0000][000004AE94E47800 50] iPad6, [000004AE94DE3D40][000004AE94E4A000 50] iPad7, [000004AE94DE1500][000004AE94E4C800 50] iPad8, [000004AE94DE7540][000004AE94E32800 50] iPad9, [000004AE94DE7C40][000004AE94E50000 50] iPadPro11, [000004AE94DE2300][000004AE94E55000 50] iPadPro2_11, [000004AE94DE3800][000004AE94E57800 50] iPadPro3_11, [000004AE94DE7000][000004AE94E5A000 50] iPadPro3_129, [000004AE94DE1C00][000004AE94E5C800 50] iPadPro4_129, [000004AE94DE6E40][000004AE94E42800 50] iPadPro5_129, [000004AE94DE8C00][000004AE94D70000 50] AppleTV, [000004AE94DE2F40][000004AE94D75000 50] AppleTV4K, [000004AE94DE47C0][000004AE94D77800 50] TVOS, [000004AE94DEA2C0][000004AE94D7C800 50] Mac, [000004AE94DEA640][000004AE94D7A000 50] MacEditor, [000004AE94DE9BC0][000004AE94E52800 50] MacClient, [000004AE94DE5780][000004AE94D80000 50] MacServer, [000004AE94DEA800][000004AE94D87800 50] Linux, [000004AE94DEA100][000004AE94D85000 50] LinuxEditor, [000004AE94DE5080][000004AE94D8A000 50] LinuxArm64Editor, [000004AE94DE6040][000004AE94D8C800 50] LinuxArm64, [000004AE94DE1180][000004AE94D72800 50] LinuxClient, [000004AE94DE9680][000004AE94D90000 50] LinuxArm64Client, [000004AE94DE9A00][000004AE94D95000 50] LinuxServer, [000004AE94DE78C0][000004AE94D97800 50] LinuxArm64Server, [000004AE94DE5CC0][000004AE94D9A000 50] Android, [000004AE94DE3B80][000004AE94D9C800 50] Android_Preview_OpenGL, [000004AE94DE2840][000004AE94D82800 50] Android_Preview_Vulkan, [000004AE94DE9F40][000004AE94DA0000 50] Android_Low, [000004AE94DE5E80][000004AE94DA5000 50] Android_Mid, [000004AE94DE9300][000004AE94DA7800 50] Android_High, [000004AE94DE08C0][000004AE94DAA000 50] Android_Default, [000004AE94DE7700][000004AE94DAC800 50] Android_Adreno4xx, [000004AE94DEAB80][000004AE94D92800 50] Android_Adreno5xx_Low, [000004AE94DE94C0][000004AE94E70000 50] Android_Adreno5xx, [000004AE94DE7380][000004AE94E75000 50] Android_Adreno6xx, [000004AE94DE6580][000004AE94E77800 50] Android_Adreno6xx_Vulkan, [000004AE94DE6AC0][000004AE94E7A000 50] Android_Adreno7xx, [000004AE94DE9140][000004AE94E7C800 50] Android_Adreno7xx_Vulkan, [000004AE94DE3640][000004AE94DA2800 50] Android_Mali_T6xx, [000004AE94DEAD40][000004AE94E80000 50] Android_Mali_T7xx, [000004AE94DE8DC0][000004AE94E85000 50] Android_Mali_T8xx, [000004AE94DEB280][000004AE94E87800 50] Android_Mali_G71, [000004AE94DEAF00][000004AE94E8A000 50] Android_Mali_G72, [000004AE94DEBD00][000004AE94E8C800 50] Android_Mali_G72_Vulkan, [000004AE94DE1340][000004AE94E72800 50] Android_Mali_G76, [000004AE94DEC240][000004AE94E90000 50] Android_Mali_G76_Vulkan, [000004AE94DE5B00][000004AE94E95000 50] Android_Mali_G77, [000004AE94DEC940][000004AE94E97800 50] Android_Mali_G77_Vulkan, [000004AE94DE8500][000004AE94E9A000 50] Android_Mali_G78, [000004AE94DEB980][000004AE94E9C800 50] Android_Mali_G78_Vulkan, [000004AE94DE3F00][000004AE94E82800 50] Android_Mali_G710, [000004AE94DECB00][000004AE94EA0000 50] Android_Mali_G710_Vulkan, [000004AE94DEC5C0][000004AE94EA5000 50] Android_Xclipse_920, [000004AE94DE32C0][000004AE94EA7800 50] Android_Xclipse_920_Vulkan, [000004AE94DEBEC0][000004AE94EAA000 50] Android_Vulkan_SM5, [000004AE94DEB7C0][000004AE94EAC800 50] Android_PowerVR_G6xxx, [000004AE94DEDAC0][000004AE94E92800 50] Android_PowerVR_GT7xxx, [000004AE94DE39C0][000004AE94EB0000 50] Android_PowerVR_GE8xxx, [000004AE94DE2140][000004AE94EB5000 50] Android_PowerVR_GM9xxx, [000004AE94DE8F80][000004AE94EB7800 50] Android_PowerVR_GM9xxx_Vulkan, [000004AE94DEC400][000004AE94EBA000 50] Android_TegraK1, [000004AE94DEDC80][000004AE94EBC800 50] Android_Unknown_Vulkan, [000004AE94DED900][000004AE94EA2800 50] Oculus_Quest, [000004AE94DEE540][000004AE94EC0000 50] Oculus_Quest2, [000004AE94DED580][000004AE94EC5000 50] HoloLens, 
+[2023.04.25-10.09.57:073][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.04.25-10.09.58:550][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.04.25-10.09.59:902][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.25-10.09.59:902][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.25-10.09.59:902][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.25-10.09.59:902][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.25-10.09.59:903][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.25-10.10.00:610][  0]LogNetVersion: Survival_Game 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1596183749)
+[2023.04.25-10.10.03:029][  0]LogSlate: Border
+[2023.04.25-10.10.03:029][  0]LogSlate: BreadcrumbButton
+[2023.04.25-10.10.03:029][  0]LogSlate: Default
+[2023.04.25-10.10.03:029][  0]LogSlate: Icons.Save
+[2023.04.25-10.10.03:029][  0]LogSlate: Icons.Toolbar.Settings
+[2023.04.25-10.10.03:029][  0]LogSlate: ListView
+[2023.04.25-10.10.03:029][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.04.25-10.10.03:029][  0]LogSlate: SoftwareCursor_Grab
+[2023.04.25-10.10.03:029][  0]LogSlate: TableView.DarkRow
+[2023.04.25-10.10.03:029][  0]LogSlate: TableView.Row
+[2023.04.25-10.10.03:029][  0]LogSlate: TreeView
+[2023.04.25-10.10.08:836][  0]SourceControl: Source control is disabled
+[2023.04.25-10.10.09:476][  0]SourceControl: Source control is disabled
+[2023.04.25-10.10.09:476][  0]SourceControl: Source control is disabled
+[2023.04.25-10.10.10:806][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.04.25-10.10.10:812][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.04.25-10.10.10:812][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.25-10.10.15:929][  0]LogPython: Using Python 3.9.7
+[2023.04.25-10.10.18:376][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2E54B27249DE672A42CA8EA07EF006BD | Instance: C8C2B9B24C95A1D69B46E387B76EC2E2 (ANDY-PC-10984).
+[2023.04.25-10.10.19:162][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.25-10.10.19:238][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.25-10.10.20:283][  0]SourceControl: Source control is disabled
+[2023.04.25-10.10.20:317][  0]SourceControl: Source control is disabled
+[2023.04.25-10.10.20:378][  0]SourceControl: Source control is disabled
+[2023.04.25-10.10.20:429][  0]LogUProjectInfo: Found projects:
+[2023.04.25-10.10.20:461][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.25-10.10.20:461][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.25-10.10.20:461][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.25-10.10.24:006][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.25-10.10.24:643][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.25-10.10.24:849][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.25-10.10.24:849][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.25-10.10.25:658][  0]LogCollectionManager: Loaded 0 collections in 0.001042 seconds
+[2023.04.25-10.10.26:421][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Survival_Game/Survival_Game/Saved/Collections/' took 0.00s
+[2023.04.25-10.10.26:421][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Survival_Game/Survival_Game/Content/Developers/Andy/Collections/' took 0.01s
+[2023.04.25-10.10.26:421][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Survival_Game/Survival_Game/Content/Collections/' took 0.00s
+[2023.04.25-10.10.28:563][  0]LogEngine: Initializing Engine...
+[2023.04.25-10.10.28:795][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.04.25-10.10.28:860][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.009 s
+[2023.04.25-10.10.30:845][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.25-10.10.30:921][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.10.31:301][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.10.31:714][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.25-10.10.31:937][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.25-10.10.32:049][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.25-10.10.32:086][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.25-10.10.32:086][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.04.25-10.10.32:119][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.25-10.10.32:119][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.25-10.10.32:130][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-10.10.32:130][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-10.10.32:131][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-10.10.32:131][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-10.10.32:131][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-10.10.32:131][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-10.10.32:131][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-10.10.32:147][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-10.10.32:161][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-10.10.32:162][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-10.10.32:162][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-10.10.32:286][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-10.10.32:361][  0]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.25-10.10.32:411][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-10.10.32:524][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-10.10.32:525][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-10.10.32:527][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.04.25-10.10.32:527][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.25-10.10.32:528][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.25-10.10.32:529][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.04.25-10.10.32:529][  0]LogInit: FAudioDevice initialized.
+[2023.04.25-10.10.32:529][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.25-10.10.32:529][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.25-10.10.32:529][  0]LogInit: Texture streaming: Enabled
+[2023.04.25-10.10.32:712][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.04.25-10.10.32:789][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.25-10.10.32:907][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.25-10.10.32:967][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.04.25-10.10.32:967][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.04.25-10.11.02:375][  0]LogLiveCoding: Display: First instance in process group "UE_Survival_Game_0x42397e70", spawning console
+[2023.04.25-10.11.02:375][  0]LogLiveCoding: Display: Waiting for server
+[2023.04.25-10.11.02:375][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.04.25-10.11.02:473][  0]LogInit: Transaction tracking system initialized
+[2023.04.25-10.11.02:909][  0]BlueprintLog: New page: Editor Load
+[2023.04.25-10.11.04:244][  0]LocalizationService: Localization service is disabled
+[2023.04.25-10.11.04:568][  0]TimingProfiler: Initialize
+[2023.04.25-10.11.04:569][  0]TimingProfiler: OnSessionChanged
+[2023.04.25-10.11.04:576][  0]LoadingProfiler: Initialize
+[2023.04.25-10.11.04:577][  0]LoadingProfiler: OnSessionChanged
+[2023.04.25-10.11.04:583][  0]NetworkingProfiler: Initialize
+[2023.04.25-10.11.04:585][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.25-10.11.04:585][  0]MemoryProfiler: Initialize
+[2023.04.25-10.11.04:585][  0]MemoryProfiler: OnSessionChanged
+[2023.04.25-10.11.05:567][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.25-10.11.05:568][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.25-10.11.05:568][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.25-10.11.09:545][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Survival_Game/Survival_Game/Content/' took 0.03s
+[2023.04.25-10.11.09:545][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.04.25-10.11.10:212][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.25-10.11.10:461][  0]SourceControl: Source control is disabled
+[2023.04.25-10.11.10:479][  0]LogUnrealEdMisc: Loading editor; pre map load, took 136.612
+[2023.04.25-10.11.10:517][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-10.11.10:518][  0]LogEditorServer: Warning: Can't find file '../../../../../../GitHub/Survival_Game/Survival_Game/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.04.25-10.11.10:519][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-10.11.10:563][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.909ms to complete.
+[2023.04.25-10.11.10:563][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.060
+[2023.04.25-10.11.11:659][  0]LogUnrealEdMisc: Total Editor Startup Time, took 137.798
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: ================================================
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.00%
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.25-10.11.11:677][  0]LogShaderCompilers: Display: ================================================
+[2023.04.25-10.11.12:080][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.25-10.11.12:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.11.12:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.11.12:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.11.12:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.11.13:304][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:305][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:342][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:342][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:363][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:363][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:391][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:391][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:494][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:494][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:510][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:511][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:530][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:530][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:540][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:540][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:546][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:547][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:581][  0]LogPakFile: Display: Mounted Pak file 'D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.04.25-10.11.13:581][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.25-10.11.13:582][  0]LogFeaturePack: Error: Error in Feature pack D:/Programs/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.04.25-10.11.15:463][  0]LogSlate: Took 0.029178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.25-10.11.15:541][  0]LogSlate: Took 0.013149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.25-10.11.15:559][  0]LogSlate: Took 0.012358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.25-10.11.15:564][  0]LogSlate: Took 0.003748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.25-10.11.15:573][  0]LogSlate: Took 0.008811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.25-10.11.16:029][  0]LogViewport: Scene viewport resized to 2231x1285, mode Windowed.
+[2023.04.25-10.11.17:846][  0]LogStall: Startup...
+[2023.04.25-10.11.17:848][  0]LogStall: Startup complete.
+[2023.04.25-10.11.18:220][  0]LogLoad: (Engine Initialization) Total time: 144.36 seconds
+[2023.04.25-10.11.18:220][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.25-10.11.18:382][  0]LogAssetRegistry: Asset discovery search completed in 89.0458 seconds
+[2023.04.25-10.11.18:656][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.04.25-10.11.18:831][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.25-10.11.20:097][  2]LogSlate: Took 0.014629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.25-10.11.46:263][928]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.335 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.25-10.11.53:488][178]LogMetaData: Removing '/Game/Damage/BP_Buff_Health.BP_Buff_Health:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.11.53:488][178]LogMetaData: Removing '/Game/Damage/BP_Buff_Health.BP_Buff_Health_C' ref from Metadata '/Game/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.11.53:488][178]LogMetaData: Removing '/Game/Damage/BP_Buff_Health.SKEL_BP_Buff_Health_C:BndEvt__BP_Buff_Health_SphereCollision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.11.53:488][178]LogMetaData: Removing '/Game/Damage/BP_Buff_Health.SKEL_BP_Buff_Health_C:UserConstructionScript' ref from Metadata '/Game/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.11.53:488][178]LogMetaData: Removing '/Game/Damage/BP_Buff_Health.SKEL_BP_Buff_Health_C' ref from Metadata '/Game/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.11.53:574][178]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.017277 seconds
+[2023.04.25-10.11.53:601][178]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/0/W7/7Z32AOQTKMKNKZMZ6BI7L1
+[2023.04.25-10.11.53:602][178]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/7Z32AOQTKMKNKZMZ6BI7L18896358F47C7D457E91C2393AA145A1B.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/0/W7/7Z32AOQTKMKNKZMZ6BI7L1.uasset'
+[2023.04.25-10.11.53:622][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Damage/BP_Buff_Health" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Damage/BP_Buff_Health.uasset" SILENT=true
+[2023.04.25-10.11.53:654][178]LogSavePackage: Moving output files for package: /Game/Damage/BP_Buff_Health
+[2023.04.25-10.11.53:654][178]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Buff_Health9AF063294D7B25CD7D84F2806B572D51.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Damage/BP_Buff_Health.uasset'
+[2023.04.25-10.11.53:844][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.25-10.11.53:863][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.04.25-10.11.53:870][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.04.25-10.11.53:896][178]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-10.11.53:908][178]LogContentValidation: Display: Validating Blueprint /Game/Damage/BP_Buff_Health.BP_Buff_Health
+[2023.04.25-10.11.53:909][178]LogContentValidation: Display: Validating BP_Buff_Health_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Buff_Health_C_UAID_001A7DDA7113297C01_1774902320
+[2023.04.25-10.11.53:909][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Buff_Health_C_UAID_001A7DDA7113297C01_1774902320'
+[2023.04.25-10.12.28:120][  3]LogContentBrowser: Attempting asset rename: Damage -> HealthDamage
+[2023.04.25-10.12.28:430][  3]LogMetaData: Removing '/Game/HealthDamage/BP_Buff_Health.BP_Buff_Health_C' ref from Metadata '/Game/Damage/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.12.28:430][  3]LogMetaData: Removing '/Game/HealthDamage/BP_Buff_Health.SKEL_BP_Buff_Health_C' ref from Metadata '/Game/Damage/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.12.28:430][  3]LogMetaData: Removing '/Game/HealthDamage/BP_Buff_Health.SKEL_BP_Buff_Health_C:BndEvt__BP_Buff_Health_SphereCollision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Damage/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.12.28:430][  3]LogMetaData: Removing '/Game/HealthDamage/BP_Buff_Health.SKEL_BP_Buff_Health_C:UserConstructionScript' ref from Metadata '/Game/Damage/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.12.28:430][  3]LogMetaData: Removing '/Game/HealthDamage/BP_Buff_Health.BP_Buff_Health:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Damage/BP_Buff_Health.PackageMetaData'
+[2023.04.25-10.12.28:431][  3]LogMetaData: Removing '/Game/HealthDamage/BPI_Damage.BPI_Damage_C' ref from Metadata '/Game/Damage/BPI_Damage.PackageMetaData'
+[2023.04.25-10.12.28:431][  3]LogMetaData: Removing '/Game/HealthDamage/BPI_Damage.BPI_Damage:ProcessDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/Damage/BPI_Damage.PackageMetaData'
+[2023.04.25-10.12.28:431][  3]LogMetaData: Removing '/Game/HealthDamage/BPI_Damage.BPI_Damage:ProcessDamage.K2Node_FunctionResult_0' ref from Metadata '/Game/Damage/BPI_Damage.PackageMetaData'
+[2023.04.25-10.12.28:431][  3]LogMetaData: Removing '/Game/HealthDamage/BPI_Damage.SKEL_BPI_Damage_C:ProcessDamage' ref from Metadata '/Game/Damage/BPI_Damage.PackageMetaData'
+[2023.04.25-10.12.28:431][  3]LogMetaData: Removing '/Game/HealthDamage/BPI_Damage.SKEL_BPI_Damage_C' ref from Metadata '/Game/Damage/BPI_Damage.PackageMetaData'
+[2023.04.25-10.12.28:431][  3]LogMetaData: Removing '/Game/HealthDamage/BPI_Damage.BPI_Damage_C:ProcessDamage' ref from Metadata '/Game/Damage/BPI_Damage.PackageMetaData'
+[2023.04.25-10.12.28:433][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Heal.DT_Damage_Heal_C' ref from Metadata '/Game/Damage/DT_Damage_Heal.PackageMetaData'
+[2023.04.25-10.12.28:433][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Heal.SKEL_DT_Damage_Heal_C' ref from Metadata '/Game/Damage/DT_Damage_Heal.PackageMetaData'
+[2023.04.25-10.12.28:434][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Generic.DT_Damage_Generic_C' ref from Metadata '/Game/Damage/DT_Damage_Generic.PackageMetaData'
+[2023.04.25-10.12.28:434][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Generic.SKEL_DT_Damage_Generic_C' ref from Metadata '/Game/Damage/DT_Damage_Generic.PackageMetaData'
+[2023.04.25-10.12.28:435][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Base.DT_Damage_Base_C' ref from Metadata '/Game/Damage/DT_Damage_Base.PackageMetaData'
+[2023.04.25-10.12.28:435][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Base.DT_Damage_Base:ProcessDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/Damage/DT_Damage_Base.PackageMetaData'
+[2023.04.25-10.12.28:435][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Base.DT_Damage_Base:ProcessDamage.K2Node_FunctionResult_0' ref from Metadata '/Game/Damage/DT_Damage_Base.PackageMetaData'
+[2023.04.25-10.12.28:435][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Base.SKEL_DT_Damage_Base_C:ProcessDamage' ref from Metadata '/Game/Damage/DT_Damage_Base.PackageMetaData'
+[2023.04.25-10.12.28:435][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Base.SKEL_DT_Damage_Base_C' ref from Metadata '/Game/Damage/DT_Damage_Base.PackageMetaData'
+[2023.04.25-10.12.28:435][  3]LogMetaData: Removing '/Game/HealthDamage/DT_Damage_Base.DT_Damage_Base_C:ProcessDamage' ref from Metadata '/Game/Damage/DT_Damage_Base.PackageMetaData'
+[2023.04.25-10.12.28:500][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.25-10.12.28:507][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.25-10.12.28:513][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.04.25-10.12.28:882][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.04.25-10.12.28:917][  3]LogSavePackage: Moving output files for package: /Game/Characters/BP_Player
+[2023.04.25-10.12.28:918][  3]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_PlayerF00FF70D42642D19D7E2298BBD21F35C.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Characters/BP_Player.uasset'
+[2023.04.25-10.12.28:940][  3]LogSavePackage: Moving output files for package: /Game/Environment/VendingMachine/BP_VendingMachine
+[2023.04.25-10.12.28:940][  3]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_VendingMachine371112E84946CA78EB3A8BB2140F6F16.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/VendingMachine/BP_VendingMachine.uasset'
+[2023.04.25-10.12.28:956][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Cactus/BP_Cactus" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus/BP_Cactus.uasset" SILENT=true
+[2023.04.25-10.12.28:961][  3]LogSavePackage: Moving output files for package: /Game/Environment/Cactus/BP_Cactus
+[2023.04.25-10.12.28:962][  3]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_CactusCEB1E1C445A4BA6A45DBCE9CBB17DF5D.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Environment/Cactus/BP_Cactus.uasset'
+[2023.04.25-10.12.28:963][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/BP_Buff_Health" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset" SILENT=true
+[2023.04.25-10.12.28:967][  3]LogSavePackage: Moving output files for package: /Game/HealthDamage/BP_Buff_Health
+[2023.04.25-10.12.28:967][  3]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Buff_Health32647F934E16227566D63986960F6D3F.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset'
+[2023.04.25-10.12.28:968][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/BPI_Damage" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/BPI_Damage.uasset" SILENT=true
+[2023.04.25-10.12.28:969][  3]LogSavePackage: Moving output files for package: /Game/HealthDamage/BPI_Damage
+[2023.04.25-10.12.28:969][  3]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BPI_DamageFDCDC5EA49701532D6BC21B1EBC1FBF5.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/BPI_Damage.uasset'
+[2023.04.25-10.12.28:970][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/DT_Damage_Heal" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/DT_Damage_Heal.uasset" SILENT=true
+[2023.04.25-10.12.28:971][  3]LogSavePackage: Moving output files for package: /Game/HealthDamage/DT_Damage_Heal
+[2023.04.25-10.12.28:971][  3]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/DT_Damage_Heal35B8DCC84697B89640E78D9A4BFCE553.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/DT_Damage_Heal.uasset'
+[2023.04.25-10.12.28:972][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/DT_Damage_Generic" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/DT_Damage_Generic.uasset" SILENT=true
+[2023.04.25-10.12.28:973][  3]LogSavePackage: Moving output files for package: /Game/HealthDamage/DT_Damage_Generic
+[2023.04.25-10.12.28:973][  3]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/DT_Damage_GenericE675364D45CA44116B8C6E8D40298BD4.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/DT_Damage_Generic.uasset'
+[2023.04.25-10.12.28:973][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/DT_Damage_Base" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/DT_Damage_Base.uasset" SILENT=true
+[2023.04.25-10.12.28:976][  3]LogSavePackage: Moving output files for package: /Game/HealthDamage/DT_Damage_Base
+[2023.04.25-10.12.28:976][  3]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/DT_Damage_BaseD2BDBE7146232F8D92E011880B44F454.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/HealthDamage/DT_Damage_Base.uasset'
+[2023.04.25-10.12.29:007][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.25-10.12.29:013][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.04.25-10.12.29:019][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.04.25-10.12.29:029][  3]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-10.12.29:029][  3]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/BP_Buff_Health.BP_Buff_Health
+[2023.04.25-10.12.29:029][  3]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Player.BP_Player
+[2023.04.25-10.12.29:029][  3]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/BPI_Damage.BPI_Damage
+[2023.04.25-10.12.29:029][  3]LogContentValidation: Display: Validating Blueprint /Game/Environment/Cactus/BP_Cactus.BP_Cactus
+[2023.04.25-10.12.29:029][  3]LogContentValidation: Display: Validating Blueprint /Game/Environment/VendingMachine/BP_VendingMachine.BP_VendingMachine
+[2023.04.25-10.12.29:029][  3]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/DT_Damage_Generic.DT_Damage_Generic
+[2023.04.25-10.12.29:029][  3]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/DT_Damage_Heal.DT_Damage_Heal
+[2023.04.25-10.12.29:029][  3]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/DT_Damage_Base.DT_Damage_Base
+[2023.04.25-10.13.33:022][653]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHub/Survival_Game/Survival_Game/Content/Developers/Andy/Collections/' because it could not be accessed. Aborting watch request...
+[2023.04.25-10.13.37:443][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.25-10.13.37:460][147]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_01/Level_01.Level_01
+[2023.04.25-10.13.37:468][147]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_01/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-10.13.37:469][147]LightingResults: New page: Lighting Build
+[2023.04.25-10.13.37:496][147]LoadErrors: New page: Loading map: Level_01.umap
+[2023.04.25-10.13.37:562][147]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.13.37:635][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.13.37:647][147]MapCheck: New page: Map Check
+[2023.04.25-10.13.37:647][147]LightingResults: New page: Lighting Build
+[2023.04.25-10.13.37:653][147]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.13.37:804][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.25-10.13.37:815][147]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.13.37:815][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.13.37:843][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.25-10.13.37:850][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.25-10.13.37:866][147]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.04.25-10.13.37:908][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.13.37:909][147]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-10.13.37:912][147]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-10.13.37:913][147]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-10.13.38:986][147]LogWorldPartition: Display: WorldPartition initialize took 1.07 sec
+[2023.04.25-10.13.39:357][147]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-10.13.39:401][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.25-10.13.39:410][147]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-10.13.39:412][147]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.478ms to complete.
+[2023.04.25-10.13.39:412][147]LogFileHelpers: Loading map 'Level_01' took 1.951
+[2023.04.25-10.13.39:537][147]LogViewport: Scene viewport resized to 1847x1285, mode Windowed.
+[2023.04.25-10.13.45:268][564]LogViewport: Scene viewport resized to 2231x1285, mode Windowed.
+[2023.04.25-10.13.59:432][603]Cmd: DELETE
+[2023.04.25-10.13.59:432][603]Cmd: ACTOR DELETE
+[2023.04.25-10.13.59:491][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.13.59:492][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.13.59:492][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.13.59:492][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.13.59:500][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.25-10.13.59:500][603]LogEditorActor: Deleted 4 Actors (0.020 secs)
+[2023.04.25-10.14.01:794][795]Cmd: DELETE
+[2023.04.25-10.14.01:794][795]Cmd: ACTOR DELETE
+[2023.04.25-10.14.03:921][975]Cmd: DELETE
+[2023.04.25-10.14.03:921][975]Cmd: ACTOR DELETE
+[2023.04.25-10.14.11:313][671]Cmd: DELETE
+[2023.04.25-10.14.11:313][671]Cmd: ACTOR DELETE
+[2023.04.25-10.14.11:315][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.14.11:315][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.14.11:315][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.14.11:315][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.14.11:324][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.25-10.14.11:325][671]LogEditorActor: Deleted 4 Actors (0.011 secs)
+[2023.04.25-10.14.13:230][834]Cmd: DELETE
+[2023.04.25-10.14.13:230][834]Cmd: ACTOR DELETE
+[2023.04.25-10.14.57:307][260]Cmd: TRANSACTION UNDO
+[2023.04.25-10.14.57:307][260]LogEditorTransaction: Undo Move Elements
+[2023.04.25-10.15.12:719][317]Cmd: DELETE
+[2023.04.25-10.15.12:719][317]Cmd: ACTOR DELETE
+[2023.04.25-10.15.12:721][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.15.12:722][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.15.12:722][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.25-10.15.12:731][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.25-10.15.12:732][317]LogEditorActor: Deleted 3 Actors (0.012 secs)
+[2023.04.25-10.15.44:408][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.25-10.15.44:521][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.25-10.15.44:529][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.25-10.15.44:537][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.04.25-10.15.44:540][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/2/N3/PKW84WHW482LBGDDBXQOUJ
+[2023.04.25-10.15.44:541][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/PKW84WHW482LBGDDBXQOUJ48ED7B5B4A5E42C9D787728317E37A6C.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/2/N3/PKW84WHW482LBGDDBXQOUJ.uasset'
+[2023.04.25-10.15.44:542][575]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Level_01/Level_01/1/7D/S422E3I98DFH0VJ89OZWY6
+[2023.04.25-10.15.44:543][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/S422E3I98DFH0VJ89OZWY6FF5D7F3F4D9B7F3D11AB0C91A1FE35AE.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalObjects__/Maps/Level_01/Level_01/1/7D/S422E3I98DFH0VJ89OZWY6.uasset'
+[2023.04.25-10.15.44:545][575]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Level_01/Level_01/F/3V/MSX5BYHQJNX85NNAXI5VZQ
+[2023.04.25-10.15.44:546][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/MSX5BYHQJNX85NNAXI5VZQ03CC2B9B493B9E1E7C545F858971F1BF.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalObjects__/Maps/Level_01/Level_01/F/3V/MSX5BYHQJNX85NNAXI5VZQ.uasset'
+[2023.04.25-10.15.44:548][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/0/R7/J8NZW79FLFIPIEFHAMC6E2
+[2023.04.25-10.15.44:548][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/J8NZW79FLFIPIEFHAMC6E2A05698CD4B8CA1CEE24A21817EBCA74C.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/0/R7/J8NZW79FLFIPIEFHAMC6E2.uasset'
+[2023.04.25-10.15.44:551][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/1/4J/93TIDKPSQSEW2KZ29CNARF
+[2023.04.25-10.15.44:552][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/93TIDKPSQSEW2KZ29CNARF58A20D9B4F7C56B63F182EAD0986C703.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/1/4J/93TIDKPSQSEW2KZ29CNARF.uasset'
+[2023.04.25-10.15.44:554][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/1/LO/VG4LUGIK09M67G0BRPE21V
+[2023.04.25-10.15.44:555][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/VG4LUGIK09M67G0BRPE21VD91535014D2C23B19D12F0A5A9E1DA63.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/1/LO/VG4LUGIK09M67G0BRPE21V.uasset'
+[2023.04.25-10.15.44:557][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/1/TJ/HQ8ZBBDAFKD9VKDK1EZWJR
+[2023.04.25-10.15.44:557][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/HQ8ZBBDAFKD9VKDK1EZWJR677751574F315161111DBD84A077AB1B.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/1/TJ/HQ8ZBBDAFKD9VKDK1EZWJR.uasset'
+[2023.04.25-10.15.44:559][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/2/O9/OFVMTIL4VPHY5QAIZ4HAUH
+[2023.04.25-10.15.44:560][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/OFVMTIL4VPHY5QAIZ4HAUH54250DF04EFD49925A4F4F819ADB975A.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/2/O9/OFVMTIL4VPHY5QAIZ4HAUH.uasset'
+[2023.04.25-10.15.44:562][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/4/XN/4F732URP17AO6R6OI14JAD
+[2023.04.25-10.15.44:562][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/4F732URP17AO6R6OI14JADDE814CF44EA7DD5C514E33A7700C3205.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/4/XN/4F732URP17AO6R6OI14JAD.uasset'
+[2023.04.25-10.15.44:564][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/4/ZU/P4ZJAS58K9HTGZN2WMMXS7
+[2023.04.25-10.15.44:565][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/P4ZJAS58K9HTGZN2WMMXS710EA533A44F28EBCDD36DDB18066C2A5.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/4/ZU/P4ZJAS58K9HTGZN2WMMXS7.uasset'
+[2023.04.25-10.15.44:568][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/5/JN/TE53MY8FQILF1LEJ30I59C
+[2023.04.25-10.15.44:569][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/TE53MY8FQILF1LEJ30I59CC67F8DDE4B03FDB1EA5A9D890492CD71.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/5/JN/TE53MY8FQILF1LEJ30I59C.uasset'
+[2023.04.25-10.15.44:571][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/6/62/G3VFRCS4G3R8CAEZXILCE6
+[2023.04.25-10.15.44:571][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/G3VFRCS4G3R8CAEZXILCE6C7FA2DAA4BA73608DAF92CBF6D5AEE87.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/6/62/G3VFRCS4G3R8CAEZXILCE6.uasset'
+[2023.04.25-10.15.44:573][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/6/FG/PQIOAM4JQJTIC8VTO7GO5M
+[2023.04.25-10.15.44:574][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/PQIOAM4JQJTIC8VTO7GO5M021E24FB4B760DB565F20AAE28699422.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/6/FG/PQIOAM4JQJTIC8VTO7GO5M.uasset'
+[2023.04.25-10.15.44:576][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/8/V9/NWHMSFYE06N4VZ54858R7T
+[2023.04.25-10.15.44:577][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/NWHMSFYE06N4VZ54858R7T6AE95BF04E32F58A3B7FAB8FDAF31192.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/8/V9/NWHMSFYE06N4VZ54858R7T.uasset'
+[2023.04.25-10.15.44:579][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/9/PY/38A24EUHNP6PUT95XV42Z4
+[2023.04.25-10.15.44:579][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/38A24EUHNP6PUT95XV42Z4FC7D14B94AE8123338F8E18D73104B03.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/9/PY/38A24EUHNP6PUT95XV42Z4.uasset'
+[2023.04.25-10.15.44:582][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/A/LM/8L9KY15UP2JJALFMEI75MO
+[2023.04.25-10.15.44:583][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/8L9KY15UP2JJALFMEI75MO2661EFB9401E0E9FB0996489F931DD44.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/A/LM/8L9KY15UP2JJALFMEI75MO.uasset'
+[2023.04.25-10.15.44:585][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/B/22/7RS9WGI8T45MRK1VUJH348
+[2023.04.25-10.15.44:586][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/7RS9WGI8T45MRK1VUJH3481E347A9D43041D6D79D9F4B0CDD687D7.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/B/22/7RS9WGI8T45MRK1VUJH348.uasset'
+[2023.04.25-10.15.44:588][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/B/WF/9UCUXUH7XJT4YEXVDESQXR
+[2023.04.25-10.15.44:589][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/9UCUXUH7XJT4YEXVDESQXR1C74A0F943BF7382DEA0AC9B3A1970DE.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/B/WF/9UCUXUH7XJT4YEXVDESQXR.uasset'
+[2023.04.25-10.15.44:591][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/E/PN/WUNZ41HL8OTS1RQG7K5BL5
+[2023.04.25-10.15.44:591][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/WUNZ41HL8OTS1RQG7K5BL5CC1043DF4DFE57198821068349214FE2.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/E/PN/WUNZ41HL8OTS1RQG7K5BL5.uasset'
+[2023.04.25-10.15.44:594][575]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/E/YO/CI7GP0JTLB0CSR3I1Y09JC
+[2023.04.25-10.15.44:594][575]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/CI7GP0JTLB0CSR3I1Y09JC1E9C8CE24E05ADEDA83C43ADA9C84162.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/E/YO/CI7GP0JTLB0CSR3I1Y09JC.uasset'
+[2023.04.25-10.15.44:613][575]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.ActorFolder_UID_EBA23F82-48252949-750E4391-1A3A1CDD
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_1
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_7
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_14
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_6
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1268361370
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_13
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_0
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_9
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_21
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_8
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_15
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_25
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_3
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA7113057C01_1836367983
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_UAID_001A7DDA7113057C01_1866746984
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_4
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.StaticMeshActor_5
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating ActorFolder /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.ActorFolder_UID_7B7009C3-45D3D6DD-94D3429E-1D79C034
+[2023.04.25-10.15.44:613][575]LogContentValidation: Display: Validating TriggerBox /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.TriggerBox_UAID_001A7DDA7113057C01_1889211985
+[2023.04.25-10.15.50:265][967]Cmd: DELETE
+[2023.04.25-10.15.50:265][967]Cmd: ACTOR DELETE
+[2023.04.25-10.15.50:267][967]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.04.25-10.15.50:275][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.25-10.15.50:276][967]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.04.25-10.15.51:392][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.04.25-10.15.51:470][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.25-10.15.51:477][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.25-10.15.51:485][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.04.25-10.16.09:319][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-10.16.09:335][246]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.25-10.16.09:335][246]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.25-10.16.09:335][246]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-10.16.09:335][246]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.25-10.16.09:336][246]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.25-10.16.09:336][246]LogWorldPartition: Display: GetPartitionedActors took 92 us
+[2023.04.25-10.16.09:336][246]LogWorldPartition: Display: GenerateStreaming took 322 us
+[2023.04.25-10.16.09:378][246]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.25-10.16.09:396][246]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2023.04.25-10.16.09:426][246]LogPlayLevel: [PlayLevel] Compiling BP_VendingMachine before play...
+[2023.04.25-10.16.09:436][246]LogPlayLevel: [PlayLevel] Compiling BP_Cactus before play...
+[2023.04.25-10.16.09:456][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.25-10.16.09:456][246]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (3 blueprints)
+[2023.04.25-10.16.09:492][246]PIE: New page: PIE session: Level_01 (25 Apr 2023, 12:16:09)
+[2023.04.25-10.16.09:519][246]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.04.25-10.16.09:522][246]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.25-10.16.09:522][246]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.16.09:548][246]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.25-10.16.09:556][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033511s)
+[2023.04.25-10.16.09:556][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.033600s)
+[2023.04.25-10.16.09:556][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.16.09:556][246]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-10.16.09:557][246]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-10.16.09:557][246]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.25-10.16.09:567][246]LogWorldPartition: Display: WorldPartition initialize took 10 ms
+[2023.04.25-10.16.09:567][246]LogPlayLevel: PIE: World Init took: (0.011365s)
+[2023.04.25-10.16.09:575][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.25-10.16.09:582][246]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-10.16.09:582][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-10.16.09:582][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-10.16.09:582][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-10.16.09:582][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-10.16.09:582][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-10.16.09:585][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-10.16.09:628][246]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.25-10.16.09:628][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-10.16.09:628][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-10.16.09:628][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-10.16.09:629][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.04.25-10.16.09:629][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.04.25-10.16.09:631][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.04.25-10.16.09:631][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.04.25-10.16.09:631][246]LogInit: FAudioDevice initialized.
+[2023.04.25-10.16.09:631][246]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_01'.
+[2023.04.25-10.16.09:647][246]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.16.09:648][246]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.04.25-11.16.09
+[2023.04.25-10.16.09:649][246]LogWorld: Bringing up level for play took: 0.001567
+[2023.04.25-10.16.09:654][246]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.04.25-10.16.09:691][246]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.25-10.16.09:691][246]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-10.16.09:800][246]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-10.16.09:800][246]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.25-10.16.09:810][246]PIE: Server logged in
+[2023.04.25-10.16.09:811][246]PIE: Play in editor total start time 0.477 seconds.
+[2023.04.25-10.16.10:013][246]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2023.04.25-10.16.10:013][246]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2023.04.25-10.16.10:013][246]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2023.04.25-10.16.10:014][246]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2023.04.25-10.16.14:791][598]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.16.16:656][745]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113467B01_1263309369] you walked into a cactus and took 30.0 damage, ouch!
+[2023.04.25-10.16.20:355][ 36]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.16.20:355][ 36]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.16.20:355][ 36]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.16.20:362][ 36]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.16.20:362][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.20:416][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.16.20:418][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.25-10.16.20:430][ 36]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_02'.
+[2023.04.25-10.16.20:430][ 36]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.16.20:430][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.16.20:430][ 36]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-10.16.20:430][ 36]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2023.04.25-10.16.20:430][ 36]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.16.20:433][ 36]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.04.25-11.16.20
+[2023.04.25-10.16.20:433][ 36]LogWorld: Bringing up level for play took: 0.002348
+[2023.04.25-10.16.20:437][ 36]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-10.16.20:438][ 36]LogLoad: Took 0.081859 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.04.25-10.16.20:440][ 36]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2023.04.25-10.16.20:440][ 36]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2023.04.25-10.16.23:583][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.16.23:583][316]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.16.23:584][316]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.16.23:584][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.23:595][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-10.16.23:606][316]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.04.25-10.16.23:697][316]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.091 s
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: === Handled ensure: ===
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: 
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: 
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: Stack: 
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff813c05fa6 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff813c1f705 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff813c006aa UnrealEditor-Engine.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8aa00ebed UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8aab00c73 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8aa4efa40 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8aae7aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ec82f6 UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ee0d9c UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ee0e8a UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ee3c4d UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ef5564 UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff609ef8736 UnrealEditor.exe!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8fa717604 KERNEL32.DLL!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: [Callstack] 0x00007ff8fb3c26a1 ntdll.dll!UnknownFunction []
+[2023.04.25-10.16.23:697][316]LogOutputDevice: Error: 
+[2023.04.25-10.16.23:735][316]LogStats:                SubmitErrorReport -  0.000 s
+[2023.04.25-10.16.25:269][316]LogStats:                    SendNewReport -  1.534 s
+[2023.04.25-10.16.25:269][316]LogStats:             FDebug::EnsureFailed -  1.664 s
+[2023.04.25-10.16.25:272][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.25:280][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.16.25:314][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.25-10.16.25:315][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.25-10.16.25:321][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.25-10.16.25:382][317]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.04.25-10.16.27:588][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.25-10.16.28:952][500]LogSlate: Window 'Save Content' being destroyed
+[2023.04.25-10.16.29:044][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/6/71/WWD6K257T9MJTM96SHOJBE
+[2023.04.25-10.16.29:044][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/WWD6K257T9MJTM96SHOJBE75B7F10E4BF7B095100AE0896BD6EF98.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/6/71/WWD6K257T9MJTM96SHOJBE.uasset'
+[2023.04.25-10.16.29:047][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/0/0H/5UOYYCJOJ6HNFXCHP6UCG4
+[2023.04.25-10.16.29:047][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/5UOYYCJOJ6HNFXCHP6UCG4F359FDB94CF14DB7C08CF4AEBC99F2EF.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/0/0H/5UOYYCJOJ6HNFXCHP6UCG4.uasset'
+[2023.04.25-10.16.29:049][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/A/LM/8L9KY15UP2JJALFMEI75MO
+[2023.04.25-10.16.29:050][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/8L9KY15UP2JJALFMEI75MO1CCDE3D44DCE8FF5D0D84386996667D3.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/A/LM/8L9KY15UP2JJALFMEI75MO.uasset'
+[2023.04.25-10.16.29:053][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/9/00/0OMT8CJ3M69RXVEP4AGXOI
+[2023.04.25-10.16.29:054][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/0OMT8CJ3M69RXVEP4AGXOI3B7A6B15404F481A9C364BA537B7A373.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/9/00/0OMT8CJ3M69RXVEP4AGXOI.uasset'
+[2023.04.25-10.16.29:056][500]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Level_01/Level_01/A/6X/YRYZM4BIC0ZRJPE3714KB6
+[2023.04.25-10.16.29:056][500]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/YRYZM4BIC0ZRJPE3714KB6E81D680D4B64059ADD1A6597D5335FD4.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/__ExternalActors__/Maps/Level_01/Level_01/A/6X/YRYZM4BIC0ZRJPE3714KB6.uasset'
+[2023.04.25-10.16.29:117][500]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02.Level_02
+[2023.04.25-10.16.29:117][500]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_02/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-10.16.29:117][500]LightingResults: New page: Lighting Build
+[2023.04.25-10.16.29:117][500]LoadErrors: New page: Loading map: Level_02.umap
+[2023.04.25-10.16.29:160][500]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.16.29:160][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.29:164][500]MapCheck: New page: Map Check
+[2023.04.25-10.16.29:164][500]LightingResults: New page: Lighting Build
+[2023.04.25-10.16.29:172][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.16.29:174][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.25-10.16.29:175][500]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.16.29:175][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.16.29:183][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.25-10.16.29:190][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.25-10.16.29:198][500]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2023.04.25-10.16.29:198][500]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.16.29:198][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.16.29:198][500]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-10.16.29:212][500]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-10.16.29:221][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.25-10.16.29:230][500]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-10.16.29:230][500]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2023.04.25-10.16.29:230][500]LogFileHelpers: Loading map 'Level_02' took 0.113
+[2023.04.25-10.16.29:251][500]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-10.16.29:251][500]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488
+[2023.04.25-10.16.29:266][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488'
+[2023.04.25-10.16.29:266][500]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1263309369
+[2023.04.25-10.16.29:267][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1263309369'
+[2023.04.25-10.16.29:267][500]LogContentValidation: Display: Validating BP_Cactus_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1268361370
+[2023.04.25-10.16.29:267][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_Cactus_C_UAID_001A7DDA7113467B01_1268361370'
+[2023.04.25-10.16.29:267][500]LogContentValidation: Display: Validating BP_VendingMachine_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_VendingMachine_C_UAID_001A7DDA71134B7B01_1687864252
+[2023.04.25-10.16.29:267][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_VendingMachine_C_UAID_001A7DDA71134B7B01_1687864252'
+[2023.04.25-10.16.29:267][500]LogContentValidation: Display: Validating BP_VendingMachine_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_VendingMachine_C_UAID_001A7DDA71134B7B01_2054500253
+[2023.04.25-10.16.29:267][500]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.BP_VendingMachine_C_UAID_001A7DDA71134B7B01_2054500253'
+[2023.04.25-10.16.34:333][895]LogViewport: Scene viewport resized to 1055x608, mode Windowed.
+[2023.04.25-10.17.18:030][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.25-10.17.29:211][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.25-10.17.29:265][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.25-10.17.29:273][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.25-10.17.29:286][ 25]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.17.29:287][ 25]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/Level_0267FA6E764C848794522317B89F3DB226.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.04.25-10.17.29:333][ 25]LogFileHelpers: Saving map 'Level_02' took 0.063
+[2023.04.25-10.17.29:344][ 25]AssetCheck: New page: Asset Save: Level_02
+[2023.04.25-10.17.29:344][ 25]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.04.25-10.17.42:152][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.25-10.17.42:161][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-10.17.42:161][290]PIE: New page: PIE session: Level_02 (25 Apr 2023, 12:17:42)
+[2023.04.25-10.17.42:161][290]LogPlayLevel: Creating play world package: /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.17.42:164][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002511s)
+[2023.04.25-10.17.42:164][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_02/Level_02.Level_02 to /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 (0.002590s)
+[2023.04.25-10.17.42:164][290]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.17.42:164][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.17.42:164][290]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-10.17.42:164][290]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2023.04.25-10.17.42:172][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.04.25-10.17.42:173][290]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-10.17.42:173][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-10.17.42:173][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-10.17.42:173][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-10.17.42:173][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-10.17.42:173][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-10.17.42:175][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-10.17.42:216][290]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.04.25-10.17.42:216][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-10.17.42:216][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-10.17.42:216][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-10.17.42:217][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.25-10.17.42:217][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.25-10.17.42:219][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.25-10.17.42:219][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.25-10.17.42:219][290]LogInit: FAudioDevice initialized.
+[2023.04.25-10.17.42:219][290]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_02'.
+[2023.04.25-10.17.42:230][290]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.17.42:230][290]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.04.25-11.17.42
+[2023.04.25-10.17.42:231][290]LogWorld: Bringing up level for play took: 0.000728
+[2023.04.25-10.17.42:232][290]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.04.25-10.17.42:236][290]PIE: Server logged in
+[2023.04.25-10.17.42:237][290]PIE: Play in editor total start time 0.078 seconds.
+[2023.04.25-10.17.46:762][708]LogBlueprintUserMessages: [BP_Cactus_C_1] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.17.47:938][815]LogBlueprintUserMessages: [BP_Cactus_C_2] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.17.48:875][903]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.04.25-10.17.50:105][ 17]LogNet: Browse: /Game/Maps/Level_01/Level_01
+[2023.04.25-10.17.50:105][ 17]LogLoad: LoadMap: /Game/Maps/Level_01/Level_01
+[2023.04.25-10.17.50:105][ 17]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.17.50:105][ 17]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.17.50:106][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.17.50:146][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.17.50:147][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.25-10.17.50:148][ 17]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:150][ 17]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.25-10.17.50:150][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001386s)
+[2023.04.25-10.17.50:150][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.001457s)
+[2023.04.25-10.17.50:150][ 17]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_01'.
+[2023.04.25-10.17.50:150][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.17.50:150][ 17]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-10.17.50:151][ 17]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-10.17.50:151][ 17]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.25-10.17.50:153][ 17]LogWorldPartition: Display: GetPartitionedActors took 76 us
+[2023.04.25-10.17.50:164][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\0H\5UOYYCJOJ6HNFXCHP6UCG4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:165][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\0H\5UOYYCJOJ6HNFXCHP6UCG4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:165][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\0H\5UOYYCJOJ6HNFXCHP6UCG4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:165][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\0H\5UOYYCJOJ6HNFXCHP6UCG4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:166][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\DV\TG3EG8ZKZJOL7Y5MEHNK88.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:166][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\DV\TG3EG8ZKZJOL7Y5MEHNK88.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:166][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\DV\TG3EG8ZKZJOL7Y5MEHNK88.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:167][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\DV\TG3EG8ZKZJOL7Y5MEHNK88.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:168][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\R7\J8NZW79FLFIPIEFHAMC6E2.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:168][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\R7\J8NZW79FLFIPIEFHAMC6E2.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:168][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\R7\J8NZW79FLFIPIEFHAMC6E2.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:168][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\0\R7\J8NZW79FLFIPIEFHAMC6E2.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:169][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\4J\93TIDKPSQSEW2KZ29CNARF.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:169][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\4J\93TIDKPSQSEW2KZ29CNARF.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:169][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\4J\93TIDKPSQSEW2KZ29CNARF.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:169][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\4J\93TIDKPSQSEW2KZ29CNARF.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:170][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\GJ\YQ2PY2TW20CXPOI4H8SL5I.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:170][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\GJ\YQ2PY2TW20CXPOI4H8SL5I.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:170][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\GJ\YQ2PY2TW20CXPOI4H8SL5I.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:170][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\GJ\YQ2PY2TW20CXPOI4H8SL5I.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:171][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\LO\VG4LUGIK09M67G0BRPE21V.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:171][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\LO\VG4LUGIK09M67G0BRPE21V.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:171][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\LO\VG4LUGIK09M67G0BRPE21V.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:171][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\LO\VG4LUGIK09M67G0BRPE21V.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:172][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\TJ\HQ8ZBBDAFKD9VKDK1EZWJR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:172][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\TJ\HQ8ZBBDAFKD9VKDK1EZWJR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:172][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\TJ\HQ8ZBBDAFKD9VKDK1EZWJR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:172][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\1\TJ\HQ8ZBBDAFKD9VKDK1EZWJR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:173][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\2\O9\OFVMTIL4VPHY5QAIZ4HAUH.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:173][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\2\O9\OFVMTIL4VPHY5QAIZ4HAUH.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:173][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\2\O9\OFVMTIL4VPHY5QAIZ4HAUH.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:173][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\2\O9\OFVMTIL4VPHY5QAIZ4HAUH.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:174][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\XN\4F732URP17AO6R6OI14JAD.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:174][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\XN\4F732URP17AO6R6OI14JAD.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:174][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\XN\4F732URP17AO6R6OI14JAD.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:174][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\XN\4F732URP17AO6R6OI14JAD.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:175][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\ZU\P4ZJAS58K9HTGZN2WMMXS7.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:175][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\ZU\P4ZJAS58K9HTGZN2WMMXS7.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:175][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\ZU\P4ZJAS58K9HTGZN2WMMXS7.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:175][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\4\ZU\P4ZJAS58K9HTGZN2WMMXS7.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:176][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\B0\WHODBUX4N0FMZO2JG1SJ0S.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:176][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\B0\WHODBUX4N0FMZO2JG1SJ0S.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:176][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\B0\WHODBUX4N0FMZO2JG1SJ0S.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:176][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\B0\WHODBUX4N0FMZO2JG1SJ0S.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:177][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\JN\TE53MY8FQILF1LEJ30I59C.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:177][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\JN\TE53MY8FQILF1LEJ30I59C.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:177][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\JN\TE53MY8FQILF1LEJ30I59C.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:177][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\5\JN\TE53MY8FQILF1LEJ30I59C.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:177][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\62\G3VFRCS4G3R8CAEZXILCE6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:178][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\62\G3VFRCS4G3R8CAEZXILCE6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:178][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\62\G3VFRCS4G3R8CAEZXILCE6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:178][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\62\G3VFRCS4G3R8CAEZXILCE6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:178][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\71\WWD6K257T9MJTM96SHOJBE.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:178][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\71\WWD6K257T9MJTM96SHOJBE.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:179][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\71\WWD6K257T9MJTM96SHOJBE.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:179][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\71\WWD6K257T9MJTM96SHOJBE.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:179][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\FG\PQIOAM4JQJTIC8VTO7GO5M.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:179][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\FG\PQIOAM4JQJTIC8VTO7GO5M.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:180][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\FG\PQIOAM4JQJTIC8VTO7GO5M.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:180][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\FG\PQIOAM4JQJTIC8VTO7GO5M.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:180][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\TA\8AIN99TXYF693EJBRFTCPG.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:180][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\TA\8AIN99TXYF693EJBRFTCPG.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:181][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\TA\8AIN99TXYF693EJBRFTCPG.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:181][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\6\TA\8AIN99TXYF693EJBRFTCPG.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:181][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\7\W5\9KE5GUMOZ6C1W2DZC7RX2U.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:181][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\7\W5\9KE5GUMOZ6C1W2DZC7RX2U.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:181][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\7\W5\9KE5GUMOZ6C1W2DZC7RX2U.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:182][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\7\W5\9KE5GUMOZ6C1W2DZC7RX2U.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:182][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\LY\VPML0WM4EGRLLT5J9BQOZI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:182][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\LY\VPML0WM4EGRLLT5J9BQOZI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:182][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\LY\VPML0WM4EGRLLT5J9BQOZI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:183][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\LY\VPML0WM4EGRLLT5J9BQOZI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:183][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\V9\NWHMSFYE06N4VZ54858R7T.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:183][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\V9\NWHMSFYE06N4VZ54858R7T.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:183][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\V9\NWHMSFYE06N4VZ54858R7T.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:184][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\V9\NWHMSFYE06N4VZ54858R7T.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:184][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\X7\SDJGZLQAXJ6XERS08AC81Y.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:185][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\X7\SDJGZLQAXJ6XERS08AC81Y.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:185][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\X7\SDJGZLQAXJ6XERS08AC81Y.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:185][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\8\X7\SDJGZLQAXJ6XERS08AC81Y.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:186][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\00\0OMT8CJ3M69RXVEP4AGXOI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:186][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\00\0OMT8CJ3M69RXVEP4AGXOI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:186][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\00\0OMT8CJ3M69RXVEP4AGXOI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:186][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\00\0OMT8CJ3M69RXVEP4AGXOI.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:187][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\2J\Y7H51EFH2B5LDLMYSQ5GBC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:187][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\2J\Y7H51EFH2B5LDLMYSQ5GBC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:187][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\2J\Y7H51EFH2B5LDLMYSQ5GBC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:187][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\2J\Y7H51EFH2B5LDLMYSQ5GBC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:188][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\H9\C9VQFEDG3JIVJLY0YAPQXK.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:188][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\H9\C9VQFEDG3JIVJLY0YAPQXK.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:188][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\H9\C9VQFEDG3JIVJLY0YAPQXK.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:188][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\H9\C9VQFEDG3JIVJLY0YAPQXK.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:189][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\J9\DS8QWM7Q7UEPFH53T2Q7BN.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:189][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\J9\DS8QWM7Q7UEPFH53T2Q7BN.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:189][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\J9\DS8QWM7Q7UEPFH53T2Q7BN.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:189][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\J9\DS8QWM7Q7UEPFH53T2Q7BN.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:190][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\PY\38A24EUHNP6PUT95XV42Z4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:190][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\PY\38A24EUHNP6PUT95XV42Z4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:190][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\PY\38A24EUHNP6PUT95XV42Z4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:190][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\9\PY\38A24EUHNP6PUT95XV42Z4.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:191][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\56\2I2WNB9VF8YX23IX0ZIQM9.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:191][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\56\2I2WNB9VF8YX23IX0ZIQM9.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:191][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\56\2I2WNB9VF8YX23IX0ZIQM9.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:191][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\56\2I2WNB9VF8YX23IX0ZIQM9.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:192][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\6X\YRYZM4BIC0ZRJPE3714KB6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:192][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\6X\YRYZM4BIC0ZRJPE3714KB6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:192][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\6X\YRYZM4BIC0ZRJPE3714KB6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:192][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\6X\YRYZM4BIC0ZRJPE3714KB6.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:193][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\7Z\YFW38I6D5IVXCE3JTNL75X.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:193][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\7Z\YFW38I6D5IVXCE3JTNL75X.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:193][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\7Z\YFW38I6D5IVXCE3JTNL75X.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:193][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\7Z\YFW38I6D5IVXCE3JTNL75X.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:194][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\LM\8L9KY15UP2JJALFMEI75MO.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:194][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\LM\8L9KY15UP2JJALFMEI75MO.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:194][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\LM\8L9KY15UP2JJALFMEI75MO.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:194][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\A\LM\8L9KY15UP2JJALFMEI75MO.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:195][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\22\7RS9WGI8T45MRK1VUJH348.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:195][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\22\7RS9WGI8T45MRK1VUJH348.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:195][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\22\7RS9WGI8T45MRK1VUJH348.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:195][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\22\7RS9WGI8T45MRK1VUJH348.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:196][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\S7\A17I0TCISHORG5KYV1NQRM.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:196][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\S7\A17I0TCISHORG5KYV1NQRM.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:196][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\S7\A17I0TCISHORG5KYV1NQRM.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:196][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\S7\A17I0TCISHORG5KYV1NQRM.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:197][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\WF\9UCUXUH7XJT4YEXVDESQXR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:197][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\WF\9UCUXUH7XJT4YEXVDESQXR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:197][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\WF\9UCUXUH7XJT4YEXVDESQXR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:197][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\B\WF\9UCUXUH7XJT4YEXVDESQXR.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:198][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\C\04\IEJQM9H90HF4VSA7OPQ9P0.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:198][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\C\04\IEJQM9H90HF4VSA7OPQ9P0.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:198][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\C\04\IEJQM9H90HF4VSA7OPQ9P0.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:198][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\C\04\IEJQM9H90HF4VSA7OPQ9P0.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:199][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\D\32\25O9AIOH84WTOIYUEDB1RV.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:199][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\D\32\25O9AIOH84WTOIYUEDB1RV.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:199][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\D\32\25O9AIOH84WTOIYUEDB1RV.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:199][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\D\32\25O9AIOH84WTOIYUEDB1RV.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:200][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\PN\WUNZ41HL8OTS1RQG7K5BL5.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:200][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\PN\WUNZ41HL8OTS1RQG7K5BL5.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:200][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\PN\WUNZ41HL8OTS1RQG7K5BL5.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:200][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\PN\WUNZ41HL8OTS1RQG7K5BL5.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:201][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\YO\CI7GP0JTLB0CSR3I1Y09JC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:201][ 17]LoadErrors: Error: /Game/Maps/Level_01/UEDPIE_0_Level_01 : [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\YO\CI7GP0JTLB0CSR3I1Y09JC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file. /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.17.50:202][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\YO\CI7GP0JTLB0CSR3I1Y09JC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:202][ 17]LogLinker: Warning: [AssetLog] D:\GitHub\Survival_Game\Survival_Game\Content\__ExternalActors__\Maps\Level_01\Level_01\E\YO\CI7GP0JTLB0CSR3I1Y09JC.uasset: Failed to load '/Game/Maps/Level_01/UEDPIE_0_Level_01': Can't find file.
+[2023.04.25-10.17.50:202][ 17]LogWorldPartition: Display: GenerateStreaming took 49 ms
+[2023.04.25-10.17.50:204][ 17]LogWorldPartition: Display: WorldPartition initialize took 53 ms
+[2023.04.25-10.17.50:204][ 17]LogPlayLevel: PIE: World Init took: (0.054336s)
+[2023.04.25-10.17.50:204][ 17]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.17.50:206][ 17]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.04.25-11.17.50
+[2023.04.25-10.17.50:206][ 17]LogWorld: Bringing up level for play took: 0.001248
+[2023.04.25-10.17.50:209][ 17]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_0 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_1 -> Position: X=1510.000 Y=1100.000 Z=60.000
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_2 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: New Streaming Source: BP_Core_PlayerController_C_3 -> Position: X=1110.000 Y=1290.000 Z=92.013
+[2023.04.25-10.17.50:209][ 17]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.25-10.17.50:209][ 17]LogLoad: Took 0.104414 seconds to LoadMap(/Game/Maps/Level_01/UEDPIE_0_Level_01)
+[2023.04.25-10.17.53:225][253]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113417B01_1853521488] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.17.55:173][404]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113467B01_1263309369] you walked into a cactus and took 30.0 damage, ouch!
+[2023.04.25-10.17.59:921][785]LogBlueprintUserMessages: [BP_Cactus_C_UAID_001A7DDA7113467B01_1268361370] you walked into a cactus and took 5.0 damage, ouch!
+[2023.04.25-10.18.02:402][997]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.18.02:402][997]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.04.25-10.18.02:402][997]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.04.25-10.18.02:403][997]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.18.02:403][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.02:438][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.18.02:440][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.25-10.18.02:442][997]LogPlayLevel: Creating play world package: /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.18.02:445][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002562s)
+[2023.04.25-10.18.02:445][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_02/Level_02.Level_02 to /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 (0.002657s)
+[2023.04.25-10.18.02:445][997]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_02'.
+[2023.04.25-10.18.02:445][997]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-10.18.02:445][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.18.02:445][997]LogAIModule: Creating AISystem for world Level_02
+[2023.04.25-10.18.02:445][997]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2023.04.25-10.18.02:445][997]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.04.25-10.18.02:446][997]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.04.25-11.18.02
+[2023.04.25-10.18.02:446][997]LogWorld: Bringing up level for play took: 0.000601
+[2023.04.25-10.18.02:449][997]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-10.18.02:449][997]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.04.25-10.18.02:449][997]LogLoad: Took 0.047026 seconds to LoadMap(/Game/Maps/Level_02/UEDPIE_0_Level_02)
+[2023.04.25-10.18.06:400][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.18.06:400][370]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.04.25-10.18.06:400][370]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.18.06:401][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.06:413][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-10.18.06:415][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.06:421][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-10.18.06:422][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.25-10.18.06:423][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.25-10.18.06:427][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.25-10.18.06:473][371]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.04.25-10.18.32:851][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.25-10.18.32:853][683]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_01/Level_01.Level_01
+[2023.04.25-10.18.32:854][683]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Maps/Level_01/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.25-10.18.32:854][683]LightingResults: New page: Lighting Build
+[2023.04.25-10.18.32:854][683]LoadErrors: New page: Loading map: Level_01.umap
+[2023.04.25-10.18.32:856][683]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.18.32:857][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.32:857][683]MapCheck: New page: Map Check
+[2023.04.25-10.18.32:857][683]LightingResults: New page: Lighting Build
+[2023.04.25-10.18.32:864][683]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-10.18.32:865][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.25-10.18.32:867][683]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-10.18.32:867][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-10.18.32:875][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.25-10.18.32:882][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.25-10.18.32:897][683]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.04.25-10.18.32:897][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.18.32:897][683]LogAIModule: Creating AISystem for world Level_01
+[2023.04.25-10.18.32:898][683]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.25-10.18.32:898][683]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.25-10.18.32:924][683]LogWorldPartition: Display: WorldPartition initialize took 25 ms
+[2023.04.25-10.18.32:941][683]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.25-10.18.32:950][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.25-10.18.32:959][683]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.25-10.18.32:960][683]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
+[2023.04.25-10.18.32:960][683]LogFileHelpers: Loading map 'Level_01' took 0.106
+[2023.04.25-10.18.32:985][683]LogViewport: Scene viewport resized to 1847x1285, mode Windowed.
+[2023.04.25-10.18.40:720][393]LogViewport: Scene viewport resized to 2231x1285, mode Windowed.
+[2023.04.25-10.20.28:998][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.04.25-10.20.29:041][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.20.32:561][652]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.04.25-10.20.32:561][652]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.035920s
+[2023.04.25-10.20.32:855][652]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2023.04.25-10.20.33:192][652]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001159s (0.992051s overbudget)
+[2023.04.25-10.20.33:306][652]LogSlate: Took 0.025894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.25-10.20.43:437][656]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.04.25-10.20.49:962][306]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-10.20.49:962][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.21.10:192][629]BlueprintLog: New page: Compile BP_Core_GameInstance
+[2023.04.25-10.21.10:229][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.25-10.21.10:694][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.04.25-10.21.10:697][677]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.04.25-10.21.10:698][677]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameInstanceC840146B4AF0CEBEF7782EAAEC975DE1.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.04.25-10.21.10:710][677]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.04.25-10.21.10:710][677]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.04.25-10.23.03:671][235]LogSlate: Window 'Message' being destroyed
+[2023.04.25-10.23.03:676][235]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to update the default settings?
+[2023.04.25-10.23.07:135][235]LogSlate: Window 'Message' being destroyed
+[2023.04.25-10.23.07:143][235]Message dialog closed, result: Yes, title: Message, text: The default configuration file for these settings is not currently writable. Would you like to make it writable?
+[2023.04.25-10.23.10:042][235]LogSlate: Window 'Message' being destroyed
+[2023.04.25-10.23.10:047][235]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
+
+If checked into source control this would affect other developers.
+[2023.04.25-10.23.30:682][623]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.25-10.23.30:687][623]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.04.25-10.24.15:765][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BPI_GameMode.BPI_GameMode
+[2023.04.25-10.24.15:765][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-10.24.41:572][927]BlueprintLog: New page: Compile BPI_GameMode
+[2023.04.25-10.24.41:618][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.25-10.24.42:510][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BPI_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameMode.uasset" SILENT=true
+[2023.04.25-10.24.42:513][ 22]LogSavePackage: Moving output files for package: /Game/Core/BPI_GameMode
+[2023.04.25-10.24.42:514][ 22]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BPI_GameMode285FF3B9411779BAE1B6269852217D1A.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BPI_GameMode.uasset'
+[2023.04.25-10.24.42:524][ 22]AssetCheck: New page: Asset Save: BPI_GameMode
+[2023.04.25-10.24.42:524][ 22]LogContentValidation: Display: Validating Blueprint /Game/Core/BPI_GameMode.BPI_GameMode
+[2023.04.25-10.24.43:124][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.25-10.25.34:264][115]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.04.25-10.25.34:331][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.25-10.25.34:762][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.04.25-10.25.34:786][156]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.04.25-10.25.34:787][156]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Survival_Game/Saved/BP_Core_GameModeEA6555194BB766C462D106AFACB136A9.tmp' to '../../../../../../GitHub/Survival_Game/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.04.25-10.25.34:798][156]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.04.25-10.25.34:798][156]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
