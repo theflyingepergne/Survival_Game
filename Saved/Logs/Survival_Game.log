@@ -844,3 +844,580 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.01-11.04.17:726][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
 [2023.05.01-11.04.17:751][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
 [2023.05.01-11.04.17:776][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.05.01-11.04.34:915][ 90]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.04.47:196][838]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.04.51:173][ 76]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.04.52:689][166]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.04.58:970][522]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.093 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.01-11.07.25:684][709]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.27:575][813]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.28:843][887]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.30:380][973]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.32:463][ 89]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.34:406][286]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.35:346][337]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.36:798][475]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.37:322][508]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.40:732][695]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.07.42:436][776]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/House/House.House_C
+[2023.05.01-11.07.42:436][776]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/House/House.House_C
+[2023.05.01-11.07.42:437][776]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/House/House.House as actor: House_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.House_C_0
+[2023.05.01-11.07.42:439][776]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/House/House.House as actor: House_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.House_C_0
+[2023.05.01-11.07.42:953][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/House/House.House_C
+[2023.05.01-11.07.42:953][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/House/House.House_C
+[2023.05.01-11.07.42:955][808]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/House/House.House as actor: House_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.House_C_1
+[2023.05.01-11.07.42:956][808]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/House/House.House as actor: House_C /Game/Maps/Level_01/Level_01.Level_01:PersistentLevel.House_C_1
+[2023.05.01-11.07.49:212][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.01-11.07.49:279][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-11.07.49:304][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.01-11.07.49:315][138]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-11.07.49:316][138]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_01585EF5D14D1D717CA3FA94986B1C284C.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-11.07.49:328][138]LogFileHelpers: Saving map 'Level_01' took 0.049
+[2023.05.01-11.07.49:337][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.07.49:340][138]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.07.49:340][138]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House9BD9CA524EFD7D406B6A70BE7647F6E7.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.07.49:363][138]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.07.49:363][138]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.07.49:364][138]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-11.07.59:331][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.05.01-11.08.18:143][752]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.01-11.09.15:703][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.01-11.09.15:762][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-11.09.15:787][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.01-11.09.15:798][751]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-11.09.15:799][751]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_016719145440A4314B4F2B5FADCE5F3019.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-11.09.15:854][751]LogFileHelpers: Saving map 'Level_01' took 0.092
+[2023.05.01-11.09.15:864][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.09.15:867][751]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.09.15:867][751]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House9A854F4249F53069D7E09CB26BAD3686.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.09.15:896][751]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.09.15:896][751]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.09.15:896][751]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-11.09.16:873][796]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.09.49:042][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.05.01-11.09.49:096][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-11.09.49:122][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.01-11.09.49:133][435]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-11.09.49:134][435]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_019105FEF64C9ECE6539F79C8ED141CE66.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-11.09.49:145][435]LogFileHelpers: Saving map 'Level_01' took 0.049
+[2023.05.01-11.09.49:155][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.09.49:158][435]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.09.49:158][435]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House6E73BF214F7B5B9178918A9E23A8576C.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.09.49:180][435]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.09.49:180][435]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.09.49:180][435]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-11.10.18:523][637]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.01-11.10.29:801][538]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.01-11.10.37:231][931]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2023.05.01-11.10.45:070][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.05.01-11.10.45:130][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-11.10.45:159][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.01-11.10.45:170][516]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-11.10.45:170][516]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_01249D7273456DA169FB30B79FAC4E9389.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-11.10.45:181][516]LogFileHelpers: Saving map 'Level_01' took 0.052
+[2023.05.01-11.10.45:203][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.10.45:208][516]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.10.45:208][516]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House39334DA74FE85EDC6A46BAABF5FDDF60.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.10.45:219][516]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.10.45:219][516]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.10.45:219][516]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-11.11.07:471][  6]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.01-11.12.16:761][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.01-11.12.16:814][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-11.12.16:843][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.01-11.12.16:854][388]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-11.12.16:855][388]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_01025748E24F8EC2CD738CE9A896B85E79.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-11.12.16:867][388]LogFileHelpers: Saving map 'Level_01' took 0.053
+[2023.05.01-11.12.16:887][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.12.16:893][388]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.12.16:893][388]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House398CC3344236B9E50A0006A06BA7C5C1.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.12.16:908][388]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.12.16:908][388]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.12.16:908][388]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-11.12.19:089][541]BlueprintLog: New page: Compile House
+[2023.05.01-11.12.19:138][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.01-11.12.19:649][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.12.19:655][567]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.12.19:655][567]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House17F5D1464FDF53D25A792E87AD325D12.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.12.19:668][567]AssetCheck: New page: Asset Save: House
+[2023.05.01-11.12.19:668][567]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.12.20:370][612]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.01-11.12.20:381][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.01-11.12.20:382][612]PIE: New page: PIE session: Level_01 (1 May 2023, 13:12:20)
+[2023.05.01-11.12.20:385][612]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.01-11.12.20:385][612]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.01-11.12.20:385][612]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.01-11.12.20:389][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004385s)
+[2023.05.01-11.12.20:389][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.004478s)
+[2023.05.01-11.12.20:389][612]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-11.12.20:389][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.12.20:390][612]LogAIModule: Creating AISystem for world Level_01
+[2023.05.01-11.12.20:390][612]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2023.05.01-11.12.20:417][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.05.01-11.12.20:419][612]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.01-11.12.20:419][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.01-11.12.20:419][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.01-11.12.20:419][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.01-11.12.20:419][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.01-11.12.20:419][612]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.01-11.12.20:419][612]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.01-11.12.20:419][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.01-11.12.20:419][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.01-11.12.20:419][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.01-11.12.20:419][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.01-11.12.20:419][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.01-11.12.20:421][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.01-11.12.20:464][612]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.01-11.12.20:464][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.01-11.12.20:464][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.01-11.12.20:464][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.01-11.12.20:465][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.01-11.12.20:465][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.01-11.12.20:466][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.01-11.12.20:467][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.01-11.12.20:467][612]LogInit: FAudioDevice initialized.
+[2023.05.01-11.12.20:467][612]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_01'.
+[2023.05.01-11.12.20:488][612]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.01-11.12.20:491][612]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.01-12.12.20
+[2023.05.01-11.12.20:491][612]LogWorld: Bringing up level for play took: 0.002956
+[2023.05.01-11.12.20:493][612]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.05.01-11.12.20:513][612]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.12.20:514][612]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.12.20:514][612]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.12.20:515][612]PIE: Server logged in
+[2023.05.01-11.12.20:516][612]PIE: Play in editor total start time 0.139 seconds.
+[2023.05.01-11.12.20:548][612]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2023.05.01-11.12.20:549][612]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2023.05.01-11.12.20:549][612]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2023.05.01-11.12.20:549][612]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2023.05.01-11.12.22:038][686]LogBlueprintUserMessages: [BP_Core_GameInstance_C_0] Added player 0
+[2023.05.01-11.12.22:134][693]LogBlueprintUserMessages: [BP_Core_GameInstance_C_0] Player 0
+[2023.05.01-11.12.22:134][693]LogBlueprintUserMessages: [BP_Core_GameInstance_C_0] Current players: 
+[2023.05.01-11.12.22:134][693]LogBlueprintUserMessages: [BP_Camera_C_0] Player 0
+[2023.05.01-11.12.22:134][693]LogBlueprintUserMessages: [BP_Camera_C_0] Camera tracking:
+[2023.05.01-11.12.22:134][693]LogBlueprintUserMessages: [BP_Core_GameInstance_C_0] Player 0
+[2023.05.01-11.12.22:134][693]LogBlueprintUserMessages: [BP_Core_GameInstance_C_0] Current players: 
+[2023.05.01-11.12.22:135][693]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.01-11.12.33:207][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-11.12.33:207][483]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.01-11.12.33:207][483]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.12.33:207][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.12.33:220][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.01-11.12.33:226][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.12.33:257][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-11.12.33:259][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.01-11.12.33:260][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.01-11.12.33:284][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.01-11.12.33:350][484]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.05.01-11.13.30:386][923]BlueprintLog: New page: Compile House
+[2023.05.01-11.13.30:462][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.01-11.13.30:834][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.13.30:840][937]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.13.30:841][937]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/HouseC21C12E74CA73241BB3752B68775A815.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.13.30:855][937]AssetCheck: New page: Asset Save: House
+[2023.05.01-11.13.30:855][937]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.13.31:476][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.01-11.13.31:485][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.01-11.13.31:485][977]PIE: New page: PIE session: Level_01 (1 May 2023, 13:13:31)
+[2023.05.01-11.13.31:485][977]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.01-11.13.31:490][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004641s)
+[2023.05.01-11.13.31:490][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.004718s)
+[2023.05.01-11.13.31:490][977]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-11.13.31:490][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.13.31:490][977]LogAIModule: Creating AISystem for world Level_01
+[2023.05.01-11.13.31:491][977]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2023.05.01-11.13.31:526][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.01-11.13.31:529][977]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.01-11.13.31:529][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.01-11.13.31:529][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.01-11.13.31:530][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.01-11.13.31:530][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.01-11.13.31:530][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.01-11.13.31:530][977]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.01-11.13.31:530][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.01-11.13.31:530][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.01-11.13.31:530][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.01-11.13.31:530][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.01-11.13.31:530][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.01-11.13.31:532][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.01-11.13.31:575][977]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.01-11.13.31:575][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.01-11.13.31:575][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.01-11.13.31:575][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.01-11.13.31:576][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.01-11.13.31:576][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.01-11.13.31:577][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.01-11.13.31:577][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.01-11.13.31:577][977]LogInit: FAudioDevice initialized.
+[2023.05.01-11.13.31:577][977]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_01'.
+[2023.05.01-11.13.31:594][977]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.01-11.13.31:597][977]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.01-12.13.31
+[2023.05.01-11.13.31:597][977]LogWorld: Bringing up level for play took: 0.002718
+[2023.05.01-11.13.31:599][977]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.05.01-11.13.31:600][977]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.13.31:602][977]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.13.31:603][977]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.13.31:603][977]PIE: Server logged in
+[2023.05.01-11.13.31:605][977]PIE: Play in editor total start time 0.121 seconds.
+[2023.05.01-11.13.33:307][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-11.13.33:307][ 89]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.01-11.13.33:307][ 89]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.13.33:307][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.13.33:319][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.01-11.13.33:325][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.13.33:359][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-11.13.33:359][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.01-11.13.33:360][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.01-11.13.33:363][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-11.13.33:365][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.01-11.13.33:433][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.05.01-11.13.39:000][427]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.01-11.13.39:009][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.01-11.13.39:009][427]PIE: New page: PIE session: Level_01 (1 May 2023, 13:13:39)
+[2023.05.01-11.13.39:009][427]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.01-11.13.39:013][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004309s)
+[2023.05.01-11.13.39:013][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.004380s)
+[2023.05.01-11.13.39:013][427]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-11.13.39:013][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.13.39:014][427]LogAIModule: Creating AISystem for world Level_01
+[2023.05.01-11.13.39:014][427]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2023.05.01-11.13.39:049][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.01-11.13.39:051][427]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.01-11.13.39:052][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.01-11.13.39:052][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.01-11.13.39:052][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.01-11.13.39:052][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.01-11.13.39:052][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.01-11.13.39:052][427]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.01-11.13.39:052][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.01-11.13.39:052][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.01-11.13.39:052][427]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.01-11.13.39:052][427]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.01-11.13.39:052][427]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.01-11.13.39:054][427]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.01-11.13.39:095][427]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.01-11.13.39:095][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.01-11.13.39:095][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.01-11.13.39:095][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.01-11.13.39:096][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.01-11.13.39:096][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.01-11.13.39:097][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.01-11.13.39:097][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.01-11.13.39:097][427]LogInit: FAudioDevice initialized.
+[2023.05.01-11.13.39:097][427]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_01'.
+[2023.05.01-11.13.39:112][427]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.01-11.13.39:114][427]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.01-12.13.39
+[2023.05.01-11.13.39:114][427]LogWorld: Bringing up level for play took: 0.001612
+[2023.05.01-11.13.39:116][427]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.05.01-11.13.39:117][427]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.13.39:118][427]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.13.39:120][427]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-11.13.39:120][427]PIE: Server logged in
+[2023.05.01-11.13.39:121][427]PIE: Play in editor total start time 0.114 seconds.
+[2023.05.01-11.13.40:390][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_2] Added player 0
+[2023.05.01-11.13.40:488][517]LogBlueprintUserMessages: [BP_Core_GameInstance_C_2] Player 0
+[2023.05.01-11.13.40:488][517]LogBlueprintUserMessages: [BP_Core_GameInstance_C_2] Current players: 
+[2023.05.01-11.13.40:488][517]LogBlueprintUserMessages: [BP_Camera_C_0] Player 0
+[2023.05.01-11.13.40:488][517]LogBlueprintUserMessages: [BP_Camera_C_0] Camera tracking:
+[2023.05.01-11.13.40:488][517]LogBlueprintUserMessages: [BP_Core_GameInstance_C_2] Player 0
+[2023.05.01-11.13.40:488][517]LogBlueprintUserMessages: [BP_Core_GameInstance_C_2] Current players: 
+[2023.05.01-11.13.40:488][517]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.01-11.13.50:897][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-11.13.50:897][228]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.01-11.13.50:897][228]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.13.50:898][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.13.50:912][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.01-11.13.50:918][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.13.50:952][228]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-11.13.50:952][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.01-11.13.50:953][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.01-11.13.50:956][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-11.13.50:959][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.01-11.13.51:026][229]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.05.01-11.14.37:075][ 20]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.01-11.14.37:091][ 20]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.01-11.14.37:105][ 21]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.01-11.14.38:843][132]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2023.05.01-11.14.38:843][132]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.01-11.14.45:318][496]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.01-11.14.45:341][496]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.01-11.14.45:355][497]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.01-11.14.48:306][683]LogContentBrowser: Attempting asset rename: NewFolder -> Meshes
+[2023.05.01-11.14.48:307][683]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.01-11.14.51:504][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.14.51:520][855]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.14.51:521][855]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House0DC490284F810966FA3A5E963AF6ABA5.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.14.51:523][855]LogSavePackage: Moving output files for package: /Game/Environment/House/Animations/House_01_Door_Sliding_Anim_Door_Open
+[2023.05.01-11.14.51:523][855]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Door_Sliding_Anim_Door_D2A90E2546875F9BF5032A8FF878AB27.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Animations/House_01_Door_Sliding_Anim_Door_Open.uasset'
+[2023.05.01-11.14.51:717][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.01-11.14.51:755][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.01-11.14.51:787][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.01-11.14.51:809][855]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.14.51:809][855]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.14.51:809][855]LogContentValidation: Display: Validating AnimSequence /Game/Environment/House/Animations/House_01_Door_Sliding_Anim_Door_Open.House_01_Door_Sliding_Anim_Door_Open
+[2023.05.01-11.14.56:537][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.14.56:543][115]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.14.56:544][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/HouseC48C44AD4563C256D1B685B8654BF606.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.14.56:545][115]LogSavePackage: Moving output files for package: /Game/Environment/House/Animations/House_01_Door_Sliding_Anim_Door_Open
+[2023.05.01-11.14.56:546][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Door_Sliding_Anim_Door_21A788F24E0A8CCA82F5C7AECB7F4CD1.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Animations/House_01_Door_Sliding_Anim_Door_Open.uasset'
+[2023.05.01-11.14.56:547][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Door_Sliding" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Door_Sliding.uasset" SILENT=true
+[2023.05.01-11.14.56:549][115]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Door_Sliding
+[2023.05.01-11.14.56:549][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Door_Sliding323E519C4AC284F6D026038C6457F017.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Door_Sliding.uasset'
+[2023.05.01-11.14.56:551][115]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Door_Sliding_PhysicsAsset
+[2023.05.01-11.14.56:551][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Door_Sliding_PhysicsAss1A720D4F476D1CEA93243F87B0B647D5.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Door_Sliding_PhysicsAsset.uasset'
+[2023.05.01-11.14.56:552][115]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Door_Sliding_Skeleton
+[2023.05.01-11.14.56:552][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Door_Sliding_Skeleton2DDA846A439355C0165B4A89C6DE230A.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Door_Sliding_Skeleton.uasset'
+[2023.05.01-11.14.56:553][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Main" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset" SILENT=true
+[2023.05.01-11.14.56:558][115]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main
+[2023.05.01-11.14.56:558][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main4F7E59984FC7F8C3CFAC2C8BC6F06B49.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset'
+[2023.05.01-11.14.56:559][115]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main_PhysicsAsset
+[2023.05.01-11.14.56:559][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main_PhysicsAssetEFEBD58E4BCC657B48B3A1B1A5575843.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main_PhysicsAsset.uasset'
+[2023.05.01-11.14.56:571][115]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main_Skeleton
+[2023.05.01-11.14.56:571][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main_Skeleton9F5086B049CD938A04CAA6B9F8DEC614.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main_Skeleton.uasset'
+[2023.05.01-11.14.57:339][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.01-11.14.57:374][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.01-11.14.57:409][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.01-11.14.57:430][115]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.14.57:430][115]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-11.14.57:430][115]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.14.57:430][115]LogContentValidation: Display: Validating Skeleton /Game/Environment/House/Meshes/House_01_Main_Skeleton.House_01_Main_Skeleton
+[2023.05.01-11.14.57:430][115]LogContentValidation: Display: Validating PhysicsAsset /Game/Environment/House/Meshes/House_01_Main_PhysicsAsset.House_01_Main_PhysicsAsset
+[2023.05.01-11.14.57:430][115]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Door_Sliding.House_01_Door_Sliding
+[2023.05.01-11.14.57:430][115]LogContentValidation: Display: Validating Skeleton /Game/Environment/House/Meshes/House_01_Door_Sliding_Skeleton.House_01_Door_Sliding_Skeleton
+[2023.05.01-11.14.57:430][115]LogContentValidation: Display: Validating PhysicsAsset /Game/Environment/House/Meshes/House_01_Door_Sliding_PhysicsAsset.House_01_Door_Sliding_PhysicsAsset
+[2023.05.01-11.14.57:430][115]LogContentValidation: Display: Validating AnimSequence /Game/Environment/House/Animations/House_01_Door_Sliding_Anim_Door_Open.House_01_Door_Sliding_Anim_Door_Open
+[2023.05.01-11.15.03:104][450]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.15.03:122][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.15.03:156][450]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2023.05.01-11.15.03:168][450]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.01-11.15.03:680][450]LogViewport: Scene viewport resized to 1764x1839, mode Windowed.
+[2023.05.01-11.15.09:202][653]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Render.MI_House_Render
+[2023.05.01-11.15.09:204][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.15.09:354][653]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.01-11.15.10:990][721]LogViewport: Scene viewport resized to 1282x1929, mode Windowed.
+[2023.05.01-11.15.11:117][723]LogViewport: Scene viewport resized to 261x266, mode Windowed.
+[2023.05.01-11.15.11:910][751]LogViewport: Scene viewport resized to 397x501, mode Windowed.
+[2023.05.01-11.15.13:324][788]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.01-11.15.14:041][810]LogViewport: Scene viewport resized to 397x501, mode Windowed.
+[2023.05.01-11.15.14:973][835]LogViewport: Scene viewport resized to 395x536, mode Windowed.
+[2023.05.01-11.15.15:079][837]LogViewport: Scene viewport resized to 260x300, mode Windowed.
+[2023.05.01-11.15.15:134][839]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.01-11.15.15:539][857]LogSlate: Window 'MI_House_Render' being destroyed
+[2023.05.01-11.15.39:459][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.05.01-11.15.39:519][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-11.15.39:594][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.01-11.15.39:616][196]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-11.15.39:616][196]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_011EBE901344CAB2671DC1D1BA947730A5.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-11.15.39:628][196]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2023.05.01-11.15.39:639][196]LogFileHelpers: Saving map 'Level_01' took 0.120
+[2023.05.01-11.15.39:649][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Render" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Render.uasset" SILENT=true
+[2023.05.01-11.15.39:683][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.05.01-11.15.39:719][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.01-11.15.39:722][196]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Render
+[2023.05.01-11.15.39:723][196]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Render2D4A59454529058B5B0DB3BF474919EC.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Render.uasset'
+[2023.05.01-11.15.39:731][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Main" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset" SILENT=true
+[2023.05.01-11.15.39:737][196]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main
+[2023.05.01-11.15.39:737][196]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main3781B8AA4B616132915FC7942F2FBC75.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset'
+[2023.05.01-11.15.39:756][196]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.15.39:756][196]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Render.MI_House_Render
+[2023.05.01-11.15.39:756][196]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-11.15.39:756][196]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.15.42:413][301]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.15.42:413][301]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.15.42:680][309]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.15.42:680][309]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.15.43:415][338]LogContentBrowser: Deferred new asset file creation: MI_House_Render1
+[2023.05.01-11.15.43:425][338]LogContentBrowser: Creating deferred item: MI_House_Render1
+[2023.05.01-11.15.43:444][339]LogContentBrowser: Renaming the item being created (Deferred Item: MI_House_Render1).
+[2023.05.01-11.15.48:418][548]LogContentBrowser: Attempting asset rename: MI_House_Render1 -> MI_House_RoofTile
+[2023.05.01-11.15.48:429][548]LogContentBrowser: End creating deferred item MI_House_Render1
+[2023.05.01-11.15.52:043][684]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_RoofTile.MI_House_RoofTile
+[2023.05.01-11.15.52:045][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.15.52:083][684]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.01-11.15.52:191][684]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.01-11.16.04:350][369]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.01-11.16.05:459][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.01-11.16.05:524][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Render" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Render.uasset" SILENT=true
+[2023.05.01-11.16.05:555][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.01-11.16.05:586][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.01-11.16.05:588][430]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Render
+[2023.05.01-11.16.05:588][430]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Render4F19535548C720D43138EE9337438B0B.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Render.uasset'
+[2023.05.01-11.16.05:597][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Main" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset" SILENT=true
+[2023.05.01-11.16.05:602][430]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main
+[2023.05.01-11.16.05:602][430]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main3D2797D64C3E59A6409F8399894B65AD.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset'
+[2023.05.01-11.16.05:610][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_RoofTile" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_RoofTile.uasset" SILENT=true
+[2023.05.01-11.16.05:643][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.16.05:676][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.01-11.16.05:677][430]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_RoofTile
+[2023.05.01-11.16.05:677][430]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_RoofTile3AF6B03245A4965C925D758582CC2038.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_RoofTile.uasset'
+[2023.05.01-11.16.05:691][430]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.16.05:691][430]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Render.MI_House_Render
+[2023.05.01-11.16.05:692][430]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.16.05:692][430]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_RoofTile.MI_House_RoofTile
+[2023.05.01-11.16.09:377][593]LogContentBrowser: Deferred new asset file creation: MI_House_RoofTile1
+[2023.05.01-11.16.09:392][593]LogContentBrowser: Creating deferred item: MI_House_RoofTile1
+[2023.05.01-11.16.09:409][594]LogContentBrowser: Renaming the item being created (Deferred Item: MI_House_RoofTile1).
+[2023.05.01-11.16.13:099][751]LogContentBrowser: Attempting asset rename: MI_House_RoofTile1 -> MI_House_Paper
+[2023.05.01-11.16.13:100][751]LogContentBrowser: End creating deferred item MI_House_RoofTile1
+[2023.05.01-11.16.14:777][818]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Paper.MI_House_Paper
+[2023.05.01-11.16.14:778][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.16.14:918][818]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.01-11.16.32:485][794]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.01-11.16.32:935][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.01-11.16.33:008][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Main" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset" SILENT=true
+[2023.05.01-11.16.33:013][818]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main
+[2023.05.01-11.16.33:014][818]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main00A22B024778C68624025D9DC92FDAB7.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset'
+[2023.05.01-11.16.33:022][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Paper" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Paper.uasset" SILENT=true
+[2023.05.01-11.16.33:053][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.01-11.16.33:085][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.16.33:087][818]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Paper
+[2023.05.01-11.16.33:087][818]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Paper701585FF43CAA246A52712ACC08A21FE.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Paper.uasset'
+[2023.05.01-11.16.33:102][818]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.16.33:102][818]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.16.33:102][818]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Paper.MI_House_Paper
+[2023.05.01-11.16.48:229][672]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.01-11.16.48:867][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Main" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset" SILENT=true
+[2023.05.01-11.16.48:872][704]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main
+[2023.05.01-11.16.48:873][704]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main4FD4B4524E2F62075D34CFA11AE7758D.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset'
+[2023.05.01-11.16.48:888][704]AssetCheck: New page: Asset Save: House_01_Main
+[2023.05.01-11.16.48:888][704]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.16.52:714][853]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.16.52:714][853]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.16.54:063][896]LogContentBrowser: Deferred new asset file creation: MI_House_Paper1
+[2023.05.01-11.16.54:074][896]LogContentBrowser: Creating deferred item: MI_House_Paper1
+[2023.05.01-11.16.54:093][897]LogContentBrowser: Renaming the item being created (Deferred Item: MI_House_Paper1).
+[2023.05.01-11.16.58:529][ 85]LogContentBrowser: Attempting asset rename: MI_House_Paper1 -> MI_House_Void
+[2023.05.01-11.16.58:531][ 85]LogContentBrowser: End creating deferred item MI_House_Paper1
+[2023.05.01-11.16.59:807][137]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Void.MI_House_Void
+[2023.05.01-11.16.59:808][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.16.59:948][137]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.01-11.17.04:867][408]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.01-11.17.18:153][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.01-11.17.18:227][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Paper" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Paper.uasset" SILENT=true
+[2023.05.01-11.17.18:260][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.17.18:292][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.17.18:294][ 74]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Paper
+[2023.05.01-11.17.18:294][ 74]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Paper57A18AE949C373B3C25016AFB82B9E69.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Paper.uasset'
+[2023.05.01-11.17.18:303][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Void" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Void.uasset" SILENT=true
+[2023.05.01-11.17.18:334][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.01-11.17.18:366][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.17.18:368][ 74]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Void
+[2023.05.01-11.17.18:368][ 74]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Void8F9AA0A747CB3B59254557BB0B1B3E85.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Void.uasset'
+[2023.05.01-11.17.18:384][ 74]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.17.18:384][ 74]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Void.MI_House_Void
+[2023.05.01-11.17.18:384][ 74]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Paper.MI_House_Paper
+[2023.05.01-11.17.19:131][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Void" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Void.uasset" SILENT=true
+[2023.05.01-11.17.19:163][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.01-11.17.19:194][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.01-11.17.19:195][114]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Void
+[2023.05.01-11.17.19:196][114]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Void918EA3C24331E114A25DB494B556643A.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Void.uasset'
+[2023.05.01-11.17.19:208][114]AssetCheck: New page: Asset Save: MI_House_Void
+[2023.05.01-11.17.19:208][114]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Void.MI_House_Void
+[2023.05.01-11.17.36:163][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.17.36:224][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Main" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset" SILENT=true
+[2023.05.01-11.17.36:229][952]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main
+[2023.05.01-11.17.36:230][952]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main859B07124C3FAF0D1CDA589F7A5C7339.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset'
+[2023.05.01-11.17.36:238][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Void" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Void.uasset" SILENT=true
+[2023.05.01-11.17.36:269][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.01-11.17.36:301][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.01-11.17.36:303][952]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Void
+[2023.05.01-11.17.36:303][952]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Void0E86F7F743FFB4E67292A59B2597ACEF.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Void.uasset'
+[2023.05.01-11.17.36:316][952]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.17.36:316][952]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.17.36:316][952]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Void.MI_House_Void
+[2023.05.01-11.17.42:643][215]LogContentBrowser: Deferred new asset file creation: MI_House_Void1
+[2023.05.01-11.17.42:709][215]LogContentBrowser: Creating deferred item: MI_House_Void1
+[2023.05.01-11.17.42:726][216]LogContentBrowser: Renaming the item being created (Deferred Item: MI_House_Void1).
+[2023.05.01-11.17.49:900][525]LogContentBrowser: Attempting asset rename: MI_House_Void1 -> MI_House_Wood_Vert
+[2023.05.01-11.17.49:901][525]LogContentBrowser: End creating deferred item MI_House_Void1
+[2023.05.01-11.17.53:675][685]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Wood_Vert.MI_House_Wood_Vert
+[2023.05.01-11.17.53:676][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.17.53:819][685]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.01-11.17.57:404][890]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.01-11.18.11:458][699]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.01-11.18.12:286][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.01-11.18.12:358][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Main" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset" SILENT=true
+[2023.05.01-11.18.12:363][745]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main
+[2023.05.01-11.18.12:364][745]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Main1876C8874A7A2FA2A0C6CBA76819883F.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset'
+[2023.05.01-11.18.12:372][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Wood_Vert" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Wood_Vert.uasset" SILENT=true
+[2023.05.01-11.18.12:402][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.01-11.18.12:433][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.18.12:435][745]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Wood_Vert
+[2023.05.01-11.18.12:435][745]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Wood_Vert7856BC1E4871FE73A6F7CFB6FECD55CD.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Wood_Vert.uasset'
+[2023.05.01-11.18.12:448][745]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.18.12:448][745]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.18.12:448][745]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Wood_Vert.MI_House_Wood_Vert
+[2023.05.01-11.18.16:250][894]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.18.16:250][894]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.18.16:950][912]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.18.16:950][912]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-11.18.17:603][940]LogContentBrowser: Deferred new asset file creation: MI_House_Wood_Vert1
+[2023.05.01-11.18.17:626][940]LogContentBrowser: Creating deferred item: MI_House_Wood_Vert1
+[2023.05.01-11.18.17:643][941]LogContentBrowser: Renaming the item being created (Deferred Item: MI_House_Wood_Vert1).
+[2023.05.01-11.18.21:450][105]LogContentBrowser: Attempting asset rename: MI_House_Wood_Vert1 -> MI_House_Wood_Gori
+[2023.05.01-11.18.21:451][105]LogContentBrowser: End creating deferred item MI_House_Wood_Vert1
+[2023.05.01-11.18.24:730][245]LogContentBrowser: Attempting asset rename: MI_House_Wood_Gori -> MI_House_Wood_Hori
+[2023.05.01-11.18.24:825][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Wood_Hori" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Wood_Hori.uasset" SILENT=true
+[2023.05.01-11.18.24:827][245]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Wood_Hori
+[2023.05.01-11.18.24:827][245]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Wood_Hori9DB4E78547EC0038528F7B91EE832D1A.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Wood_Hori.uasset'
+[2023.05.01-11.18.25:006][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.05.01-11.18.25:038][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.05.01-11.18.25:069][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.01-11.18.25:076][245]AssetCheck: New page: Asset Save: MI_House_Wood_Hori
+[2023.05.01-11.18.25:076][245]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Wood_Hori.MI_House_Wood_Hori
+[2023.05.01-11.18.26:134][290]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Wood_Hori.MI_House_Wood_Hori
+[2023.05.01-11.18.26:135][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.18.26:278][290]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.01-11.18.36:313][862]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.01-11.18.36:834][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.01-11.18.36:892][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Main" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset" SILENT=true
+[2023.05.01-11.18.36:897][890]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Main
+[2023.05.01-11.18.36:898][890]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_MainBD666F0340A9DFFA4A91E5A0EB22849F.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Main.uasset'
+[2023.05.01-11.18.36:906][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Materials/MI_House_Wood_Hori" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Wood_Hori.uasset" SILENT=true
+[2023.05.01-11.18.36:938][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.18.36:971][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.01-11.18.36:972][890]LogSavePackage: Moving output files for package: /Game/Environment/House/Materials/MI_House_Wood_Hori
+[2023.05.01-11.18.36:973][890]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_House_Wood_HoriE17134114ED400A5E3CE31AB5811F6C8.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Materials/MI_House_Wood_Hori.uasset'
+[2023.05.01-11.18.36:987][890]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-11.18.36:987][890]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Main.House_01_Main
+[2023.05.01-11.18.36:987][890]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Environment/House/Materials/MI_House_Wood_Hori.MI_House_Wood_Hori
+[2023.05.01-11.18.43:094][210]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.18.43:094][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.18.44:006][244]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.18.44:006][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.18.44:448][262]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.18.44:448][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.18.45:032][281]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.18.45:032][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.18.45:424][297]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.18.45:424][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.18.45:932][314]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.18.45:932][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.18.54:860][660]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Environment/House/Meshes/House_01_Door_Sliding.House_01_Door_Sliding
+[2023.05.01-11.18.54:861][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-11.18.54:892][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.01-11.18.55:088][660]LogViewport: Scene viewport resized to 1764x1839, mode Windowed.
+[2023.05.01-11.19.14:278][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.01-11.19.14:347][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/Meshes/House_01_Door_Sliding" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Door_Sliding.uasset" SILENT=true
+[2023.05.01-11.19.14:350][376]LogSavePackage: Moving output files for package: /Game/Environment/House/Meshes/House_01_Door_Sliding
+[2023.05.01-11.19.14:351][376]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House_01_Door_Sliding3C00B1E248B5323AEB7077A00ABC9472.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/Meshes/House_01_Door_Sliding.uasset'
+[2023.05.01-11.19.14:369][376]AssetCheck: New page: Asset Save: House_01_Door_Sliding
+[2023.05.01-11.19.14:370][376]LogContentValidation: Display: Validating SkeletalMesh /Game/Environment/House/Meshes/House_01_Door_Sliding.House_01_Door_Sliding
+[2023.05.01-11.19.15:192][411]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.19.15:192][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.19.16:501][463]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-11.19.16:501][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-11.19.28:892][211]LogViewport: Scene viewport resized to 2169x1328, mode Windowed.
+[2023.05.01-11.19.37:159][641]BlueprintLog: New page: Compile House
+[2023.05.01-11.19.37:224][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.01-11.19.37:624][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-11.19.37:631][655]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-11.19.37:631][655]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/House70E3BC374DFB42E2432011B522F08554.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-11.19.37:646][655]AssetCheck: New page: Asset Save: House
+[2023.05.01-11.19.37:646][655]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
