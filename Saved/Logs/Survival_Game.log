@@ -2411,3 +2411,755 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.01-22.30.10:277][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
 [2023.05.01-22.30.10:350][579]LogPlayLevel: Display: Destroying online subsystem :Context_23
 [2023.05.01-22.30.53:403][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.05.01-22.31.18:406][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.31.18:467][  9]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.31.18:467][  9]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.31.18:467][  9]LightingResults: New page: Lighting Build
+[2023.05.01-22.31.18:467][  9]LoadErrors: New page: Loading map: Level_03.umap
+[2023.05.01-22.31.18:470][  9]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.31.18:470][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.31.18:470][  9]MapCheck: New page: Map Check
+[2023.05.01-22.31.18:470][  9]LightingResults: New page: Lighting Build
+[2023.05.01-22.31.18:516][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.31.18:519][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.01-22.31.18:521][  9]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.31.18:521][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.31.18:570][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.01-22.31.18:619][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.01-22.31.18:624][  9]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03'.
+[2023.05.01-22.31.18:624][  9]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.31.18:624][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.31.18:625][  9]LogAIModule: Creating AISystem for world Level_03
+[2023.05.01-22.31.18:642][  9]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.31.18:710][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.01-22.31.18:721][  9]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.31.18:721][  9]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2023.05.01-22.31.18:721][  9]LogFileHelpers: Loading map 'Level_03' took 0.254
+[2023.05.01-22.31.36:755][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Environment/Wall/BP_Wall.BP_Wall
+[2023.05.01-22.31.36:756][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.31.38:933][824]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.31.38:933][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.31.49:770][862]LogContentBrowser: Attempting asset rename: BP_WallSpline -> BP_SplineMesh
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:GetStartPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:GetStartPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:GetEndPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:GetEndPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:ReceiveBeginPlay' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:ReceiveTick' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:787][862]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_WallSpline.PackageMetaData'
+[2023.05.01-22.31.49:842][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_SplineMesh" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset" SILENT=true
+[2023.05.01-22.31.49:858][862]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_SplineMesh
+[2023.05.01-22.31.49:858][862]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineMesh00D3F3D0441B35533D630F899A606B5B.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset'
+[2023.05.01-22.31.49:884][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_WallSpline" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_WallSpline.uasset" SILENT=true
+[2023.05.01-22.31.49:884][862]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_WallSpline
+[2023.05.01-22.31.49:885][862]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_WallSpline2C11C3DD4E871F9D624063BC8EFB7644.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_WallSpline.uasset'
+[2023.05.01-22.31.49:904][862]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.31.49:905][862]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh
+[2023.05.01-22.31.49:905][862]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.BP_WallSpline
+[2023.05.01-22.31.49:905][862]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.Default__BP_WallSpline_C
+[2023.05.01-22.31.49:905][862]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.BP_WallSpline_C
+[2023.05.01-22.31.50:674][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Wall" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Wall.uasset" SILENT=true
+[2023.05.01-22.31.50:678][929]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Wall
+[2023.05.01-22.31.50:678][929]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Wall0899519D4F3D2D5BA1EDF2804AC85656.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Wall.uasset'
+[2023.05.01-22.31.50:692][929]AssetCheck: New page: Asset Save: BP_Wall
+[2023.05.01-22.31.50:692][929]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Wall.BP_Wall
+[2023.05.01-22.31.52:514][ 86]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Wall.BP_Wall_C
+[2023.05.01-22.31.52:514][ 86]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Wall.BP_Wall_C
+[2023.05.01-22.31.52:515][ 86]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Wall.BP_Wall as actor: BP_Wall_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_Wall_C_0
+[2023.05.01-22.31.52:516][ 86]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Wall.BP_Wall as actor: BP_Wall_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_Wall_C_0
+[2023.05.01-22.31.53:294][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Wall.BP_Wall_C
+[2023.05.01-22.31.53:294][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Wall.BP_Wall_C
+[2023.05.01-22.31.53:295][140]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Wall.BP_Wall as actor: BP_Wall_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_Wall_C_1
+[2023.05.01-22.31.53:296][140]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Wall.BP_Wall as actor: BP_Wall_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_Wall_C_1
+[2023.05.01-22.32.02:599][907]LogContentBrowser: Attempting asset rename: BP_Wall -> BP_Wall
+[2023.05.01-22.32.05:386][152]LogContentBrowser: Attempting asset rename: BP_SplineMesh -> BP_SplineMeshwall
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall_C' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.SKEL_BP_SplineMeshwall_C' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.SKEL_BP_SplineMeshwall_C:ReceiveBeginPlay' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.SKEL_BP_SplineMeshwall_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.SKEL_BP_SplineMeshwall_C:ReceiveTick' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.SKEL_BP_SplineMeshwall_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.SKEL_BP_SplineMeshwall_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.SKEL_BP_SplineMeshwall_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall:GetStartPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall:GetStartPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall:GetEndPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:402][152]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall:GetEndPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.32.05:458][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_WallSpline" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_WallSpline.uasset" SILENT=true
+[2023.05.01-22.32.05:459][152]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_WallSpline
+[2023.05.01-22.32.05:459][152]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_WallSplineBFDCD3E94B98D1A5E1AF02BAF32E115C.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_WallSpline.uasset'
+[2023.05.01-22.32.05:460][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Wall" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Wall.uasset" SILENT=true
+[2023.05.01-22.32.05:463][152]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Wall
+[2023.05.01-22.32.05:463][152]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Wall15A1159F41C5A256D82D3ABDF41BCCB8.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Wall.uasset'
+[2023.05.01-22.32.05:464][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_SplineMeshwall" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMeshwall.uasset" SILENT=true
+[2023.05.01-22.32.05:478][152]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_SplineMeshwall
+[2023.05.01-22.32.05:478][152]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineMeshwallDB6FB30E4F5BD0B8D5C559A57DAD08A7.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMeshwall.uasset'
+[2023.05.01-22.32.05:563][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.01-22.32.05:612][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.01-22.32.05:659][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.01-22.32.05:667][152]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.32.05:667][152]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_SplineMeshwall.BP_SplineMeshwall
+[2023.05.01-22.32.05:667][152]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Wall.BP_Wall
+[2023.05.01-22.32.05:668][152]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.BP_WallSpline
+[2023.05.01-22.32.05:668][152]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.Default__BP_WallSpline_C
+[2023.05.01-22.32.05:668][152]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.BP_WallSpline_C
+[2023.05.01-22.32.10:069][503]LogContentBrowser: Attempting asset rename: BP_Wall -> BP_SplineMesh
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:ReceiveBeginPlay' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:ReceiveTick' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:085][503]LogMetaData: Removing '/Game/Environment/Wall/BP_SplineMesh.SKEL_BP_SplineMesh_C' ref from Metadata '/Game/Environment/Wall/BP_Wall.PackageMetaData'
+[2023.05.01-22.32.10:143][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_SplineMesh" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset" SILENT=true
+[2023.05.01-22.32.10:147][503]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_SplineMesh
+[2023.05.01-22.32.10:147][503]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineMeshAFF5E6FE444963034CF17B8EC041FC9D.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset'
+[2023.05.01-22.32.10:148][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Wall" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Wall.uasset" SILENT=true
+[2023.05.01-22.32.10:149][503]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Wall
+[2023.05.01-22.32.10:149][503]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_WallF808CF8E411718DE2FD16EB614BDBA0E.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Wall.uasset'
+[2023.05.01-22.32.10:163][503]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.32.10:163][503]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh
+[2023.05.01-22.32.10:163][503]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_Wall.BP_Wall
+[2023.05.01-22.32.10:163][503]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_Wall.Default__BP_Wall_C
+[2023.05.01-22.32.10:163][503]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_Wall.BP_Wall_C
+[2023.05.01-22.32.11:258][586]LogContentBrowser: Attempting asset rename: BP_SplineMesh -> BP_SplineMesh
+[2023.05.01-22.32.18:626][228]LogContentBrowser: Attempting asset rename: BP_SplineMeshwall -> BP_SplineMeshwall
+[2023.05.01-22.32.23:552][649]LogContentBrowser: Attempting asset rename: BP_SplineMeshwall -> BP_Spwawa
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa_C' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.SKEL_BP_Spwawa_C' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.SKEL_BP_Spwawa_C:ReceiveBeginPlay' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.SKEL_BP_Spwawa_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.SKEL_BP_Spwawa_C:ReceiveTick' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.SKEL_BP_Spwawa_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.SKEL_BP_Spwawa_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.SKEL_BP_Spwawa_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa:GetStartPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:569][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa:GetStartPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:570][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa:GetEndPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:570][649]LogMetaData: Removing '/Game/Environment/Wall/BP_Spwawa.BP_Spwawa:GetEndPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMeshwall.PackageMetaData'
+[2023.05.01-22.32.23:625][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_WallSpline" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_WallSpline.uasset" SILENT=true
+[2023.05.01-22.32.23:626][649]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_WallSpline
+[2023.05.01-22.32.23:626][649]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_WallSpline02AB9BF24F7D2C7115EF2AA73CB83BF7.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_WallSpline.uasset'
+[2023.05.01-22.32.23:627][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_SplineMesh" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset" SILENT=true
+[2023.05.01-22.32.23:630][649]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_SplineMesh
+[2023.05.01-22.32.23:631][649]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineMeshBEDA613E4C3A9D6B4AB536A01133858F.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset'
+[2023.05.01-22.32.23:631][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Spwawa" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Spwawa.uasset" SILENT=true
+[2023.05.01-22.32.23:646][649]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Spwawa
+[2023.05.01-22.32.23:646][649]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SpwawaE4046E33460780376AC0FB8F3D112191.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Spwawa.uasset'
+[2023.05.01-22.32.23:715][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.01-22.32.23:764][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.01-22.32.23:811][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.32.23:820][649]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.32.23:820][649]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Spwawa.BP_Spwawa
+[2023.05.01-22.32.23:820][649]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh
+[2023.05.01-22.32.23:820][649]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.BP_WallSpline
+[2023.05.01-22.32.23:820][649]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.Default__BP_WallSpline_C
+[2023.05.01-22.32.23:820][649]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.BP_WallSpline_C
+[2023.05.01-22.32.32:038][365]LogContentBrowser: Attempting asset rename: BP_Spwawa -> BP_Walll
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll_C' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.SKEL_BP_Walll_C' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.SKEL_BP_Walll_C:ReceiveBeginPlay' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.SKEL_BP_Walll_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.SKEL_BP_Walll_C:ReceiveTick' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.SKEL_BP_Walll_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.SKEL_BP_Walll_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.SKEL_BP_Walll_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll:GetStartPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll:GetStartPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll:GetEndPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:054][365]LogMetaData: Removing '/Game/Environment/Wall/BP_Walll.BP_Walll:GetEndPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_Spwawa.PackageMetaData'
+[2023.05.01-22.32.32:108][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_WallSpline" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_WallSpline.uasset" SILENT=true
+[2023.05.01-22.32.32:109][365]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_WallSpline
+[2023.05.01-22.32.32:109][365]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_WallSplineA79928D8469EB7C799182AACCA772CFE.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_WallSpline.uasset'
+[2023.05.01-22.32.32:110][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_SplineMesh" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset" SILENT=true
+[2023.05.01-22.32.32:113][365]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_SplineMesh
+[2023.05.01-22.32.32:114][365]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineMeshF4A012234B6F5900D680A6A7847AA9AB.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset'
+[2023.05.01-22.32.32:114][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Walll" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walll.uasset" SILENT=true
+[2023.05.01-22.32.32:129][365]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Walll
+[2023.05.01-22.32.32:129][365]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_WalllAB65A7B94B1C190B644D9681548B1AD1.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walll.uasset'
+[2023.05.01-22.32.32:197][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.01-22.32.32:245][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.01-22.32.32:291][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.01-22.32.32:299][365]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.32.32:300][365]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Walll.BP_Walll
+[2023.05.01-22.32.32:300][365]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh
+[2023.05.01-22.32.32:300][365]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.BP_WallSpline
+[2023.05.01-22.32.32:300][365]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.Default__BP_WallSpline_C
+[2023.05.01-22.32.32:300][365]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_WallSpline.BP_WallSpline_C
+[2023.05.01-22.32.35:882][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Walll.BP_Walll_C
+[2023.05.01-22.32.35:882][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Walll.BP_Walll_C
+[2023.05.01-22.32.35:883][631]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Walll.BP_Walll as actor: BP_Walll_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_Walll_C_0
+[2023.05.01-22.32.35:884][631]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Walll.BP_Walll as actor: BP_Walll_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_Walll_C_0
+[2023.05.01-22.32.36:144][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Walll.BP_Walll_C
+[2023.05.01-22.32.36:144][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Walll.BP_Walll_C
+[2023.05.01-22.32.36:145][645]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Walll.BP_Walll as actor: BP_Walll_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_Walll_C_1
+[2023.05.01-22.32.36:146][645]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Walll.BP_Walll as actor: BP_Walll_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_Walll_C_1
+[2023.05.01-22.32.38:020][795]Cmd: DELETE
+[2023.05.01-22.32.38:020][795]Cmd: ACTOR DELETE
+[2023.05.01-22.32.38:048][795]LogEditorActor: Deleted Actor: BP_SplineMesh_C
+[2023.05.01-22.32.38:098][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.05.01-22.32.38:100][795]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2023.05.01-22.32.39:269][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Environment/Wall/BP_Walll.BP_Walll
+[2023.05.01-22.32.39:269][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.32.44:225][400]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.32.44:225][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.32.47:114][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh
+[2023.05.01-22.32.47:115][641]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.32.55:462][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_SplineMesh" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset" SILENT=true
+[2023.05.01-22.32.55:465][514]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_SplineMesh
+[2023.05.01-22.32.55:466][514]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineMesh23F04DB948BC85939F15ED917D7A105A.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset'
+[2023.05.01-22.32.55:480][514]AssetCheck: New page: Asset Save: BP_SplineMesh
+[2023.05.01-22.32.55:480][514]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh
+[2023.05.01-22.32.56:341][612]BlueprintLog: New page: Compile BP_SplineMesh
+[2023.05.01-22.32.56:436][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.05.01-22.32.56:778][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_SplineMesh" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset" SILENT=true
+[2023.05.01-22.32.56:781][639]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_SplineMesh
+[2023.05.01-22.32.56:781][639]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineMesh48FDEC25437FF6166DC948BE152FB010.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset'
+[2023.05.01-22.32.56:796][639]AssetCheck: New page: Asset Save: BP_SplineMesh
+[2023.05.01-22.32.56:796][639]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh
+[2023.05.01-22.32.58:524][770]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C
+[2023.05.01-22.32.58:524][770]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C
+[2023.05.01-22.32.58:525][770]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh as actor: BP_SplineMesh_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_SplineMesh_C_2
+[2023.05.01-22.32.58:526][770]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh as actor: BP_SplineMesh_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_SplineMesh_C_2
+[2023.05.01-22.32.59:189][811]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C
+[2023.05.01-22.32.59:189][811]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C
+[2023.05.01-22.32.59:190][811]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh as actor: BP_SplineMesh_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_SplineMesh_C_3
+[2023.05.01-22.32.59:191][811]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh as actor: BP_SplineMesh_C /Game/Maps/Level_03/Level_03.Level_03:PersistentLevel.BP_SplineMesh_C_3
+[2023.05.01-22.33.04:593][240]Cmd: SELECT NONE
+[2023.05.01-22.33.04:993][271]Cmd: SELECT NONE
+[2023.05.01-22.33.05:155][283]Cmd: SELECT NONE
+[2023.05.01-22.33.15:332][ 94]Cmd: DELETE
+[2023.05.01-22.33.15:332][ 94]Cmd: ACTOR DELETE
+[2023.05.01-22.33.15:335][ 94]LogEditorActor: Deleted Actor: BP_Walll_C
+[2023.05.01-22.33.15:399][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.01-22.33.15:401][ 94]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.05.01-22.33.16:311][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.01-22.33.16:359][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_03/Level_03" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.33.16:412][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.33.16:424][162]LogSavePackage: Moving output files for package: /Game/Maps/Level_03/Level_03
+[2023.05.01-22.33.16:424][162]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_03883F01444473FBDC5DE4C38B5C73DEE4.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap'
+[2023.05.01-22.33.16:434][162]LogFileHelpers: Saving map 'Level_03' took 0.075
+[2023.05.01-22.33.16:434][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.33.16:467][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.33.16:521][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.01-22.33.16:538][162]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.33.16:538][162]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_0254984CA24302D1DBC732D995D46B8A44.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.33.16:549][162]LogFileHelpers: Saving map 'Level_02' took 0.115
+[2023.05.01-22.33.16:566][162]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.33.16:566][162]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.33.16:566][162]LogContentValidation: Display: Validating World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.33.24:188][780]LogContentBrowser: Attempting asset rename: BP_SplineMesh -> BP_Walls
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.BP_Walls_C' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.SKEL_BP_Walls_C' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.BP_Walls:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.BP_Walls:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.BP_Walls:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.BP_Walls:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.BP_Walls:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.BP_Walls:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.BP_Walls:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.SKEL_BP_Walls_C:ReceiveBeginPlay' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.SKEL_BP_Walls_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.SKEL_BP_Walls_C:ReceiveTick' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:204][780]LogMetaData: Removing '/Game/Environment/Wall/BP_Walls.SKEL_BP_Walls_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_SplineMesh.PackageMetaData'
+[2023.05.01-22.33.24:258][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Walls" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walls.uasset" SILENT=true
+[2023.05.01-22.33.24:262][780]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Walls
+[2023.05.01-22.33.24:262][780]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Walls1D3091A24B35E61EA8DE82805537275F.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walls.uasset'
+[2023.05.01-22.33.24:263][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_SplineMesh" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset" SILENT=true
+[2023.05.01-22.33.24:263][780]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_SplineMesh
+[2023.05.01-22.33.24:264][780]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineMesh83CEDD2F40EE703A2D56289076F2DFC7.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_SplineMesh.uasset'
+[2023.05.01-22.33.24:278][780]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.33.24:278][780]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Walls.BP_Walls
+[2023.05.01-22.33.24:278][780]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh
+[2023.05.01-22.33.24:278][780]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_SplineMesh.Default__BP_SplineMesh_C
+[2023.05.01-22.33.24:278][780]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_SplineMesh.BP_SplineMesh_C
+[2023.05.01-22.33.30:070][206]LogContentBrowser: Attempting asset rename: BP_Walll -> BP_Walll
+[2023.05.01-22.34.38:479][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.01-22.34.38:543][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_03/Level_03" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.34.38:595][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.34.38:610][308]LogSavePackage: Moving output files for package: /Game/Maps/Level_03/Level_03
+[2023.05.01-22.34.38:610][308]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_0311BC1F68447E16A3D06A418FE3DB7A5B.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap'
+[2023.05.01-22.34.38:621][308]LogFileHelpers: Saving map 'Level_03' took 0.078
+[2023.05.01-22.34.38:621][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.34.38:658][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.34.38:714][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.05.01-22.34.38:731][308]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.34.38:732][308]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_029C5FC0CA42A4964A20DB9EA730940016.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.34.38:745][308]LogFileHelpers: Saving map 'Level_02' took 0.124
+[2023.05.01-22.34.38:770][308]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.34.38:770][308]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.34.38:770][308]LogContentValidation: Display: Validating World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.35.10:690][662]Cmd: TRANSACTION UNDO
+[2023.05.01-22.35.10:690][662]LogEditorTransaction: Undo Move Elements
+[2023.05.01-22.35.33:210][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.01-22.35.33:262][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_03/Level_03" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.35.33:315][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.01-22.35.33:331][354]LogSavePackage: Moving output files for package: /Game/Maps/Level_03/Level_03
+[2023.05.01-22.35.33:332][354]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_0307146C8D46724BEB7C62339EA1CDE490.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap'
+[2023.05.01-22.35.33:342][354]LogFileHelpers: Saving map 'Level_03' took 0.081
+[2023.05.01-22.35.33:367][354]AssetCheck: New page: Asset Save: Level_03
+[2023.05.01-22.35.33:367][354]LogContentValidation: Display: Validating World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.35.42:299][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.01-22.35.42:359][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_03/Level_03" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.35.42:410][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.01-22.35.42:427][ 29]LogSavePackage: Moving output files for package: /Game/Maps/Level_03/Level_03
+[2023.05.01-22.35.42:427][ 29]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_03EAA2B7F04A052104283F6A8A47F43613.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap'
+[2023.05.01-22.35.42:437][ 29]LogFileHelpers: Saving map 'Level_03' took 0.078
+[2023.05.01-22.35.42:464][ 29]AssetCheck: New page: Asset Save: Level_03
+[2023.05.01-22.35.42:464][ 29]LogContentValidation: Display: Validating World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.35.59:842][726]LogContentBrowser: Attempting asset rename: BP_Walls -> BP_Walls
+[2023.05.01-22.36.07:042][309]LogContentBrowser: Attempting asset rename: BP_Walll -> BP_Spline
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline_C' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.SKEL_BP_Spline_C' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.SKEL_BP_Spline_C:ReceiveBeginPlay' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.SKEL_BP_Spline_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.SKEL_BP_Spline_C:ReceiveTick' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.SKEL_BP_Spline_C:UserConstructionScript' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.SKEL_BP_Spline_C:GetStartPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.SKEL_BP_Spline_C:GetEndPos/Tangent' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline:GetStartPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline:GetStartPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline:GetEndPos/Tangent.K2Node_FunctionResult_0' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:059][309]LogMetaData: Removing '/Game/Environment/Wall/BP_Spline.BP_Spline:GetEndPos/Tangent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Environment/Wall/BP_Walll.PackageMetaData'
+[2023.05.01-22.36.07:128][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Spline" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Spline.uasset" SILENT=true
+[2023.05.01-22.36.07:142][309]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Spline
+[2023.05.01-22.36.07:142][309]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineD645AD71413EB6137CD6C284C6DEE142.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Spline.uasset'
+[2023.05.01-22.36.07:144][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Walll" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walll.uasset" SILENT=true
+[2023.05.01-22.36.07:158][309]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Walll
+[2023.05.01-22.36.07:158][309]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_WalllB114EE0847332453FA157B80447762F2.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walll.uasset'
+[2023.05.01-22.36.07:177][309]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.36.07:177][309]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Spline.BP_Spline
+[2023.05.01-22.36.07:177][309]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_Walll.BP_Walll
+[2023.05.01-22.36.07:177][309]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_Walll.Default__BP_Walll_C
+[2023.05.01-22.36.07:177][309]LogContentValidation: Display: Validating ObjectRedirector /Game/Environment/Wall/BP_Walll.BP_Walll_C
+[2023.05.01-22.36.15:010][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.01-22.36.16:533][936]LogSlate: Window 'Save Content' being destroyed
+[2023.05.01-22.36.16:626][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Walls" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walls.uasset" SILENT=true
+[2023.05.01-22.36.16:629][936]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Walls
+[2023.05.01-22.36.16:630][936]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Walls5901471447470166588F2FB5BF8106A7.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walls.uasset'
+[2023.05.01-22.36.16:631][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.36.16:665][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.36.16:720][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.01-22.36.16:736][936]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.36.16:737][936]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_024F9509D54C3F985DD095E48FD4905F07.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.36.16:747][936]LogFileHelpers: Saving map 'Level_02' took 0.117
+[2023.05.01-22.36.16:748][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_03/Level_03" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.36.16:800][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.01-22.36.16:817][936]LogSavePackage: Moving output files for package: /Game/Maps/Level_03/Level_03
+[2023.05.01-22.36.16:817][936]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_03387614C743A56B9E0B1C1D8B05A49CFA.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap'
+[2023.05.01-22.36.16:829][936]LogFileHelpers: Saving map 'Level_03' took 0.082
+[2023.05.01-22.36.16:902][936]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.36.16:902][936]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.36.16:903][936]LightingResults: New page: Lighting Build
+[2023.05.01-22.36.16:903][936]LoadErrors: New page: Loading map: Level_01.umap
+[2023.05.01-22.36.16:929][936]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.16:929][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.16:929][936]MapCheck: New page: Map Check
+[2023.05.01-22.36.16:929][936]LightingResults: New page: Lighting Build
+[2023.05.01-22.36.16:987][936]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.36.16:991][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.01-22.36.16:993][936]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.16:994][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.16:995][936]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.16:995][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.17:050][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.01-22.36.17:104][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.01-22.36.17:118][936]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.05.01-22.36.17:119][936]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.36.17:119][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.36.17:119][936]LogAIModule: Creating AISystem for world Level_01
+[2023.05.01-22.36.17:151][936]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.36.17:223][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.01-22.36.17:232][936]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.36.17:232][936]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2023.05.01-22.36.17:232][936]LogFileHelpers: Loading map 'Level_01' took 0.330
+[2023.05.01-22.36.17:256][936]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.36.17:256][936]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Walls.BP_Walls
+[2023.05.01-22.36.17:256][936]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.36.17:278][936]LogContentValidation: Display: Validating World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.36.19:778][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.01-22.36.19:788][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.01-22.36.19:788][131]PIE: New page: PIE session: Level_01 (2 May 2023, 00:36:19)
+[2023.05.01-22.36.19:827][131]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.01-22.36.19:837][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009174s)
+[2023.05.01-22.36.19:837][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.009279s)
+[2023.05.01-22.36.19:837][131]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.36.19:837][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.36.19:837][131]LogAIModule: Creating AISystem for world Level_01
+[2023.05.01-22.36.19:837][131]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.05.01-22.36.19:891][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.01-22.36.19:893][131]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.01-22.36.19:893][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.01-22.36.19:893][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.01-22.36.19:893][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.01-22.36.19:893][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.01-22.36.19:893][131]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.01-22.36.19:893][131]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.01-22.36.19:893][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.01-22.36.19:893][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.01-22.36.19:893][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.01-22.36.19:893][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.01-22.36.19:893][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.01-22.36.19:896][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.01-22.36.19:936][131]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.01-22.36.19:936][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.01-22.36.19:936][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.01-22.36.19:936][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.01-22.36.19:937][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.01-22.36.19:937][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.01-22.36.19:938][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.01-22.36.19:938][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.01-22.36.19:938][131]LogInit: FAudioDevice initialized.
+[2023.05.01-22.36.19:938][131]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_01'.
+[2023.05.01-22.36.19:949][131]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.01-22.36.19:950][131]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.01-23.36.19
+[2023.05.01-22.36.19:951][131]LogWorld: Bringing up level for play took: 0.001959
+[2023.05.01-22.36.19:952][131]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.05.01-22.36.19:954][131]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-22.36.19:955][131]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-22.36.19:956][131]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.01-22.36.19:957][131]PIE: Server logged in
+[2023.05.01-22.36.19:958][131]PIE: Play in editor total start time 0.171 seconds.
+[2023.05.01-22.36.22:289][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Added player 0
+[2023.05.01-22.36.22:438][341]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.22:438][341]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.22:438][341]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.22:438][341]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.22:438][341]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.01-22.36.25:364][580]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.25:364][580]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.25:374][581]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.36.25:375][581]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.36.25:375][581]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.01-22.36.25:375][581]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.25:376][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.25:458][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.36.25:461][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.01-22.36.25:464][581]LogPlayLevel: Creating play world package: /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.01-22.36.25:469][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005224s)
+[2023.05.01-22.36.25:469][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_02/Level_02.Level_02 to /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 (0.005334s)
+[2023.05.01-22.36.25:469][581]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_02'.
+[2023.05.01-22.36.25:469][581]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.36.25:469][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.36.25:470][581]LogAIModule: Creating AISystem for world Level_02
+[2023.05.01-22.36.25:470][581]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2023.05.01-22.36.25:470][581]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.01-22.36.25:481][581]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.01-23.36.25
+[2023.05.01-22.36.25:481][581]LogWorld: Bringing up level for play took: 0.011188
+[2023.05.01-22.36.25:483][581]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.01-22.36.25:483][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.25:483][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.25:485][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Added player 0
+[2023.05.01-22.36.25:485][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.25:485][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.25:485][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.25:485][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.25:485][581]LogBlueprintUserMessages: [W_InGameHUD_C_1] added in game hud
+[2023.05.01-22.36.25:486][581]LogLoad: Took 0.111802 seconds to LoadMap(/Game/Maps/Level_02/UEDPIE_0_Level_02)
+[2023.05.01-22.36.27:870][791]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.27:870][791]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.27:882][792]LogNet: Browse: /Game/Maps/Level_03/Level_03
+[2023.05.01-22.36.27:882][792]LogLoad: LoadMap: /Game/Maps/Level_03/Level_03
+[2023.05.01-22.36.27:882][792]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.01-22.36.27:883][792]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.27:883][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.27:969][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.36.27:972][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.01-22.36.27:975][792]LogPlayLevel: Creating play world package: /Game/Maps/Level_03/UEDPIE_0_Level_03
+[2023.05.01-22.36.27:979][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004754s)
+[2023.05.01-22.36.27:979][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_03/Level_03.Level_03 to /Game/Maps/Level_03/UEDPIE_0_Level_03.Level_03 (0.004851s)
+[2023.05.01-22.36.27:979][792]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_03'.
+[2023.05.01-22.36.27:979][792]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.36.27:980][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.36.27:980][792]LogAIModule: Creating AISystem for world Level_03
+[2023.05.01-22.36.27:980][792]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2023.05.01-22.36.27:980][792]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.01-22.36.27:992][792]LogWorld: Bringing World /Game/Maps/Level_03/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2023.05.01-23.36.27
+[2023.05.01-22.36.27:993][792]LogWorld: Bringing up level for play took: 0.012351
+[2023.05.01-22.36.27:995][792]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.01-22.36.27:995][792]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.27:995][792]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.27:996][792]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Added player 0
+[2023.05.01-22.36.27:997][792]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.27:997][792]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.27:997][792]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.27:997][792]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.27:997][792]LogBlueprintUserMessages: [W_InGameHUD_C_2] added in game hud
+[2023.05.01-22.36.27:998][792]LogLoad: Took 0.115692 seconds to LoadMap(/Game/Maps/Level_03/UEDPIE_0_Level_03)
+[2023.05.01-22.36.30:337][993]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.30:337][993]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.30:349][994]LogNet: Browse: /Game/Maps/Level_End/Level_End
+[2023.05.01-22.36.30:349][994]LogLoad: LoadMap: /Game/Maps/Level_End/Level_End
+[2023.05.01-22.36.30:349][994]LogWorld: BeginTearingDown for /Game/Maps/Level_03/UEDPIE_0_Level_03
+[2023.05.01-22.36.30:350][994]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.30:350][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.30:430][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.36.30:433][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.01-22.36.30:443][994]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_End'.
+[2023.05.01-22.36.30:443][994]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.36.30:443][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.36.30:443][994]LogAIModule: Creating AISystem for world Level_End
+[2023.05.01-22.36.30:443][994]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2023.05.01-22.36.30:443][994]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.01-22.36.30:444][994]LogWorld: Bringing World /Game/Maps/Level_End/UEDPIE_0_Level_End.Level_End up for play (max tick rate 0) at 2023.05.01-23.36.30
+[2023.05.01-22.36.30:444][994]LogWorld: Bringing up level for play took: 0.000835
+[2023.05.01-22.36.30:446][994]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.01-22.36.30:446][994]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.30:446][994]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.30:448][994]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Added player 0
+[2023.05.01-22.36.30:448][994]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.30:448][994]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.30:448][994]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.01-22.36.30:448][994]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.01-22.36.30:448][994]LogBlueprintUserMessages: [W_InGameHUD_C_3] added in game hud
+[2023.05.01-22.36.30:453][994]LogLoad: Took 0.103877 seconds to LoadMap(/Game/Maps/Level_End/Level_End)
+[2023.05.01-22.36.32:211][203]LogBlueprintUserMessages: [WBP_End_C_0] quitting game
+[2023.05.01-22.36.32:212][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-22.36.32:212][203]LogWorld: BeginTearingDown for /Game/Maps/Level_End/UEDPIE_0_Level_End
+[2023.05.01-22.36.32:248][203]LogWorld: UWorld::CleanupWorld for Level_End, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.32:248][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.32:258][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.01-22.36.32:264][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.32:316][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.36.32:316][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.01-22.36.32:317][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.01-22.36.32:321][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-22.36.32:324][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.01-22.36.32:395][204]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.05.01-22.36.34:461][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.01-22.36.45:077][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.36.45:079][230]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.36.45:079][230]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.36.45:079][230]LightingResults: New page: Lighting Build
+[2023.05.01-22.36.45:079][230]LoadErrors: New page: Loading map: Level_02.umap
+[2023.05.01-22.36.45:109][230]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.45:110][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.45:110][230]MapCheck: New page: Map Check
+[2023.05.01-22.36.45:110][230]LightingResults: New page: Lighting Build
+[2023.05.01-22.36.45:161][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.36.45:164][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.05.01-22.36.45:167][230]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.45:167][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.45:168][230]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.36.45:169][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.36.45:226][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.05.01-22.36.45:282][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.01-22.36.45:294][230]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2023.05.01-22.36.45:294][230]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.36.45:294][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.36.45:295][230]LogAIModule: Creating AISystem for world Level_02
+[2023.05.01-22.36.45:345][230]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.36.45:421][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.05.01-22.36.45:430][230]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.36.45:430][230]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2023.05.01-22.36.45:430][230]LogFileHelpers: Loading map 'Level_02' took 0.351
+[2023.05.01-22.36.59:876][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.01-22.36.59:911][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.36.59:963][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.36.59:980][288]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.36.59:981][288]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_021842552541A46DC967D9DFA67F184F03.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.36.59:991][288]LogFileHelpers: Saving map 'Level_02' took 0.080
+[2023.05.01-22.37.00:004][288]AssetCheck: New page: Asset Save: Level_02
+[2023.05.01-22.37.00:004][288]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.37.08:509][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.01-22.37.08:567][926]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02_House.Level_02_House
+[2023.05.01-22.37.08:567][926]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.37.08:567][926]LightingResults: New page: Lighting Build
+[2023.05.01-22.37.08:567][926]LoadErrors: New page: Loading map: Level_02_House.umap
+[2023.05.01-22.37.08:599][926]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.37.08:599][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.37.08:599][926]MapCheck: New page: Map Check
+[2023.05.01-22.37.08:599][926]LightingResults: New page: Lighting Build
+[2023.05.01-22.37.08:653][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.37.08:656][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.01-22.37.08:658][926]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.37.08:658][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.37.08:712][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.01-22.37.08:766][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.01-22.37.08:773][926]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02_House'.
+[2023.05.01-22.37.08:773][926]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.37.08:773][926]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.37.08:773][926]LogAIModule: Creating AISystem for world Level_02_House
+[2023.05.01-22.37.08:804][926]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.37.08:876][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.01-22.37.08:885][926]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.37.08:885][926]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2023.05.01-22.37.08:886][926]LogFileHelpers: Loading map 'Level_02_House' took 0.319
+[2023.05.01-22.37.15:208][532]Cmd: DELETE
+[2023.05.01-22.37.15:208][532]Cmd: ACTOR DELETE
+[2023.05.01-22.37.15:233][532]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.01-22.37.15:288][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.01-22.37.15:290][532]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2023.05.01-22.37.15:775][572]Cmd: DELETE
+[2023.05.01-22.37.15:775][572]Cmd: ACTOR DELETE
+[2023.05.01-22.37.15:776][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.01-22.37.15:829][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.37.15:831][572]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2023.05.01-22.37.16:349][615]Cmd: DELETE
+[2023.05.01-22.37.16:349][615]Cmd: ACTOR DELETE
+[2023.05.01-22.37.16:350][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.01-22.37.16:406][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.01-22.37.16:407][615]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.05.01-22.37.17:268][693]Cmd: DELETE
+[2023.05.01-22.37.17:268][693]Cmd: ACTOR DELETE
+[2023.05.01-22.37.17:270][693]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.01-22.37.17:324][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.37.17:326][693]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.05.01-22.37.17:913][744]Cmd: DELETE
+[2023.05.01-22.37.17:913][744]Cmd: ACTOR DELETE
+[2023.05.01-22.37.17:914][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.01-22.37.17:966][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.37.17:968][744]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2023.05.01-22.37.45:195][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Walls.BP_Walls_C
+[2023.05.01-22.37.45:196][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Walls.BP_Walls_C
+[2023.05.01-22.37.45:197][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Walls.BP_Walls as actor: BP_Walls_C /Game/Maps/Level_02/Level_02_House.Level_02_House:PersistentLevel.BP_Walls_C_0
+[2023.05.01-22.37.45:198][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Walls.BP_Walls as actor: BP_Walls_C /Game/Maps/Level_02/Level_02_House.Level_02_House:PersistentLevel.BP_Walls_C_0
+[2023.05.01-22.37.45:838][ 57]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Walls.BP_Walls_C
+[2023.05.01-22.37.45:838][ 57]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Environment/Wall/BP_Walls.BP_Walls_C
+[2023.05.01-22.37.45:840][ 57]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Walls.BP_Walls as actor: BP_Walls_C /Game/Maps/Level_02/Level_02_House.Level_02_House:PersistentLevel.BP_Walls_C_1
+[2023.05.01-22.37.45:840][ 57]LogActorFactory: Actor Factory spawned Blueprint /Game/Environment/Wall/BP_Walls.BP_Walls as actor: BP_Walls_C /Game/Maps/Level_02/Level_02_House.Level_02_House:PersistentLevel.BP_Walls_C_1
+[2023.05.01-22.38.31:224][ 59]LogChaos: Warning: Input trimesh contains 24 bad triangles.
+[2023.05.01-22.38.42:395][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.01-22.38.42:445][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02_House" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.38.42:496][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.01-22.38.42:507][ 13]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02_House
+[2023.05.01-22.38.42:508][ 13]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_02_House92F0F4594B5A399CA87C6FB51CDFDEA3.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap'
+[2023.05.01-22.38.42:518][ 13]LogFileHelpers: Saving map 'Level_02_House' took 0.074
+[2023.05.01-22.38.42:547][ 13]AssetCheck: New page: Asset Save: Level_02_House
+[2023.05.01-22.38.42:547][ 13]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02_House.Level_02_House
+[2023.05.01-22.38.52:692][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.01-22.38.52:694][888]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.38.52:694][888]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.38.52:694][888]LightingResults: New page: Lighting Build
+[2023.05.01-22.38.52:694][888]LoadErrors: New page: Loading map: Level_02.umap
+[2023.05.01-22.38.52:696][888]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.38.52:696][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.38.52:696][888]MapCheck: New page: Map Check
+[2023.05.01-22.38.52:696][888]LightingResults: New page: Lighting Build
+[2023.05.01-22.38.52:747][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.38.52:749][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.01-22.38.52:752][888]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.38.52:752][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.38.52:806][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.01-22.38.52:859][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.01-22.38.52:871][888]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2023.05.01-22.38.52:871][888]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.38.52:871][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.38.52:872][888]LogAIModule: Creating AISystem for world Level_02
+[2023.05.01-22.38.52:908][888]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.38.52:980][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.01-22.38.52:989][888]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.38.52:989][888]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2023.05.01-22.38.52:989][888]LogFileHelpers: Loading map 'Level_02' took 0.295
+[2023.05.01-22.38.58:901][303]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.01-22.39.00:114][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.39.00:165][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.39.00:218][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.39.00:236][379]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.39.00:237][379]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_02066283644393D07A2D48AFABA0128D1F.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.39.00:247][379]LogFileHelpers: Saving map 'Level_02' took 0.083
+[2023.05.01-22.39.00:273][379]AssetCheck: New page: Asset Save: Level_02
+[2023.05.01-22.39.00:273][379]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.39.01:613][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Environment/House/House.House
+[2023.05.01-22.39.01:613][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.39.04:037][681]LogViewport: Scene viewport resized to 2169x1328, mode Windowed.
+[2023.05.01-22.39.14:232][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.01-22.39.14:295][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.39.14:351][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.01-22.39.14:368][805]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.39.14:368][805]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_02E3A5EC8042A13A699C7A4DA7F48D8832.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.39.14:378][805]LogFileHelpers: Saving map 'Level_02' took 0.083
+[2023.05.01-22.39.14:395][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-22.39.14:402][805]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-22.39.14:402][805]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/HouseAACBA69149D6A21F62A289AC05DD590B.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-22.39.14:430][805]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.39.14:430][805]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-22.39.14:430][805]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.39.15:488][919]BlueprintLog: New page: Compile House
+[2023.05.01-22.39.15:578][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.05.01-22.39.15:936][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/House/House" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset" SILENT=true
+[2023.05.01-22.39.15:943][944]LogSavePackage: Moving output files for package: /Game/Environment/House/House
+[2023.05.01-22.39.15:943][944]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/HouseE5C331F64425F43F51ABDF95DF5D9EE0.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/House/House.uasset'
+[2023.05.01-22.39.15:957][944]AssetCheck: New page: Asset Save: House
+[2023.05.01-22.39.15:957][944]LogContentValidation: Display: Validating Blueprint /Game/Environment/House/House.House
+[2023.05.01-22.39.18:608][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.01-22.39.18:666][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.39.18:725][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.01-22.39.18:742][221]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.39.18:742][221]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_02C85DB9BD45DB94DFF3AFB887A011B8F4.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.39.18:752][221]LogFileHelpers: Saving map 'Level_02' took 0.087
+[2023.05.01-22.39.18:767][221]AssetCheck: New page: Asset Save: Level_02
+[2023.05.01-22.39.18:767][221]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.39.21:142][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.39.21:216][393]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.39.21:216][393]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.39.21:216][393]LightingResults: New page: Lighting Build
+[2023.05.01-22.39.21:217][393]LoadErrors: New page: Loading map: Level_01.umap
+[2023.05.01-22.39.21:219][393]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.39.21:219][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.39.21:220][393]MapCheck: New page: Map Check
+[2023.05.01-22.39.21:220][393]LightingResults: New page: Lighting Build
+[2023.05.01-22.39.21:277][393]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.39.21:280][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.01-22.39.21:282][393]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.39.21:282][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.39.21:343][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.01-22.39.21:402][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.01-22.39.21:416][393]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.05.01-22.39.21:416][393]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.39.21:416][393]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.39.21:417][393]LogAIModule: Creating AISystem for world Level_01
+[2023.05.01-22.39.21:449][393]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.39.21:527][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.05.01-22.39.21:537][393]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.39.21:537][393]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2023.05.01-22.39.21:537][393]LogFileHelpers: Loading map 'Level_01' took 0.320
+[2023.05.01-22.39.23:271][527]LogTurnkeySupport: Display: Adding device menu item for ANDY-PC
+[2023.05.01-22.39.25:537][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.01-22.40.28:124][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
