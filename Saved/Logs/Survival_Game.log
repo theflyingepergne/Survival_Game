@@ -3163,3 +3163,363 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.01-22.39.23:271][527]LogTurnkeySupport: Display: Adding device menu item for ANDY-PC
 [2023.05.01-22.39.25:537][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
 [2023.05.01-22.40.28:124][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.01-22.43.42:607][848]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-22.43.42:607][848]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.01-22.43.43:434][907]LogEditorFactories: Performing atomic reimport of [D:/GitHub/Survival_Game/SourceFiles/3D Models/Wall/Wall.fbx]
+[2023.05.01-22.43.43:499][907]LogFbx: Loading FBX Scene from D:/GitHub/Survival_Game/SourceFiles/3D Models/Wall/Wall.fbx
+[2023.05.01-22.43.43:516][907]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.01-22.43.43:685][907]LogFbx: Display: Triangulating static mesh Wall
+[2023.05.01-22.43.43:708][907]LogStaticMesh: Display: Building static mesh Wall...
+[2023.05.01-22.43.43:803][907]LogStaticMesh: Built static mesh [0.10s] /Game/Environment/Wall/Wall.Wall
+[2023.05.01-22.43.43:811][907]LogStaticMesh: Warning: Wall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.01-22.43.43:811][907]LogStaticMesh: Warning: Wall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.01-22.43.43:830][907]LogEditorFactories: -- imported successfully
+[2023.05.01-22.43.43:831][907]FBXImport: Warning: Wall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.01-22.43.43:831][907]FBXImport: Warning: Wall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.01-22.43.44:205][907]LogStaticMesh: Display: Building static mesh Wall...
+[2023.05.01-22.43.44:206][907]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/Wall/Wall.Wall
+[2023.05.01-22.43.44:206][907]LogStaticMesh: Warning: Wall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.01-22.43.44:206][907]LogStaticMesh: Warning: Wall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.01-22.43.46:622][ 71]LogEditorFactories: Performing atomic reimport of [D:/GitHub/Survival_Game/SourceFiles/3D Models/Wall/Wall_Collision.fbx]
+[2023.05.01-22.43.46:628][ 71]LogFbx: Loading FBX Scene from D:/GitHub/Survival_Game/SourceFiles/3D Models/Wall/Wall_Collision.fbx
+[2023.05.01-22.43.46:632][ 71]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.01-22.43.46:680][ 71]LogFbx: Display: Triangulating static mesh Wall_Collision
+[2023.05.01-22.43.46:687][ 71]LogStaticMesh: Display: Building static mesh Wall_Collision...
+[2023.05.01-22.43.46:748][ 71]LogStaticMesh: Built static mesh [0.06s] /Game/Environment/Wall/Wall_Collision.Wall_Collision
+[2023.05.01-22.43.46:754][ 71]LogStaticMesh: Warning: Wall_Collision has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.01-22.43.46:755][ 71]LogStaticMesh: Warning: Wall_Collision has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.01-22.43.46:762][ 71]LogEditorFactories: -- imported successfully
+[2023.05.01-22.43.46:763][ 71]FBXImport: Warning: Wall_Collision has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.01-22.43.46:763][ 71]FBXImport: Warning: Wall_Collision has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.01-22.43.54:255][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.01-22.43.54:313][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.43.54:371][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.05.01-22.43.54:389][602]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-22.43.54:390][602]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_010CF1801D47156BE5915B9CBC20D2274C.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-22.43.54:399][602]LogFileHelpers: Saving map 'Level_01' took 0.087
+[2023.05.01-22.43.54:421][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/Wall" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/Wall.uasset" SILENT=true
+[2023.05.01-22.43.54:435][602]LogSavePackage: Moving output files for package: /Game/Environment/Wall/Wall
+[2023.05.01-22.43.54:435][602]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/WallD741AD03411EE4599B8DC0A247EAEA49.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/Wall.uasset'
+[2023.05.01-22.43.54:444][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/Wall_Collision" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/Wall_Collision.uasset" SILENT=true
+[2023.05.01-22.43.54:446][602]LogSavePackage: Moving output files for package: /Game/Environment/Wall/Wall_Collision
+[2023.05.01-22.43.54:446][602]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Wall_CollisionB314DA2543FC9D3A6599988EACFEAA59.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/Wall_Collision.uasset'
+[2023.05.01-22.43.54:462][602]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.43.54:462][602]LogContentValidation: Display: Validating StaticMesh /Game/Environment/Wall/Wall_Collision.Wall_Collision
+[2023.05.01-22.43.54:462][602]LogContentValidation: Display: Validating StaticMesh /Game/Environment/Wall/Wall.Wall
+[2023.05.01-22.43.54:462][602]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.43.57:605][831]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Environment/Wall/BP_Spline.BP_Spline
+[2023.05.01-22.43.57:606][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.44.03:866][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.01-22.44.03:916][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.44.03:980][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.01-22.44.04:002][462]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-22.44.04:002][462]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_012E66FF5040D661409D54DC8C1A1ADAD3.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-22.44.04:013][462]LogFileHelpers: Saving map 'Level_01' took 0.097
+[2023.05.01-22.44.04:013][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Spline" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Spline.uasset" SILENT=true
+[2023.05.01-22.44.04:027][462]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Spline
+[2023.05.01-22.44.04:028][462]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Spline10B01D95448305FB077D7E9A34F302B8.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Spline.uasset'
+[2023.05.01-22.44.04:029][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Walls" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walls.uasset" SILENT=true
+[2023.05.01-22.44.04:032][462]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Walls
+[2023.05.01-22.44.04:032][462]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Walls01B8861541E8CCAC5264F78A46C8EEAB.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Walls.uasset'
+[2023.05.01-22.44.04:052][462]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.01-22.44.04:052][462]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Spline.BP_Spline
+[2023.05.01-22.44.04:052][462]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Walls.BP_Walls
+[2023.05.01-22.44.04:052][462]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.44.04:526][513]BlueprintLog: New page: Compile BP_Spline
+[2023.05.01-22.44.04:668][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.05.01-22.44.05:879][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment/Wall/BP_Spline" FILE="../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Spline.uasset" SILENT=true
+[2023.05.01-22.44.05:893][626]LogSavePackage: Moving output files for package: /Game/Environment/Wall/BP_Spline
+[2023.05.01-22.44.05:894][626]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_SplineC80EAF0241C99460AD5BA5BAA244EEC6.tmp' to '../../../../../../GitHub/Survival_Game/Content/Environment/Wall/BP_Spline.uasset'
+[2023.05.01-22.44.05:908][626]AssetCheck: New page: Asset Save: BP_Spline
+[2023.05.01-22.44.05:908][626]LogContentValidation: Display: Validating Blueprint /Game/Environment/Wall/BP_Spline.BP_Spline
+[2023.05.01-22.44.09:640][ 34]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.44.09:640][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.44.09:706][ 34]LogViewport: Scene viewport resized to 2169x1330, mode Windowed.
+[2023.05.01-22.44.11:423][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.05.01-22.44.11:465][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.44.11:525][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.01-22.44.11:545][165]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-22.44.11:546][165]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_015DEC767941157DA3831F439ED7B7765D.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-22.44.11:556][165]LogFileHelpers: Saving map 'Level_01' took 0.091
+[2023.05.01-22.44.11:569][165]AssetCheck: New page: Asset Save: Level_01
+[2023.05.01-22.44.11:569][165]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.44.32:779][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.01-22.44.32:831][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.44.32:888][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.05.01-22.44.32:908][665]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-22.44.32:909][665]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_01C15076F34C22E36FF585C4A4B2FECBAD.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-22.44.32:919][665]LogFileHelpers: Saving map 'Level_01' took 0.088
+[2023.05.01-22.44.32:933][665]AssetCheck: New page: Asset Save: Level_01
+[2023.05.01-22.44.32:933][665]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.44.35:483][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.01-22.44.41:231][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.01-22.44.41:313][268]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.44.41:313][268]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.44.41:313][268]LightingResults: New page: Lighting Build
+[2023.05.01-22.44.41:313][268]LoadErrors: New page: Loading map: Level_02.umap
+[2023.05.01-22.44.41:316][268]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.44.41:316][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.44.41:316][268]MapCheck: New page: Map Check
+[2023.05.01-22.44.41:316][268]LightingResults: New page: Lighting Build
+[2023.05.01-22.44.41:375][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.44.41:378][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.05.01-22.44.41:381][268]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.44.41:381][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.44.41:443][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.05.01-22.44.41:502][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.01-22.44.41:515][268]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2023.05.01-22.44.41:516][268]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.44.41:516][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.44.41:516][268]LogAIModule: Creating AISystem for world Level_02
+[2023.05.01-22.44.41:547][268]LogChaos: Warning: Input trimesh contains 24 bad triangles.
+[2023.05.01-22.44.41:589][268]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.44.41:666][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.01-22.44.41:676][268]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.44.41:676][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2023.05.01-22.44.41:676][268]LogFileHelpers: Loading map 'Level_02' took 0.363
+[2023.05.01-22.44.53:384][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.44.53:445][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.01-22.44.53:468][ 22]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.44.53:468][ 22]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_02CEBA74924372B534A19F02A3AB090DE8.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.44.53:494][ 22]AssetCheck: New page: Asset Save: Level_02
+[2023.05.01-22.44.53:494][ 22]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.45.00:587][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.01-22.45.05:091][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.45.05:163][799]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02_House.Level_02_House
+[2023.05.01-22.45.05:163][799]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.45.05:163][799]LightingResults: New page: Lighting Build
+[2023.05.01-22.45.05:163][799]LoadErrors: New page: Loading map: Level_02_House.umap
+[2023.05.01-22.45.05:166][799]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.45.05:166][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.45.05:166][799]MapCheck: New page: Map Check
+[2023.05.01-22.45.05:166][799]LightingResults: New page: Lighting Build
+[2023.05.01-22.45.05:225][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.45.05:228][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.01-22.45.05:231][799]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.45.05:231][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.45.05:293][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.01-22.45.05:352][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.01-22.45.05:362][799]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02_House'.
+[2023.05.01-22.45.05:362][799]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.45.05:362][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.45.05:362][799]LogAIModule: Creating AISystem for world Level_02_House
+[2023.05.01-22.45.05:411][799]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.45.05:489][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.05.01-22.45.05:498][799]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.45.05:499][799]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2023.05.01-22.45.05:499][799]LogFileHelpers: Loading map 'Level_02_House' took 0.335
+[2023.05.01-22.45.10:260][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.01-22.45.10:313][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02_House" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.45.10:372][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.05.01-22.45.10:385][205]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02_House
+[2023.05.01-22.45.10:386][205]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_02_House6830413B4F6AEAD2FB83B6B9C8434BC8.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap'
+[2023.05.01-22.45.10:396][205]LogFileHelpers: Saving map 'Level_02_House' took 0.083
+[2023.05.01-22.45.10:430][205]AssetCheck: New page: Asset Save: Level_02_House
+[2023.05.01-22.45.10:431][205]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02_House.Level_02_House
+[2023.05.01-22.45.13:688][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.45.13:774][492]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.45.13:774][492]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.45.13:774][492]LightingResults: New page: Lighting Build
+[2023.05.01-22.45.13:774][492]LoadErrors: New page: Loading map: Level_03.umap
+[2023.05.01-22.45.13:776][492]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.45.13:776][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.45.13:776][492]MapCheck: New page: Map Check
+[2023.05.01-22.45.13:776][492]LightingResults: New page: Lighting Build
+[2023.05.01-22.45.13:833][492]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.45.13:836][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.01-22.45.13:838][492]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.45.13:838][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.45.13:899][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.01-22.45.13:960][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.01-22.45.13:974][492]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03'.
+[2023.05.01-22.45.13:974][492]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.45.13:974][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.45.13:974][492]LogAIModule: Creating AISystem for world Level_03
+[2023.05.01-22.45.14:050][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.45.14:131][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.01-22.45.14:140][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.45.14:140][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2023.05.01-22.45.14:140][492]LogFileHelpers: Loading map 'Level_03' took 0.366
+[2023.05.01-22.45.18:550][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.01-22.45.22:503][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.45.22:591][125]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.45.22:591][125]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.45.22:591][125]LightingResults: New page: Lighting Build
+[2023.05.01-22.45.22:591][125]LoadErrors: New page: Loading map: Level_01.umap
+[2023.05.01-22.45.22:594][125]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.45.22:594][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.45.22:595][125]MapCheck: New page: Map Check
+[2023.05.01-22.45.22:595][125]LightingResults: New page: Lighting Build
+[2023.05.01-22.45.22:651][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.45.22:654][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.01-22.45.22:657][125]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.45.22:657][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.45.22:717][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.01-22.45.22:776][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.01-22.45.22:794][125]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.05.01-22.45.22:795][125]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.45.22:795][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.45.22:795][125]LogAIModule: Creating AISystem for world Level_01
+[2023.05.01-22.45.22:841][125]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.45.22:921][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.01-22.45.22:931][125]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.45.22:931][125]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2023.05.01-22.45.22:931][125]LogFileHelpers: Loading map 'Level_01' took 0.340
+[2023.05.01-22.45.42:255][510]Cmd: SELECT NONE
+[2023.05.01-22.45.47:816][924]Cmd: TRANSACTION UNDO
+[2023.05.01-22.45.47:816][924]LogEditorTransaction: Undo Select None
+[2023.05.01-22.45.49:871][ 40]Cmd: TRANSACTION UNDO
+[2023.05.01-22.45.49:871][ 40]LogEditorTransaction: Undo Replace component used material
+[2023.05.01-22.45.50:881][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.01-22.48.18:106][ 21]Cmd: TRANSACTION UNDO
+[2023.05.01-22.48.18:106][ 21]LogEditorTransaction: Undo Edit Planet Radius
+[2023.05.01-22.49.27:791][126]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.01-22.49.27:861][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.01-22.49.28:513][126]LogSlate: Window 'Save Content' being destroyed
+[2023.05.01-22.49.28:548][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.49.28:604][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.49.28:625][126]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-22.49.28:625][126]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_019E2FE13C4C349748294FD082C8ED27AE.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-22.49.28:635][126]LogFileHelpers: Saving map 'Level_01' took 0.088
+[2023.05.01-22.49.28:695][127]AssetCheck: New page: Asset Save: Level_01
+[2023.05.01-22.49.28:695][127]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.49.47:814][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.49.47:865][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.49.47:922][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.01-22.49.47:943][634]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-22.49.47:943][634]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_019BE4AF0D46C54914AC3C68A864243D6C.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-22.49.47:953][634]LogFileHelpers: Saving map 'Level_01' took 0.089
+[2023.05.01-22.49.47:976][634]AssetCheck: New page: Asset Save: Level_01
+[2023.05.01-22.49.47:976][634]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.50.42:196][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.50.42:232][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.50.42:290][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.50.42:311][761]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.01-22.50.42:312][761]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_01BC2F29504D88190DFFB4B98D1D65B1B6.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.01-22.50.42:321][761]LogFileHelpers: Saving map 'Level_01' took 0.090
+[2023.05.01-22.50.42:346][761]AssetCheck: New page: Asset Save: Level_01
+[2023.05.01-22.50.42:346][761]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.50.50:781][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.50.50:863][341]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.50.50:863][341]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.50.50:863][341]LightingResults: New page: Lighting Build
+[2023.05.01-22.50.50:863][341]LoadErrors: New page: Loading map: Level_02.umap
+[2023.05.01-22.50.50:866][341]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.50.50:866][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.50.50:866][341]MapCheck: New page: Map Check
+[2023.05.01-22.50.50:866][341]LightingResults: New page: Lighting Build
+[2023.05.01-22.50.50:924][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.50.50:928][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.01-22.50.50:930][341]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.50.50:931][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.50.50:990][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.01-22.50.51:048][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.01-22.50.51:066][341]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2023.05.01-22.50.51:066][341]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.50.51:066][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.50.51:067][341]LogAIModule: Creating AISystem for world Level_02
+[2023.05.01-22.50.51:118][341]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.50.51:197][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.05.01-22.50.51:206][341]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.50.51:206][341]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2023.05.01-22.50.51:206][341]LogFileHelpers: Loading map 'Level_02' took 0.343
+[2023.05.01-22.50.59:242][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.01-22.50.59:302][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.50.59:359][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.01-22.50.59:379][932]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02
+[2023.05.01-22.50.59:380][932]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_024607711A4476B212C29A42868724DCA1.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02.umap'
+[2023.05.01-22.50.59:390][932]LogFileHelpers: Saving map 'Level_02' took 0.089
+[2023.05.01-22.50.59:414][932]AssetCheck: New page: Asset Save: Level_02
+[2023.05.01-22.50.59:414][932]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02.Level_02
+[2023.05.01-22.51.02:326][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.51.03:562][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.51.03:633][208]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_02/Level_02_House.Level_02_House
+[2023.05.01-22.51.03:633][208]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.51.03:633][208]LightingResults: New page: Lighting Build
+[2023.05.01-22.51.03:633][208]LoadErrors: New page: Loading map: Level_02_House.umap
+[2023.05.01-22.51.03:636][208]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.51.03:636][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.51.03:636][208]MapCheck: New page: Map Check
+[2023.05.01-22.51.03:636][208]LightingResults: New page: Lighting Build
+[2023.05.01-22.51.03:693][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.51.03:697][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.01-22.51.03:699][208]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.51.03:699][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.51.03:760][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.01-22.51.03:820][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.01-22.51.03:834][208]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02_House'.
+[2023.05.01-22.51.03:834][208]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.51.03:834][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.51.03:834][208]LogAIModule: Creating AISystem for world Level_02_House
+[2023.05.01-22.51.03:870][208]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.51.03:950][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.01-22.51.03:960][208]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.51.03:960][208]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2023.05.01-22.51.03:960][208]LogFileHelpers: Loading map 'Level_02_House' took 0.327
+[2023.05.01-22.51.36:283][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.01-22.51.36:316][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_02/Level_02_House" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.51.36:373][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.51.36:386][207]LogSavePackage: Moving output files for package: /Game/Maps/Level_02/Level_02_House
+[2023.05.01-22.51.36:386][207]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_02_House41E84426456F48F61972E9BD92DD4825.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_02/Level_02_House.umap'
+[2023.05.01-22.51.36:396][207]LogFileHelpers: Saving map 'Level_02_House' took 0.081
+[2023.05.01-22.51.36:409][207]AssetCheck: New page: Asset Save: Level_02_House
+[2023.05.01-22.51.36:409][207]LogContentValidation: Display: Validating World /Game/Maps/Level_02/Level_02_House.Level_02_House
+[2023.05.01-22.51.43:404][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.01-22.51.43:488][801]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.51.43:488][801]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.51.43:488][801]LightingResults: New page: Lighting Build
+[2023.05.01-22.51.43:488][801]LoadErrors: New page: Loading map: Level_03.umap
+[2023.05.01-22.51.43:490][801]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.51.43:490][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.51.43:491][801]MapCheck: New page: Map Check
+[2023.05.01-22.51.43:491][801]LightingResults: New page: Lighting Build
+[2023.05.01-22.51.43:548][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.51.43:551][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.01-22.51.43:553][801]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.51.43:553][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.51.43:616][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.05.01-22.51.43:676][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.05.01-22.51.43:690][801]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03'.
+[2023.05.01-22.51.43:690][801]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.51.43:690][801]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.51.43:690][801]LogAIModule: Creating AISystem for world Level_03
+[2023.05.01-22.51.43:748][801]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.51.43:829][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.01-22.51.43:837][801]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.51.43:837][801]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2023.05.01-22.51.43:837][801]LogFileHelpers: Loading map 'Level_03' took 0.349
+[2023.05.01-22.51.51:363][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.51.51:402][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_03/Level_03" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.01-22.51.51:461][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.01-22.51.51:482][388]LogSavePackage: Moving output files for package: /Game/Maps/Level_03/Level_03
+[2023.05.01-22.51.51:482][388]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_03E88645204449AE563E6EEA9CBC680C60.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_03/Level_03.umap'
+[2023.05.01-22.51.51:492][388]LogFileHelpers: Saving map 'Level_03' took 0.091
+[2023.05.01-22.51.51:506][388]AssetCheck: New page: Asset Save: Level_03
+[2023.05.01-22.51.51:506][388]LogContentValidation: Display: Validating World /Game/Maps/Level_03/Level_03.Level_03
+[2023.05.01-22.51.54:955][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.01-22.51.55:027][664]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.01-22.51.55:027][664]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.01-22.51.55:027][664]LightingResults: New page: Lighting Build
+[2023.05.01-22.51.55:027][664]LoadErrors: New page: Loading map: Level_01.umap
+[2023.05.01-22.51.55:030][664]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.51.55:030][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.51.55:030][664]MapCheck: New page: Map Check
+[2023.05.01-22.51.55:030][664]LightingResults: New page: Lighting Build
+[2023.05.01-22.51.55:087][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-22.51.55:091][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.01-22.51.55:094][664]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-22.51.55:094][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-22.51.55:154][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.01-22.51.55:215][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.01-22.51.55:232][664]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.05.01-22.51.55:232][664]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.01-22.51.55:232][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.01-22.51.55:233][664]LogAIModule: Creating AISystem for world Level_01
+[2023.05.01-22.51.55:282][664]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.01-22.51.55:362][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.01-22.51.55:372][664]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.01-22.51.55:372][664]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2023.05.01-22.51.55:372][664]LogFileHelpers: Loading map 'Level_01' took 0.345
+[2023.05.01-22.52.25:557][931]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.01-22.52.25:621][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.01-22.57.25:662][ 67]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.104 and deleted 0 file(s) with total size 0 MiB.
