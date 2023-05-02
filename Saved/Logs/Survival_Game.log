@@ -1900,3 +1900,614 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.02-13.02.11:310][501]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.05.02-13.02.11:310][501]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
 [2023.05.02-13.02.11:310][501]LogFileHelpers: Loading map 'Level_01' took 0.275
+[2023.05.02-13.02.45:607][699]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-13.02.45:618][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-13.02.45:618][699]PIE: New page: PIE session: Level_01 (2 May 2023, 15:02:45)
+[2023.05.02-13.02.45:656][699]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.02.45:671][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015089s)
+[2023.05.02-13.02.45:671][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.015198s)
+[2023.05.02-13.02.45:671][699]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.02-13.02.45:671][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.02.45:671][699]LogAIModule: Creating AISystem for world Level_01
+[2023.05.02-13.02.45:672][699]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2023.05.02-13.02.45:711][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.02-13.02.45:712][699]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.02-13.02.45:712][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-13.02.45:712][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-13.02.45:712][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-13.02.45:712][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-13.02.45:712][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.02-13.02.45:712][699]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-13.02.45:712][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.02-13.02.45:712][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-13.02.45:713][699]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-13.02.45:713][699]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-13.02.45:713][699]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-13.02.45:715][699]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-13.02.45:761][699]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.02-13.02.45:761][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-13.02.45:761][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-13.02.45:761][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-13.02.45:762][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.02-13.02.45:762][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.02-13.02.45:764][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.02-13.02.45:764][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.02-13.02.45:764][699]LogInit: FAudioDevice initialized.
+[2023.05.02-13.02.45:764][699]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_01'.
+[2023.05.02-13.02.45:777][699]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.02-13.02.45:781][699]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.02-14.02.45
+[2023.05.02-13.02.45:781][699]LogWorld: Bringing up level for play took: 0.003510
+[2023.05.02-13.02.45:783][699]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.05.02-13.02.45:784][699]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.02.45:785][699]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.02.45:787][699]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.02.45:787][699]PIE: Server logged in
+[2023.05.02-13.02.45:789][699]PIE: Play in editor total start time 0.173 seconds.
+[2023.05.02-13.02.46:864][782]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Added player 0
+[2023.05.02-13.02.47:050][799]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.02-13.02.47:050][799]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.02-13.02.47:050][799]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.02-13.02.47:050][799]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.02-13.02.47:050][799]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.02-13.03.12:217][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.03.12:217][885]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.03.12:217][885]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-13.03.12:217][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.03.12:227][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-13.03.12:234][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.03.12:270][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.03.12:270][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.02-13.03.12:271][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.02-13.03.12:277][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.02-13.03.12:319][886]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.05.02-13.03.21:865][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.02-13.03.21:865][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.02-13.03.22:351][585]LogContentBrowser: Deferred new asset file creation: M_Wispy_Inst
+[2023.05.02-13.03.22:413][585]LogContentBrowser: Creating deferred item: M_Wispy_Inst
+[2023.05.02-13.03.22:424][586]LogContentBrowser: Renaming the item being created (Deferred Item: M_Wispy_Inst).
+[2023.05.02-13.03.30:347][162]LogContentBrowser: Attempting asset rename: M_Wispy_Inst -> MI_Wispy_Green
+[2023.05.02-13.03.30:348][162]LogContentBrowser: End creating deferred item M_Wispy_Inst
+[2023.05.02-13.03.34:540][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/MI_Wispy_Green" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset" SILENT=true
+[2023.05.02-13.03.34:541][451]LogSavePackage: Moving output files for package: /Game/HealthDamage/MI_Wispy_Green
+[2023.05.02-13.03.34:542][451]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_Wispy_GreenD08598BF41E4A3FCD2164594330EC461.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset'
+[2023.05.02-13.03.34:601][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.02-13.03.34:640][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.02-13.03.34:674][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.02-13.03.34:689][451]AssetCheck: New page: Asset Save: MI_Wispy_Green
+[2023.05.02-13.03.34:689][451]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/HealthDamage/MI_Wispy_Green.MI_Wispy_Green
+[2023.05.02-13.03.40:314][830]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/HealthDamage/BuffHealthSphere.BuffHealthSphere
+[2023.05.02-13.03.40:331][830]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/HealthDamage/BuffHealthSphere) ...
+[2023.05.02-13.03.40:338][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.03.40:608][830]LogViewport: Scene viewport resized to 2188x1893, mode Windowed.
+[2023.05.02-13.03.42:378][957]LogViewport: Scene viewport resized to 2184x1929, mode Windowed.
+[2023.05.02-13.03.42:524][959]LogViewport: Scene viewport resized to 444x266, mode Windowed.
+[2023.05.02-13.03.42:897][984]LogViewport: Scene viewport resized to 676x501, mode Windowed.
+[2023.05.02-13.03.44:795][139]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-13.03.44:795][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.03.45:854][232]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-13.03.45:854][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.03.47:667][334]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/HealthDamage/MI_Wispy_Green.MI_Wispy_Green
+[2023.05.02-13.03.47:669][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.03.47:829][334]LogViewport: Scene viewport resized to 397x501, mode Windowed.
+[2023.05.02-13.03.49:813][408]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.02-13.03.51:309][466]LogViewport: Scene viewport resized to 2188x1893, mode Windowed.
+[2023.05.02-13.03.51:378][466]LogViewport: Scene viewport resized to 1282x1929, mode Windowed.
+[2023.05.02-13.03.51:527][468]LogViewport: Scene viewport resized to 260x266, mode Windowed.
+[2023.05.02-13.03.51:688][474]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.02-13.03.51:878][476]LogViewport: Scene viewport resized to 1282x1929, mode Windowed.
+[2023.05.02-13.03.52:003][478]LogViewport: Scene viewport resized to 260x266, mode Windowed.
+[2023.05.02-13.03.52:040][479]LogViewport: Scene viewport resized to 1284x1893, mode Windowed.
+[2023.05.02-13.04.06:210][185]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.02-13.05.22:068][884]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.02-13.05.23:172][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.02-13.05.23:246][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/MI_Wispy_Green" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset" SILENT=true
+[2023.05.02-13.05.23:281][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.02-13.05.23:335][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.02-13.05.23:337][936]LogSavePackage: Moving output files for package: /Game/HealthDamage/MI_Wispy_Green
+[2023.05.02-13.05.23:338][936]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_Wispy_Green7419DC6E404BDF8083A64A9F14469535.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset'
+[2023.05.02-13.05.23:346][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/BuffHealthSphere" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/BuffHealthSphere.uasset" SILENT=true
+[2023.05.02-13.05.23:349][936]LogSavePackage: Moving output files for package: /Game/HealthDamage/BuffHealthSphere
+[2023.05.02-13.05.23:350][936]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BuffHealthSphere687D16A94890AF7C5BCAC281C9729652.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/BuffHealthSphere.uasset'
+[2023.05.02-13.05.23:366][936]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-13.05.23:366][936]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/HealthDamage/MI_Wispy_Green.MI_Wispy_Green
+[2023.05.02-13.05.23:366][936]LogContentValidation: Display: Validating StaticMesh /Game/HealthDamage/BuffHealthSphere.BuffHealthSphere
+[2023.05.02-13.05.27:940][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HealthDamage/BP_Buff_Health.BP_Buff_Health
+[2023.05.02-13.05.27:940][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.05.38:832][756]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.05.02-13.05.43:463][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.05.02-13.05.43:525][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.02-13.05.43:573][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.02-13.05.43:597][  7]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.02-13.05.43:597][  7]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_01A2E09AB3476DA96F7856EA96CAA32197.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.02-13.05.43:610][  7]LogFileHelpers: Saving map 'Level_01' took 0.085
+[2023.05.02-13.05.43:622][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/BP_Buff_Health" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset" SILENT=true
+[2023.05.02-13.05.43:628][  7]LogSavePackage: Moving output files for package: /Game/HealthDamage/BP_Buff_Health
+[2023.05.02-13.05.43:628][  7]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Buff_Health7970F6B641D67D089291EE930CB4DB6D.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset'
+[2023.05.02-13.05.43:646][  7]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-13.05.43:646][  7]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/BP_Buff_Health.BP_Buff_Health
+[2023.05.02-13.05.43:646][  7]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.02-13.05.44:043][ 36]BlueprintLog: New page: Compile BP_Buff_Health
+[2023.05.02-13.05.44:116][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.02-13.05.44:513][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/BP_Buff_Health" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset" SILENT=true
+[2023.05.02-13.05.44:519][ 55]LogSavePackage: Moving output files for package: /Game/HealthDamage/BP_Buff_Health
+[2023.05.02-13.05.44:520][ 55]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Buff_HealthE33A072A47B74E0271D044A18382394D.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset'
+[2023.05.02-13.05.44:537][ 55]AssetCheck: New page: Asset Save: BP_Buff_Health
+[2023.05.02-13.05.44:537][ 55]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/BP_Buff_Health.BP_Buff_Health
+[2023.05.02-13.05.45:387][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.02-13.05.45:421][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.02-13.05.45:463][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.02-13.05.45:484][115]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.02-13.05.45:484][115]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_0111724D2D424C1CF00D7FFDA04E4CF622.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.02-13.05.45:496][115]LogFileHelpers: Saving map 'Level_01' took 0.076
+[2023.05.02-13.05.45:510][115]AssetCheck: New page: Asset Save: Level_01
+[2023.05.02-13.05.45:510][115]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.02-13.05.48:965][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-13.05.48:974][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-13.05.48:974][252]PIE: New page: PIE session: Level_01 (2 May 2023, 15:05:48)
+[2023.05.02-13.05.48:974][252]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.05.48:990][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015647s)
+[2023.05.02-13.05.48:990][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.015731s)
+[2023.05.02-13.05.48:990][252]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.02-13.05.48:990][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.05.48:990][252]LogAIModule: Creating AISystem for world Level_01
+[2023.05.02-13.05.48:990][252]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2023.05.02-13.05.49:034][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.02-13.05.49:035][252]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.02-13.05.49:035][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-13.05.49:035][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-13.05.49:035][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-13.05.49:035][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-13.05.49:035][252]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.02-13.05.49:035][252]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-13.05.49:035][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.02-13.05.49:035][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-13.05.49:036][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-13.05.49:036][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-13.05.49:036][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-13.05.49:038][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-13.05.49:079][252]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.02-13.05.49:079][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-13.05.49:079][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-13.05.49:079][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-13.05.49:079][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.02-13.05.49:080][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.02-13.05.49:081][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.02-13.05.49:081][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.02-13.05.49:081][252]LogInit: FAudioDevice initialized.
+[2023.05.02-13.05.49:081][252]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_01'.
+[2023.05.02-13.05.49:092][252]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.02-13.05.49:095][252]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.02-14.05.49
+[2023.05.02-13.05.49:095][252]LogWorld: Bringing up level for play took: 0.002737
+[2023.05.02-13.05.49:097][252]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.05.02-13.05.49:098][252]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.05.49:100][252]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.05.49:101][252]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.05.49:101][252]PIE: Server logged in
+[2023.05.02-13.05.49:102][252]PIE: Play in editor total start time 0.13 seconds.
+[2023.05.02-13.05.49:973][299]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Added player 0
+[2023.05.02-13.05.50:075][307]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.02-13.05.50:075][307]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.02-13.05.50:075][307]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.02-13.05.50:075][307]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.02-13.05.50:075][307]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.02-13.05.52:838][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.05.52:838][511]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.05.52:838][511]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-13.05.52:838][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.05.52:851][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-13.05.52:857][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.05.52:898][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.05.52:899][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.02-13.05.52:900][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.02-13.05.52:906][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.02-13.05.52:944][512]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.05.02-13.06.06:689][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.02-13.06.06:741][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.02-13.06.06:786][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.02-13.06.06:806][240]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.02-13.06.06:806][240]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_01A53E059B466E5266BE7212A8B149993D.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.02-13.06.06:820][240]LogFileHelpers: Saving map 'Level_01' took 0.079
+[2023.05.02-13.06.06:820][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/BP_Buff_Health" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset" SILENT=true
+[2023.05.02-13.06.06:826][240]LogSavePackage: Moving output files for package: /Game/HealthDamage/BP_Buff_Health
+[2023.05.02-13.06.06:827][240]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Buff_Health666C285C44F8FB5FDE70BA8F4EEB81F5.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset'
+[2023.05.02-13.06.06:844][240]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-13.06.06:844][240]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/BP_Buff_Health.BP_Buff_Health
+[2023.05.02-13.06.06:844][240]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.02-13.06.08:808][335]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-13.06.08:817][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-13.06.08:817][335]PIE: New page: PIE session: Level_01 (2 May 2023, 15:06:08)
+[2023.05.02-13.06.08:817][335]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.06.08:834][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016561s)
+[2023.05.02-13.06.08:834][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.016645s)
+[2023.05.02-13.06.08:834][335]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.02-13.06.08:834][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.06.08:834][335]LogAIModule: Creating AISystem for world Level_01
+[2023.05.02-13.06.08:834][335]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2023.05.02-13.06.08:882][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.02-13.06.08:883][335]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.02-13.06.08:883][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-13.06.08:883][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-13.06.08:883][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-13.06.08:883][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-13.06.08:883][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.02-13.06.08:883][335]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-13.06.08:883][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.02-13.06.08:883][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-13.06.08:883][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-13.06.08:883][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-13.06.08:883][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-13.06.08:885][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-13.06.08:926][335]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.02-13.06.08:926][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-13.06.08:926][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-13.06.08:926][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-13.06.08:927][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.05.02-13.06.08:927][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.05.02-13.06.08:928][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.05.02-13.06.08:928][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.05.02-13.06.08:929][335]LogInit: FAudioDevice initialized.
+[2023.05.02-13.06.08:929][335]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_01'.
+[2023.05.02-13.06.08:944][335]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.02-13.06.08:947][335]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.02-14.06.08
+[2023.05.02-13.06.08:947][335]LogWorld: Bringing up level for play took: 0.003294
+[2023.05.02-13.06.08:949][335]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.05.02-13.06.08:950][335]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.06.08:951][335]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.06.08:952][335]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.06.08:953][335]PIE: Server logged in
+[2023.05.02-13.06.08:954][335]PIE: Play in editor total start time 0.137 seconds.
+[2023.05.02-13.06.09:702][388]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Added player 0
+[2023.05.02-13.06.09:762][393]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.02-13.06.09:762][393]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.02-13.06.09:762][393]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.02-13.06.09:762][393]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.02-13.06.09:763][393]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.02-13.06.18:689][978]LogSlate: Window 'BuffHealthSphere' being destroyed
+[2023.05.02-13.06.18:698][978]LogSlate: Window 'BuffHealthSphere' being destroyed
+[2023.05.02-13.06.18:747][978]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-13.06.18:747][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.06.22:328][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.06.22:328][276]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.06.22:328][276]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-13.06.22:328][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.06.22:345][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-13.06.22:353][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.06.22:401][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.06.22:401][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.02-13.06.22:403][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.02-13.06.22:414][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.05.02-13.06.22:469][277]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.05.02-13.06.59:433][431]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterMaterials/M_Wispy.M_Wispy
+[2023.05.02-13.06.59:446][431]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 659E0F41EED38963CED73D05013471005DC96DF8), compiling. 
+[2023.05.02-13.06.59:530][431]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.06.59:591][431]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 207D348A42D809462D28D19015BF56AD9FFA3851), compiling. 
+[2023.05.02-13.06.59:596][431]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: C7CD190530477FD57F35C1DEA08358295EB65D4C), compiling. 
+[2023.05.02-13.06.59:598][431]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 41E218CFB4C230D8794C53DD43E4E7E7F43ADF43), compiling. 
+[2023.05.02-13.06.59:600][431]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C5F5EECFC77821989D0C2E75E68B5D5F8815D8A8), compiling. 
+[2023.05.02-13.06.59:601][431]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B36BD5E05927DF81A6BFD59EA12FECA43D5D32D1), compiling. 
+[2023.05.02-13.06.59:627][431]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-13.06.59:627][431]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.06.59:627][431]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.06.59:628][431]MaterialEditorStats: Shader Count: 0
+[2023.05.02-13.06.59:632][431]LogViewport: Scene viewport resized to 636x905, mode Windowed.
+[2023.05.02-13.06.59:859][438]LogShaderCompilers: Display: ================================================
+[2023.05.02-13.06.59:859][438]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Total job queries 112, among them cache hits 15 (13.39%)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Tracking 46 distinct input hashes that result in 20 distinct outputs (43.48%)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.00%
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Shaders Compiled: 51
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Jobs assigned 50, completed 46 (92.00%)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Average time worker was idle: 53.94 s
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Time job spent in pending queue: average 1.50 s, longest 5.78 s
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 3.05 s
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Job life time (pending + execution): average 2.74 s, max 6.38
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.36 s
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Average processing rate: 3.20 jobs/sec
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Effective parallelization: 2.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 1.05 sec, max 1.27 sec, min 0.88 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 1.01 sec, max 1.25 sec, min 0.76 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.92 sec, max 1.22 sec, min 0.51 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.87 sec, max 0.92 sec, min 0.83 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.84 sec, max 0.87 sec, min 0.81 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.19% of total time (compiled    6 times, average 1.05 sec, max 1.27 sec, min 0.88 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.03% of total time (compiled    6 times, average 0.92 sec, max 1.22 sec, min 0.51 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.79% of total time (compiled    5 times, average 1.01 sec, max 1.25 sec, min 0.76 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.37% of total time (compiled    5 times, average 0.39 sec, max 0.46 sec, min 0.25 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.76% of total time (compiled    2 times, average 0.87 sec, max 0.92 sec, min 0.83 sec)
+[2023.05.02-13.06.59:860][438]LogShaderCompilers: Display: ================================================
+[2023.05.02-13.07.01:450][531]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.07.01:451][531]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.01:451][531]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.01:451][531]MaterialEditorStats: Shader Count: 3
+[2023.05.02-13.07.02:483][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.02-13.07.02:550][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/MI_Wispy_Green" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset" SILENT=true
+[2023.05.02-13.07.02:598][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.02-13.07.02:645][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.02-13.07.02:648][588]LogSavePackage: Moving output files for package: /Game/HealthDamage/MI_Wispy_Green
+[2023.05.02-13.07.02:648][588]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_Wispy_Green54E8192944571579C9CD029E208B7CEB.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset'
+[2023.05.02-13.07.02:665][588]AssetCheck: New page: Asset Save: MI_Wispy_Green
+[2023.05.02-13.07.02:665][588]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/HealthDamage/MI_Wispy_Green.MI_Wispy_Green
+[2023.05.02-13.07.03:711][687]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 3C378B15D941B62AB95FF0350E032FAB9D1E6B1B), compiling. 
+[2023.05.02-13.07.03:714][687]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-13.07.03:714][687]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.03:714][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.03:714][687]MaterialEditorStats: Shader Count: 0
+[2023.05.02-13.07.03:779][689]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.07.03:779][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.03:779][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.03:779][689]MaterialEditorStats: Shader Count: 4
+[2023.05.02-13.07.10:823][427]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 53E0BEFDF75B5C7509EB565A6079C8388C3AAD84), compiling. 
+[2023.05.02-13.07.10:832][427]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-13.07.10:832][427]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.10:832][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.10:832][427]MaterialEditorStats: Shader Count: 0
+[2023.05.02-13.07.10:894][429]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.07.10:894][429]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.10:894][429]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.10:894][429]MaterialEditorStats: Shader Count: 4
+[2023.05.02-13.07.24:593][910]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 3B3A616C3ED2F8F1987C97129673EC265A77F8BC), compiling. 
+[2023.05.02-13.07.24:598][910]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-13.07.24:598][910]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.24:598][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.24:598][910]MaterialEditorStats: Shader Count: 0
+[2023.05.02-13.07.24:663][912]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.07.24:663][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.24:663][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.24:663][912]MaterialEditorStats: Shader Count: 4
+[2023.05.02-13.07.47:221][496]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 62F1DE92D8B9D589DA09EF58728D0F1C6657E64B), compiling. 
+[2023.05.02-13.07.47:226][496]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-13.07.47:226][496]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.47:226][496]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.47:226][496]MaterialEditorStats: Shader Count: 0
+[2023.05.02-13.07.48:354][559]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 4CA233DE9C63E579223A3A3BCFAEEEB2AED353A5), compiling. 
+[2023.05.02-13.07.48:355][559]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Wispy (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.02-13.07.48:360][559]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: B8D8EFD0425C3033E9E3B7BB3042DEC6FC0E673A), compiling. 
+[2023.05.02-13.07.48:361][559]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Wispy (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.02-13.07.48:368][559]MaterialEditorStats: Error: [SM5] (Node StaticSwitchParameter) Missing A input
+[2023.05.02-13.07.48:368][559]MaterialEditorStats: Error: [SM5] (Node StaticSwitchParameter) Missing B input
+[2023.05.02-13.07.49:633][667]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 5A6AA18845A53AE5B579282EA7293114DE2E2A53), compiling. 
+[2023.05.02-13.07.49:634][667]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Wispy (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.02-13.07.49:638][667]MaterialEditorStats: Error: [SM5] (Node StaticSwitchParameter) Missing B input
+[2023.05.02-13.07.51:877][896]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 230B2EC9B26A01BB400A86BD1B4B1C85FBE23389), compiling. 
+[2023.05.02-13.07.51:883][896]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-13.07.51:883][896]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.51:883][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.51:883][896]MaterialEditorStats: Shader Count: 0
+[2023.05.02-13.07.51:931][898]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.07.51:931][898]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.07.51:931][898]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.07.51:931][898]MaterialEditorStats: Shader Count: 4
+[2023.05.02-13.07.53:615][ 72]LogMaterialEditor: Saving and Compiling material M_Wispy
+[2023.05.02-13.07.54:054][ 72]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 925C010E0930908566EA7249E834B18A67F10E9D), compiling. 
+[2023.05.02-13.07.54:067][ 72]LogMaterial: Display: Missing cached shadermap for M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 7291F8B59A192C87FAA9662C30ABD4CA466D9892), compiling. 
+[2023.05.02-13.07.54:209][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.02-13.07.55:219][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.05.02-13.07.57:493][ 72]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.02-13.08.00:311][ 72]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000018s (2.971991s overbudget)
+[2023.05.02-13.08.00:340][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterMaterials/M_Wispy" FILE="../../../../../../GitHub/Survival_Game/Content/MasterMaterials/M_Wispy.uasset" SILENT=true
+[2023.05.02-13.08.00:344][ 72]LogSavePackage: Moving output files for package: /Game/MasterMaterials/M_Wispy
+[2023.05.02-13.08.00:344][ 72]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/M_Wispy77DCC9F847792161EF98249D86DA5CF2.tmp' to '../../../../../../GitHub/Survival_Game/Content/MasterMaterials/M_Wispy.uasset'
+[2023.05.02-13.08.00:359][ 72]AssetCheck: New page: Asset Save: M_Wispy
+[2023.05.02-13.08.00:359][ 72]LogContentValidation: Display: Validating Material /Game/MasterMaterials/M_Wispy.M_Wispy
+[2023.05.02-13.08.00:360][ 72]MaterialEditorStats: Base pass shader: 124 instructions
+[2023.05.02-13.08.00:360][ 72]MaterialEditorStats: Base pass vertex shader: 229 instructions
+[2023.05.02-13.08.00:360][ 72]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.08.00:360][ 72]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.08.00:360][ 72]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.08.00:360][ 72]MaterialEditorStats: Shader Count: 28
+[2023.05.02-13.08.02:271][283]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 102C0D4598A9A6B14DACA6DE48989FA13FC1C94E), compiling. 
+[2023.05.02-13.08.02:277][283]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 1CD763310702795D82ADEC7A938775E12295DA48), compiling. 
+[2023.05.02-13.08.02:281][283]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.02-13.08.02:281][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.08.02:281][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.08.02:281][283]MaterialEditorStats: Shader Count: 0
+[2023.05.02-13.08.02:313][285]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.08.02:313][285]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.08.02:313][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.08.02:313][285]MaterialEditorStats: Shader Count: 4
+[2023.05.02-13.08.03:540][418]LogMaterialEditor: Applying material M_Wispy
+[2023.05.02-13.08.03:978][418]LogMaterial: Display: Missing cached shadermap for Preview:M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: 72BB2C473C07112C696254B109AF1D941536AD35), compiling. 
+[2023.05.02-13.08.03:990][418]LogMaterial: Display: Missing cached shadermap for M_Wispy in PCD3D_SM5, Default, SM5 (DDC key hash: E2639FC03E096F37613DC4CD1C2C612717947667), compiling. 
+[2023.05.02-13.08.04:137][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.02-13.08.05:146][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.02-13.08.05:156][418]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.02-13.08.05:156][418]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.08.05:156][418]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.08.05:156][418]MaterialEditorStats: Shader Count: 4
+[2023.05.02-13.08.05:175][420]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.08.05:175][420]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.08.05:175][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.08.05:175][420]MaterialEditorStats: Shader Count: 6
+[2023.05.02-13.08.06:466][560]LogMaterialEditor: Saving and Compiling material M_Wispy
+[2023.05.02-13.08.08:734][560]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.02-13.08.11:668][560]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000511s (3.083540s overbudget)
+[2023.05.02-13.08.11:692][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterMaterials/M_Wispy" FILE="../../../../../../GitHub/Survival_Game/Content/MasterMaterials/M_Wispy.uasset" SILENT=true
+[2023.05.02-13.08.11:695][560]LogSavePackage: Moving output files for package: /Game/MasterMaterials/M_Wispy
+[2023.05.02-13.08.11:695][560]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/M_WispyBC6EF1AC4E535D903DDE5B99B7ECED90.tmp' to '../../../../../../GitHub/Survival_Game/Content/MasterMaterials/M_Wispy.uasset'
+[2023.05.02-13.08.11:710][560]AssetCheck: New page: Asset Save: M_Wispy
+[2023.05.02-13.08.11:710][560]LogContentValidation: Display: Validating Material /Game/MasterMaterials/M_Wispy.M_Wispy
+[2023.05.02-13.08.11:711][560]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.05.02-13.08.11:711][560]MaterialEditorStats: Base pass vertex shader: 229 instructions
+[2023.05.02-13.08.11:711][560]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.02-13.08.11:711][560]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.02-13.08.11:711][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.02-13.08.11:711][560]MaterialEditorStats: Shader Count: 28
+[2023.05.02-13.08.14:270][841]LogMaterial: Display: Missing cached shadermap for MI_Wispy_Green in PCD3D_SM5, Default, SM5 (DDC key hash: F4F9BF6F63B91FFB40393A3CD564090905F200F7), compiling. 
+[2023.05.02-13.08.15:204][942]LogMaterial: Display: Missing cached shadermap for MI_Wispy_Green in PCD3D_SM5, Default, SM5 (DDC key hash: 84F0706F2ADB3316BE07C007EB777E0369C8720A), compiling. 
+[2023.05.02-13.09.19:973][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.02-13.09.20:029][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/MI_Wispy_Green" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset" SILENT=true
+[2023.05.02-13.09.20:074][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.02-13.09.20:225][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.02-13.09.20:229][677]LogSavePackage: Moving output files for package: /Game/HealthDamage/MI_Wispy_Green
+[2023.05.02-13.09.20:229][677]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_Wispy_Green84019FA94158CD8FDCB04686EEE40773.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset'
+[2023.05.02-13.09.20:243][677]AssetCheck: New page: Asset Save: MI_Wispy_Green
+[2023.05.02-13.09.20:243][677]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/HealthDamage/MI_Wispy_Green.MI_Wispy_Green
+[2023.05.02-13.09.23:173][923]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-13.09.23:181][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-13.09.23:181][923]PIE: New page: PIE session: Level_01 (2 May 2023, 15:09:23)
+[2023.05.02-13.09.23:181][923]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.09.23:196][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014915s)
+[2023.05.02-13.09.23:196][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.014991s)
+[2023.05.02-13.09.23:196][923]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.02-13.09.23:196][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.09.23:197][923]LogAIModule: Creating AISystem for world Level_01
+[2023.05.02-13.09.23:197][923]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2023.05.02-13.09.23:243][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.02-13.09.23:244][923]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.02-13.09.23:244][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-13.09.23:244][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-13.09.23:244][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-13.09.23:244][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-13.09.23:244][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.02-13.09.23:244][923]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-13.09.23:244][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.02-13.09.23:244][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-13.09.23:244][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-13.09.23:244][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-13.09.23:244][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-13.09.23:246][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-13.09.23:286][923]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.02-13.09.23:287][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-13.09.23:287][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-13.09.23:287][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-13.09.23:288][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.05.02-13.09.23:288][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.05.02-13.09.23:289][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.05.02-13.09.23:289][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.05.02-13.09.23:289][923]LogInit: FAudioDevice initialized.
+[2023.05.02-13.09.23:289][923]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_01'.
+[2023.05.02-13.09.23:302][923]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.02-13.09.23:305][923]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.02-14.09.23
+[2023.05.02-13.09.23:305][923]LogWorld: Bringing up level for play took: 0.002754
+[2023.05.02-13.09.23:306][923]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.05.02-13.09.23:308][923]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.09.23:309][923]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.09.23:310][923]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.09.23:310][923]PIE: Server logged in
+[2023.05.02-13.09.23:311][923]PIE: Play in editor total start time 0.131 seconds.
+[2023.05.02-13.09.24:157][993]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 0
+[2023.05.02-13.09.24:253][  2]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.02-13.09.24:253][  2]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.02-13.09.24:253][  2]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.02-13.09.24:253][  2]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.02-13.09.24:254][  2]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.02-13.09.30:159][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.09.30:159][507]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.09.30:159][507]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-13.09.30:160][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.09.30:170][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-13.09.30:176][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.09.30:221][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.09.30:222][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.02-13.09.30:223][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.02-13.09.30:229][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.02-13.09.30:265][508]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.05.02-13.09.38:900][400]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.02-13.09.39:825][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.02-13.09.39:879][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/MI_Wispy_Green" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset" SILENT=true
+[2023.05.02-13.09.39:925][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.05.02-13.09.39:973][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.05.02-13.09.39:976][503]LogSavePackage: Moving output files for package: /Game/HealthDamage/MI_Wispy_Green
+[2023.05.02-13.09.39:976][503]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/MI_Wispy_Green061CFF25489C0AF94A6EB4B9C6AC1352.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/MI_Wispy_Green.uasset'
+[2023.05.02-13.09.39:992][503]AssetCheck: New page: Asset Save: MI_Wispy_Green
+[2023.05.02-13.09.39:992][503]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/HealthDamage/MI_Wispy_Green.MI_Wispy_Green
+[2023.05.02-13.09.41:891][670]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.02-13.09.41:899][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.02-13.09.41:899][670]PIE: New page: PIE session: Level_01 (2 May 2023, 15:09:41)
+[2023.05.02-13.09.41:899][670]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.09.41:914][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014282s)
+[2023.05.02-13.09.41:914][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.014368s)
+[2023.05.02-13.09.41:914][670]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.02-13.09.41:914][670]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.02-13.09.41:914][670]LogAIModule: Creating AISystem for world Level_01
+[2023.05.02-13.09.41:915][670]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2023.05.02-13.09.41:963][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.02-13.09.41:964][670]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.02-13.09.41:964][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.02-13.09.41:964][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.02-13.09.41:964][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.02-13.09.41:964][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.02-13.09.41:964][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.02-13.09.41:964][670]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.02-13.09.41:964][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.02-13.09.41:964][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.02-13.09.41:965][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.02-13.09.41:965][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.02-13.09.41:965][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.02-13.09.41:967][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.02-13.09.42:007][670]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.02-13.09.42:007][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.02-13.09.42:007][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.02-13.09.42:007][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.02-13.09.42:008][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.05.02-13.09.42:008][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.05.02-13.09.42:009][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.05.02-13.09.42:009][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.05.02-13.09.42:009][670]LogInit: FAudioDevice initialized.
+[2023.05.02-13.09.42:009][670]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_01'.
+[2023.05.02-13.09.42:025][670]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.02-13.09.42:028][670]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.02-14.09.42
+[2023.05.02-13.09.42:028][670]LogWorld: Bringing up level for play took: 0.002789
+[2023.05.02-13.09.42:030][670]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.05.02-13.09.42:032][670]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.09.42:033][670]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.09.42:034][670]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.02-13.09.42:034][670]PIE: Server logged in
+[2023.05.02-13.09.42:036][670]PIE: Play in editor total start time 0.136 seconds.
+[2023.05.02-13.09.42:336][686]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 0
+[2023.05.02-13.09.42:491][699]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.02-13.09.42:491][699]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.02-13.09.42:491][699]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.02-13.09.42:491][699]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.02-13.09.42:491][699]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.02-13.09.48:219][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.09.48:219][175]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.02-13.09.48:219][175]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.02-13.09.48:220][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.09.48:232][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.02-13.09.48:238][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.02-13.09.48:284][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.02-13.09.48:284][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.02-13.09.48:286][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.02-13.09.48:292][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.02-13.09.48:326][176]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.05.02-13.09.50:838][390]LogViewport: Scene viewport resized to 2169x1330, mode Windowed.
+[2023.05.02-13.09.59:371][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.05.02-13.09.59:425][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.02-13.09.59:473][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.02-13.09.59:494][348]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.02-13.09.59:494][348]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_019CC5C1654BF29782B564A0B5D94C7C69.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.02-13.09.59:507][348]LogFileHelpers: Saving map 'Level_01' took 0.083
+[2023.05.02-13.09.59:520][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/BP_Buff_Health" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset" SILENT=true
+[2023.05.02-13.09.59:525][348]LogSavePackage: Moving output files for package: /Game/HealthDamage/BP_Buff_Health
+[2023.05.02-13.09.59:526][348]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Buff_Health28E1467945307E603CFD1884738917C3.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset'
+[2023.05.02-13.09.59:543][348]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.02-13.09.59:543][348]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/BP_Buff_Health.BP_Buff_Health
+[2023.05.02-13.09.59:543][348]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.02-13.10.00:301][425]BlueprintLog: New page: Compile BP_Buff_Health
+[2023.05.02-13.10.00:376][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.02-13.10.00:864][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthDamage/BP_Buff_Health" FILE="../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset" SILENT=true
+[2023.05.02-13.10.00:870][466]LogSavePackage: Moving output files for package: /Game/HealthDamage/BP_Buff_Health
+[2023.05.02-13.10.00:870][466]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Buff_Health0373B83E475BD40BBB02D7BDF780D13B.tmp' to '../../../../../../GitHub/Survival_Game/Content/HealthDamage/BP_Buff_Health.uasset'
+[2023.05.02-13.10.00:885][466]AssetCheck: New page: Asset Save: BP_Buff_Health
+[2023.05.02-13.10.00:885][466]LogContentValidation: Display: Validating Blueprint /Game/HealthDamage/BP_Buff_Health.BP_Buff_Health
+[2023.05.02-13.10.01:185][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.02-13.10.01:242][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_01/Level_01" FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.02-13.10.01:289][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.02-13.10.01:309][493]LogSavePackage: Moving output files for package: /Game/Maps/Level_01/Level_01
+[2023.05.02-13.10.01:310][493]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/Level_011589722C4F19813C29EBC2B6B28E9201.tmp' to '../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap'
+[2023.05.02-13.10.01:323][493]LogFileHelpers: Saving map 'Level_01' took 0.081
+[2023.05.02-13.10.01:339][493]AssetCheck: New page: Asset Save: Level_01
+[2023.05.02-13.10.01:339][493]LogContentValidation: Display: Validating World /Game/Maps/Level_01/Level_01.Level_01
