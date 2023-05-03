@@ -1,15 +1,7 @@
-# Survival_Game
+# ~~Survival_Game~~ Samurai Game
 
-Day night cycle
+It's a samurai game now 👹
 
-Explore, forage and get items
+Think *Samurai Warrior (2023)* meets *Teenage Mutant Ninja Turtles (2004)* and then think again
 
-Add the items to your shop, use them to survive, hoard them or discard them
-
-Other villagers buy stuff from your shop
-
-Use the money to expand your shop
-
-???
-
-Profit
+Play alone or play with a friend sitting next to you to adventure through all the levels and beat the enemies that I put in the game
