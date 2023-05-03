@@ -2385,3 +2385,1052 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.03-10.37.56:739][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2023.05.03-10.37.56:790][150]LogPlayLevel: Display: Destroying online subsystem :Context_12
 [2023.05.03-10.37.57:968][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.05.03-10.45.42:693][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-10.45.42:701][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-10.45.42:701][491]PIE: New page: PIE session: Level_01 (3 May 2023, 12:45:42)
+[2023.05.03-10.45.42:723][491]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.45.42:742][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019721s)
+[2023.05.03-10.45.42:742][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.019834s)
+[2023.05.03-10.45.42:743][491]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.45.42:743][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.45.42:743][491]LogAIModule: Creating AISystem for world Level_01
+[2023.05.03-10.45.42:743][491]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2023.05.03-10.45.42:785][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.03-10.45.42:788][491]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.03-10.45.42:788][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-10.45.42:788][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-10.45.42:788][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-10.45.42:788][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-10.45.42:788][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-10.45.42:788][491]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-10.45.42:788][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-10.45.42:788][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-10.45.42:789][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-10.45.42:789][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-10.45.42:789][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-10.45.42:791][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-10.45.42:831][491]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.03-10.45.42:832][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-10.45.42:832][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-10.45.42:832][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-10.45.42:833][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.03-10.45.42:833][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.03-10.45.42:835][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.03-10.45.42:835][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.03-10.45.42:835][491]LogInit: FAudioDevice initialized.
+[2023.05.03-10.45.42:835][491]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_01'.
+[2023.05.03-10.45.42:846][491]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.45.42:850][491]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.03-11.45.42
+[2023.05.03-10.45.42:850][491]LogWorld: Bringing up level for play took: 0.004184
+[2023.05.03-10.45.42:852][491]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.05.03-10.45.42:853][491]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.45.42:855][491]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.45.42:856][491]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.45.42:856][491]PIE: Server logged in
+[2023.05.03-10.45.42:857][491]PIE: Play in editor total start time 0.156 seconds.
+[2023.05.03-10.45.45:618][712]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Added player 0
+[2023.05.03-10.45.47:661][874]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.03-10.45.47:661][874]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.03-10.45.47:661][874]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Player 0
+[2023.05.03-10.45.47:661][874]LogBlueprintUserMessages: [BP_Core_GameInstance_C_7] Current players: 
+[2023.05.03-10.45.47:661][874]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.03-10.45.51:133][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.45.51:134][187]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.45.51:134][187]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.45.51:134][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.45.51:148][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-10.45.51:152][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.45.51:190][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.45.51:191][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.03-10.45.51:193][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.03-10.45.51:199][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.03-10.45.51:279][188]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.05.03-10.46.07:726][954]BlueprintLog: New page: Compile BP_Camera
+[2023.05.03-10.46.07:794][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.03-10.46.08:139][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera/BP_Camera" FILE="../../../../../../GitHub/Survival_Game/Content/Camera/BP_Camera.uasset" SILENT=true
+[2023.05.03-10.46.08:153][974]LogSavePackage: Moving output files for package: /Game/Camera/BP_Camera
+[2023.05.03-10.46.08:154][974]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Camera52169F0447B26932D71DB182875CAA0E.tmp' to '../../../../../../GitHub/Survival_Game/Content/Camera/BP_Camera.uasset'
+[2023.05.03-10.46.08:167][974]AssetCheck: New page: Asset Save: BP_Camera
+[2023.05.03-10.46.08:167][974]LogContentValidation: Display: Validating Blueprint /Game/Camera/BP_Camera.BP_Camera
+[2023.05.03-10.46.09:629][ 82]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-10.46.09:637][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-10.46.09:637][ 82]PIE: New page: PIE session: Level_01 (3 May 2023, 12:46:09)
+[2023.05.03-10.46.09:663][ 82]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.46.09:683][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019889s)
+[2023.05.03-10.46.09:683][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.019988s)
+[2023.05.03-10.46.09:683][ 82]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.46.09:683][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.46.09:683][ 82]LogAIModule: Creating AISystem for world Level_01
+[2023.05.03-10.46.09:683][ 82]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2023.05.03-10.46.09:722][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.03-10.46.09:725][ 82]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.03-10.46.09:725][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-10.46.09:725][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-10.46.09:725][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-10.46.09:725][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-10.46.09:725][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-10.46.09:725][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-10.46.09:725][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-10.46.09:725][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-10.46.09:725][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-10.46.09:726][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-10.46.09:726][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-10.46.09:727][ 82]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-10.46.09:767][ 82]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.03-10.46.09:768][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-10.46.09:768][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-10.46.09:768][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-10.46.09:768][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.03-10.46.09:768][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.03-10.46.09:770][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.03-10.46.09:770][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.03-10.46.09:770][ 82]LogInit: FAudioDevice initialized.
+[2023.05.03-10.46.09:770][ 82]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_01'.
+[2023.05.03-10.46.09:784][ 82]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.46.09:787][ 82]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.03-11.46.09
+[2023.05.03-10.46.09:788][ 82]LogWorld: Bringing up level for play took: 0.003886
+[2023.05.03-10.46.09:789][ 82]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.05.03-10.46.09:791][ 82]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.46.09:792][ 82]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.46.09:793][ 82]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.46.09:794][ 82]PIE: Server logged in
+[2023.05.03-10.46.09:795][ 82]PIE: Play in editor total start time 0.158 seconds.
+[2023.05.03-10.46.10:589][147]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Added player 0
+[2023.05.03-10.46.11:389][218]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.11:389][218]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.11:389][218]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.11:389][218]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.11:390][218]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.03-10.46.15:726][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.15:726][581]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.16:237][622]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.46.16:237][622]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.46.16:237][622]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.46.16:238][622]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.46.16:239][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.46.16:310][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.46.16:314][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.03-10.46.16:337][622]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_02'.
+[2023.05.03-10.46.16:337][622]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.46.16:337][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.46.16:337][622]LogAIModule: Creating AISystem for world Level_02
+[2023.05.03-10.46.16:337][622]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2023.05.03-10.46.16:337][622]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.46.16:374][622]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.03-11.46.16
+[2023.05.03-10.46.16:374][622]LogWorld: Bringing up level for play took: 0.036325
+[2023.05.03-10.46.16:376][622]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.46.16:376][622]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.16:376][622]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.16:378][622]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Added player 0
+[2023.05.03-10.46.16:378][622]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.16:378][622]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.16:378][622]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.16:378][622]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.16:378][622]LogBlueprintUserMessages: [W_InGameHUD_C_1] added in game hud
+[2023.05.03-10.46.16:379][622]LogLoad: Took 0.141613 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.03-10.46.17:163][680]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.03-10.46.17:481][705]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.17:481][705]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.17:989][748]LogNet: Browse: /Game/Maps/Level_02/Level_02_House
+[2023.05.03-10.46.17:989][748]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02_House
+[2023.05.03-10.46.17:989][748]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.03-10.46.17:989][748]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.03-10.46.17:990][748]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.46.17:990][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.46.18:061][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.46.18:063][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.05.03-10.46.18:079][748]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_02_House'.
+[2023.05.03-10.46.18:079][748]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.46.18:079][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.46.18:079][748]LogAIModule: Creating AISystem for world Level_02_House
+[2023.05.03-10.46.18:080][748]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2023.05.03-10.46.18:080][748]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.46.18:101][748]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02_House.Level_02_House up for play (max tick rate 0) at 2023.05.03-11.46.18
+[2023.05.03-10.46.18:102][748]LogWorld: Bringing up level for play took: 0.021947
+[2023.05.03-10.46.18:104][748]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.46.18:104][748]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.18:104][748]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.18:105][748]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Added player 0
+[2023.05.03-10.46.18:105][748]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.18:105][748]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.18:105][748]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.18:105][748]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.18:106][748]LogBlueprintUserMessages: [W_InGameHUD_C_2] added in game hud
+[2023.05.03-10.46.18:106][748]LogLoad: Took 0.117846 seconds to LoadMap(/Game/Maps/Level_02/Level_02_House)
+[2023.05.03-10.46.19:375][863]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.03-10.46.21:433][ 44]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.21:433][ 44]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.21:434][ 44]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Found custom spawn tag: Cust_House
+[2023.05.03-10.46.21:933][ 90]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.46.21:933][ 90]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.46.21:933][ 90]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02_House
+[2023.05.03-10.46.21:934][ 90]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.46.21:934][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.46.22:010][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.46.22:012][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.03-10.46.22:034][ 90]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_02'.
+[2023.05.03-10.46.22:034][ 90]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.46.22:034][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.46.22:034][ 90]LogAIModule: Creating AISystem for world Level_02
+[2023.05.03-10.46.22:035][ 90]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2023.05.03-10.46.22:035][ 90]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.46.22:071][ 90]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.03-11.46.22
+[2023.05.03-10.46.22:071][ 90]LogWorld: Bringing up level for play took: 0.036288
+[2023.05.03-10.46.22:073][ 90]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.46.22:073][ 90]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.22:073][ 90]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.22:075][ 90]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Added player 0
+[2023.05.03-10.46.22:075][ 90]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.22:075][ 90]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.22:075][ 90]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.22:075][ 90]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.22:075][ 90]LogBlueprintUserMessages: [W_InGameHUD_C_3] added in game hud
+[2023.05.03-10.46.22:076][ 90]LogLoad: Took 0.143119 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.03-10.46.24:218][254]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.24:218][254]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.24:718][295]LogNet: Browse: /Game/Maps/Level_03/Level_03
+[2023.05.03-10.46.24:718][295]LogLoad: LoadMap: /Game/Maps/Level_03/Level_03
+[2023.05.03-10.46.24:718][295]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.03-10.46.24:719][295]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.46.24:719][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.46.24:780][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.46.24:783][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.03-10.46.24:805][295]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_03'.
+[2023.05.03-10.46.24:805][295]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.46.24:805][295]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.46.24:806][295]LogAIModule: Creating AISystem for world Level_03
+[2023.05.03-10.46.24:806][295]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2023.05.03-10.46.24:806][295]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.46.24:844][295]LogWorld: Bringing World /Game/Maps/Level_03/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2023.05.03-11.46.24
+[2023.05.03-10.46.24:844][295]LogWorld: Bringing up level for play took: 0.037640
+[2023.05.03-10.46.24:846][295]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.46.24:846][295]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.24:846][295]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.24:848][295]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Added player 0
+[2023.05.03-10.46.24:848][295]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.24:848][295]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.24:848][295]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.24:848][295]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.24:848][295]LogBlueprintUserMessages: [W_InGameHUD_C_4] added in game hud
+[2023.05.03-10.46.24:849][295]LogLoad: Took 0.131003 seconds to LoadMap(/Game/Maps/Level_03/Level_03)
+[2023.05.03-10.46.36:483][254]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.03-10.46.37:769][362]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.37:769][362]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.38:275][405]LogNet: Browse: /Game/Maps/Level_End/Level_End
+[2023.05.03-10.46.38:275][405]LogLoad: LoadMap: /Game/Maps/Level_End/Level_End
+[2023.05.03-10.46.38:275][405]LogWorld: BeginTearingDown for /Game/Maps/Level_03/UEDPIE_0_Level_03
+[2023.05.03-10.46.38:276][405]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.46.38:276][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.46.38:350][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.46.38:353][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.03-10.46.38:363][405]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_End'.
+[2023.05.03-10.46.38:363][405]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.46.38:363][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.46.38:363][405]LogAIModule: Creating AISystem for world Level_End
+[2023.05.03-10.46.38:364][405]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2023.05.03-10.46.38:364][405]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.46.38:364][405]LogWorld: Bringing World /Game/Maps/Level_End/UEDPIE_0_Level_End.Level_End up for play (max tick rate 0) at 2023.05.03-11.46.38
+[2023.05.03-10.46.38:364][405]LogWorld: Bringing up level for play took: 0.000798
+[2023.05.03-10.46.38:366][405]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.46.38:366][405]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.38:366][405]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.38:368][405]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Added player 0
+[2023.05.03-10.46.38:368][405]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.38:368][405]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.38:368][405]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Player 0
+[2023.05.03-10.46.38:368][405]LogBlueprintUserMessages: [BP_Core_GameInstance_C_8] Current players: 
+[2023.05.03-10.46.38:368][405]LogBlueprintUserMessages: [W_InGameHUD_C_5] added in game hud
+[2023.05.03-10.46.38:373][405]LogLoad: Took 0.097587 seconds to LoadMap(/Game/Maps/Level_End/Level_End)
+[2023.05.03-10.46.40:351][641]LogBlueprintUserMessages: [WBP_End_C_0] quitting game
+[2023.05.03-10.46.40:351][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.46.40:352][641]LogWorld: BeginTearingDown for /Game/Maps/Level_End/UEDPIE_0_Level_End
+[2023.05.03-10.46.40:383][641]LogWorld: UWorld::CleanupWorld for Level_End, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.46.40:383][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.46.40:392][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-10.46.40:396][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.46.40:432][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.46.40:432][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.03-10.46.40:433][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.03-10.46.40:436][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.46.40:439][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.05.03-10.46.40:506][642]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.05.03-10.46.41:409][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.03-10.46.47:665][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.03-10.46.47:726][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.05.03-10.46.47:766][395]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.05.03-10.46.47:766][395]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameMode296F34794D004FB9017A10A3CDD4EB46.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.05.03-10.46.47:780][395]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.05.03-10.46.47:780][395]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.05.03-10.46.57:538][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.05.03-10.46.57:572][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.05.03-10.46.57:611][542]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.05.03-10.46.57:612][542]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameMode82A8E64041247439B74256B9C3CB7C28.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.05.03-10.46.57:624][542]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.05.03-10.46.57:624][542]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.05.03-10.47.04:212][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.03-10.47.04:256][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.05.03-10.47.04:296][321]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.05.03-10.47.04:296][321]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameMode4263197A4157ABC481D4608279F0229E.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.05.03-10.47.04:308][321]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.05.03-10.47.04:308][321]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.05.03-10.47.39:653][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.05.03-10.47.39:707][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.05.03-10.47.39:746][540]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.05.03-10.47.39:746][540]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameMode9AE0BD8F446715BFFF949692C78527D6.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.05.03-10.47.39:758][540]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.05.03-10.47.39:758][540]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.05.03-10.47.46:449][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.03-10.47.46:490][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.05.03-10.47.46:528][336]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.05.03-10.47.46:528][336]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameMode8E98CB0C458C0BCA3DB85DA859A626AB.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.05.03-10.47.46:539][336]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.05.03-10.47.46:539][336]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.05.03-10.47.57:002][580]BlueprintLog: New page: Compile BP_Core_GameMode
+[2023.05.03-10.47.57:081][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.03-10.47.57:458][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameMode" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset" SILENT=true
+[2023.05.03-10.47.57:498][613]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameMode
+[2023.05.03-10.47.57:498][613]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameModeBE5C16F3482418BAE5D352A8C73A62E1.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameMode.uasset'
+[2023.05.03-10.47.57:514][613]AssetCheck: New page: Asset Save: BP_Core_GameMode
+[2023.05.03-10.47.57:514][613]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameMode.BP_Core_GameMode
+[2023.05.03-10.48.27:972][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.03-10.48.48:555][944]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-10.48.48:563][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-10.48.48:563][944]PIE: New page: PIE session: Level_01 (3 May 2023, 12:48:48)
+[2023.05.03-10.48.48:563][944]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.48.48:583][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020267s)
+[2023.05.03-10.48.48:583][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.020344s)
+[2023.05.03-10.48.48:583][944]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.48.48:584][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.48.48:584][944]LogAIModule: Creating AISystem for world Level_01
+[2023.05.03-10.48.48:584][944]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2023.05.03-10.48.48:621][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.05.03-10.48.48:622][944]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.03-10.48.48:622][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-10.48.48:622][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-10.48.48:622][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-10.48.48:622][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-10.48.48:622][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-10.48.48:622][944]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-10.48.48:622][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-10.48.48:622][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-10.48.48:623][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-10.48.48:623][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-10.48.48:623][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-10.48.48:625][944]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-10.48.48:665][944]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.03-10.48.48:665][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-10.48.48:665][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-10.48.48:665][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-10.48.48:666][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.05.03-10.48.48:666][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.05.03-10.48.48:667][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.05.03-10.48.48:667][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.05.03-10.48.48:667][944]LogInit: FAudioDevice initialized.
+[2023.05.03-10.48.48:667][944]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_01'.
+[2023.05.03-10.48.48:678][944]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.48.48:682][944]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.03-11.48.48
+[2023.05.03-10.48.48:682][944]LogWorld: Bringing up level for play took: 0.003892
+[2023.05.03-10.48.48:684][944]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.05.03-10.48.48:685][944]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.48.48:687][944]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.48.48:688][944]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.48.48:688][944]PIE: Server logged in
+[2023.05.03-10.48.48:689][944]PIE: Play in editor total start time 0.126 seconds.
+[2023.05.03-10.48.49:557][ 16]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Added player 0
+[2023.05.03-10.48.49:719][ 30]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.48.49:719][ 30]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.48.49:719][ 30]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.48.49:719][ 30]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.48.49:719][ 30]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.03-10.48.51:734][212]LogBlueprintUserMessages: [House_C_0] Hello, come in!
+[2023.05.03-10.48.53:646][381]LogBlueprintUserMessages: [House_C_0] Bye!
+[2023.05.03-10.48.56:171][595]LogBlueprintUserMessages: [House_02_C_1] Hello, come in!
+[2023.05.03-10.48.58:793][799]LogBlueprintUserMessages: [House_02_C_1] Bye!
+[2023.05.03-10.49.01:645][ 25]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.03-10.49.04:223][227]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.03-10.49.07:668][502]LogBlueprintUserMessages: [House_02_C_0] Hello, come in!
+[2023.05.03-10.49.09:666][660]LogBlueprintUserMessages: [House_02_C_0] Bye!
+[2023.05.03-10.49.11:365][794]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.11:365][794]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.11:873][836]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.49.11:873][836]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.49.11:873][836]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.49.11:874][836]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.49.11:874][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.49.11:943][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.49.11:946][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.03-10.49.11:968][836]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_02'.
+[2023.05.03-10.49.11:968][836]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.49.11:968][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.49.11:968][836]LogAIModule: Creating AISystem for world Level_02
+[2023.05.03-10.49.11:969][836]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2023.05.03-10.49.11:969][836]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.49.12:005][836]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.03-11.49.12
+[2023.05.03-10.49.12:005][836]LogWorld: Bringing up level for play took: 0.036353
+[2023.05.03-10.49.12:007][836]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.49.12:007][836]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.12:007][836]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.12:009][836]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Added player 0
+[2023.05.03-10.49.12:009][836]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.12:009][836]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.12:009][836]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.12:009][836]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.12:009][836]LogBlueprintUserMessages: [W_InGameHUD_C_1] added in game hud
+[2023.05.03-10.49.12:010][836]LogLoad: Took 0.137188 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.03-10.49.14:005][981]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.03-10.49.14:987][ 61]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.14:987][ 61]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.15:491][103]LogNet: Browse: /Game/Maps/Level_02/Level_02_House
+[2023.05.03-10.49.15:491][103]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02_House
+[2023.05.03-10.49.15:491][103]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.03-10.49.15:491][103]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.03-10.49.15:492][103]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.49.15:492][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.49.15:562][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.49.15:564][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.03-10.49.15:580][103]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_02_House'.
+[2023.05.03-10.49.15:580][103]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.49.15:580][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.49.15:580][103]LogAIModule: Creating AISystem for world Level_02_House
+[2023.05.03-10.49.15:581][103]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2023.05.03-10.49.15:581][103]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.49.15:603][103]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02_House.Level_02_House up for play (max tick rate 0) at 2023.05.03-11.49.15
+[2023.05.03-10.49.15:603][103]LogWorld: Bringing up level for play took: 0.022099
+[2023.05.03-10.49.15:605][103]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.49.15:605][103]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.15:605][103]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.15:607][103]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Added player 0
+[2023.05.03-10.49.15:607][103]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.15:607][103]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.15:607][103]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.15:607][103]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.15:607][103]LogBlueprintUserMessages: [W_InGameHUD_C_2] added in game hud
+[2023.05.03-10.49.15:608][103]LogLoad: Took 0.116963 seconds to LoadMap(/Game/Maps/Level_02/Level_02_House)
+[2023.05.03-10.49.17:585][281]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.17:585][281]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.17:585][281]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Found custom spawn tag: Cust_House
+[2023.05.03-10.49.18:089][328]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.49.18:089][328]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.49.18:089][328]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02_House
+[2023.05.03-10.49.18:090][328]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.49.18:090][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.49.18:171][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.49.18:174][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.03-10.49.18:195][328]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_02'.
+[2023.05.03-10.49.18:195][328]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.49.18:195][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.49.18:196][328]LogAIModule: Creating AISystem for world Level_02
+[2023.05.03-10.49.18:196][328]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2023.05.03-10.49.18:196][328]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.49.18:232][328]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.03-11.49.18
+[2023.05.03-10.49.18:232][328]LogWorld: Bringing up level for play took: 0.036301
+[2023.05.03-10.49.18:235][328]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.49.18:235][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.18:235][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.18:236][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Added player 0
+[2023.05.03-10.49.18:237][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.18:237][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.18:237][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.18:237][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.18:237][328]LogBlueprintUserMessages: [W_InGameHUD_C_3] added in game hud
+[2023.05.03-10.49.18:238][328]LogLoad: Took 0.148649 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.03-10.49.22:071][629]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.22:072][629]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.22:574][671]LogNet: Browse: /Game/Maps/Level_03/Level_03
+[2023.05.03-10.49.22:575][671]LogLoad: LoadMap: /Game/Maps/Level_03/Level_03
+[2023.05.03-10.49.22:575][671]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.03-10.49.22:575][671]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.49.22:576][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.49.22:652][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.49.22:654][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.03-10.49.22:677][671]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_03'.
+[2023.05.03-10.49.22:677][671]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.49.22:677][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.49.22:677][671]LogAIModule: Creating AISystem for world Level_03
+[2023.05.03-10.49.22:677][671]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2023.05.03-10.49.22:677][671]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.49.22:715][671]LogWorld: Bringing World /Game/Maps/Level_03/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2023.05.03-11.49.22
+[2023.05.03-10.49.22:715][671]LogWorld: Bringing up level for play took: 0.037361
+[2023.05.03-10.49.22:717][671]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.49.22:717][671]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.22:717][671]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.22:719][671]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Added player 0
+[2023.05.03-10.49.22:719][671]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.22:719][671]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.22:719][671]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Player 0
+[2023.05.03-10.49.22:719][671]LogBlueprintUserMessages: [BP_Core_GameInstance_C_9] Current players: 
+[2023.05.03-10.49.22:719][671]LogBlueprintUserMessages: [W_InGameHUD_C_4] added in game hud
+[2023.05.03-10.49.22:720][671]LogLoad: Took 0.145692 seconds to LoadMap(/Game/Maps/Level_03/Level_03)
+[2023.05.03-10.49.23:525][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.49.23:525][738]LogWorld: BeginTearingDown for /Game/Maps/Level_03/UEDPIE_0_Level_03
+[2023.05.03-10.49.23:525][738]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.49.23:525][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.49.23:538][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-10.49.23:542][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.49.23:581][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.49.23:581][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.03-10.49.23:583][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.03-10.49.23:589][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.05.03-10.49.23:653][739]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.05.03-10.49.52:222][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.03-10.49.52:257][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.05.03-10.49.52:272][350]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.05.03-10.49.52:273][350]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameInstanceD7CB07D4454656E16B93E4AADD303918.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.05.03-10.49.52:285][350]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.05.03-10.49.52:285][350]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.05.03-10.49.54:761][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.03-10.49.54:826][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.05.03-10.49.54:840][640]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.05.03-10.49.54:841][640]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameInstance48E8721D4AFE5A491B6FC5860A16A7E0.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.05.03-10.49.54:853][640]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.05.03-10.49.54:853][640]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.05.03-10.49.57:097][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.03-10.49.57:158][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.05.03-10.49.57:172][902]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.05.03-10.49.57:172][902]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameInstance37227E744C8FD15DBD2957BB4A8C3829.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.05.03-10.49.57:184][902]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.05.03-10.49.57:184][902]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.05.03-10.49.59:621][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.03-10.49.59:677][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.05.03-10.49.59:691][186]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.05.03-10.49.59:692][186]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameInstance902773064F254FD4803ABEBAA64F23BE.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.05.03-10.49.59:704][186]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.05.03-10.49.59:704][186]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.05.03-10.50.05:618][884]BlueprintLog: New page: Compile BP_Core_GameInstance
+[2023.05.03-10.50.05:665][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.03-10.50.06:458][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_Core_GameInstance" FILE="../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset" SILENT=true
+[2023.05.03-10.50.06:472][967]LogSavePackage: Moving output files for package: /Game/Core/BP_Core_GameInstance
+[2023.05.03-10.50.06:473][967]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Core_GameInstanceBD49050E4B4E578F8D4DDEB6FA3102E9.tmp' to '../../../../../../GitHub/Survival_Game/Content/Core/BP_Core_GameInstance.uasset'
+[2023.05.03-10.50.06:487][967]AssetCheck: New page: Asset Save: BP_Core_GameInstance
+[2023.05.03-10.50.06:487][967]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_Core_GameInstance.BP_Core_GameInstance
+[2023.05.03-10.50.07:388][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.03-10.50.08:698][222]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.50.08:698][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.50.16:354][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.03-10.50.16:409][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera/BP_Camera" FILE="../../../../../../GitHub/Survival_Game/Content/Camera/BP_Camera.uasset" SILENT=true
+[2023.05.03-10.50.16:423][103]LogSavePackage: Moving output files for package: /Game/Camera/BP_Camera
+[2023.05.03-10.50.16:423][103]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Camera8AC61F6B4EDA6D58DD8D94B4C0DA204E.tmp' to '../../../../../../GitHub/Survival_Game/Content/Camera/BP_Camera.uasset'
+[2023.05.03-10.50.16:435][103]AssetCheck: New page: Asset Save: BP_Camera
+[2023.05.03-10.50.16:435][103]LogContentValidation: Display: Validating Blueprint /Game/Camera/BP_Camera.BP_Camera
+[2023.05.03-10.50.25:681][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.03-10.50.25:741][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Camera/BP_Camera" FILE="../../../../../../GitHub/Survival_Game/Content/Camera/BP_Camera.uasset" SILENT=true
+[2023.05.03-10.50.25:754][193]LogSavePackage: Moving output files for package: /Game/Camera/BP_Camera
+[2023.05.03-10.50.25:755][193]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_CameraD847090A40629C757278DBBA0B308B52.tmp' to '../../../../../../GitHub/Survival_Game/Content/Camera/BP_Camera.uasset'
+[2023.05.03-10.50.25:767][193]AssetCheck: New page: Asset Save: BP_Camera
+[2023.05.03-10.50.25:767][193]LogContentValidation: Display: Validating Blueprint /Game/Camera/BP_Camera.BP_Camera
+[2023.05.03-10.50.37:203][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-10.50.37:210][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-10.50.37:210][558]PIE: New page: PIE session: Level_01 (3 May 2023, 12:50:37)
+[2023.05.03-10.50.37:210][558]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.50.37:230][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019652s)
+[2023.05.03-10.50.37:230][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.019724s)
+[2023.05.03-10.50.37:230][558]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.50.37:230][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.50.37:230][558]LogAIModule: Creating AISystem for world Level_01
+[2023.05.03-10.50.37:231][558]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2023.05.03-10.50.37:262][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.03-10.50.37:263][558]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.03-10.50.37:263][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-10.50.37:263][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-10.50.37:263][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-10.50.37:263][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-10.50.37:263][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-10.50.37:263][558]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-10.50.37:263][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-10.50.37:263][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-10.50.37:264][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-10.50.37:264][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-10.50.37:264][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-10.50.37:265][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-10.50.37:305][558]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.03-10.50.37:306][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-10.50.37:306][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-10.50.37:306][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-10.50.37:306][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.05.03-10.50.37:306][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.05.03-10.50.37:307][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.05.03-10.50.37:307][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.05.03-10.50.37:308][558]LogInit: FAudioDevice initialized.
+[2023.05.03-10.50.37:308][558]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_01'.
+[2023.05.03-10.50.37:361][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.50.37:361][558]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.50.37:368][558]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.03-11.50.37
+[2023.05.03-10.50.37:368][558]LogWorld: Bringing up level for play took: 0.006097
+[2023.05.03-10.50.37:370][558]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.05.03-10.50.37:371][558]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.50.37:372][558]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.50.37:373][558]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.50.37:377][558]PIE: Server logged in
+[2023.05.03-10.50.37:379][558]PIE: Play in editor total start time 0.169 seconds.
+[2023.05.03-10.50.37:389][558]LogViewport: Scene viewport resized to 2560x1440, mode Windowed.
+[2023.05.03-10.50.40:376][772]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 0
+[2023.05.03-10.50.40:520][783]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 1
+[2023.05.03-10.50.41:423][851]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.50.41:423][851]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.50.41:423][851]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.50.41:423][851]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.50.41:423][851]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.50.41:423][851]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.50.41:423][851]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.03-10.50.48:471][397]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.50.48:471][397]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.50.48:472][397]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.50.53:959][864]LogBlueprintUserMessages: [House_C_0] Hello, come in!
+[2023.05.03-10.50.56:284][ 50]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.175 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.03-10.50.56:658][ 82]LogBlueprintUserMessages: [House_C_0] Bye!
+[2023.05.03-10.51.01:751][467]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.01:751][467]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.01:751][467]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.02:260][503]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.51.02:261][503]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.51.02:261][503]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.51.02:262][503]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.51.02:262][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.51.02:327][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.51.02:330][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.05.03-10.51.02:352][503]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_02'.
+[2023.05.03-10.51.02:352][503]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.51.02:352][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.51.02:352][503]LogAIModule: Creating AISystem for world Level_02
+[2023.05.03-10.51.02:352][503]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2023.05.03-10.51.02:352][503]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.51.02:389][503]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.03-11.51.02
+[2023.05.03-10.51.02:389][503]LogWorld: Bringing up level for play took: 0.036721
+[2023.05.03-10.51.02:391][503]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.51.02:391][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.02:391][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.02:391][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.02:393][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 0
+[2023.05.03-10.51.02:395][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 1
+[2023.05.03-10.51.02:395][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.02:395][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.02:395][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.02:395][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.02:395][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.02:395][503]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.02:395][503]LogBlueprintUserMessages: [W_InGameHUD_C_1] added in game hud
+[2023.05.03-10.51.02:396][503]LogLoad: Took 0.135951 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.03-10.51.06:892][856]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.06:892][856]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.06:892][856]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.11:424][249]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.03-10.51.11:812][282]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.11:812][282]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.11:812][282]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.15:767][592]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.03-10.51.16:086][615]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.16:086][615]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.16:086][615]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.16:597][652]LogNet: Browse: /Game/Maps/Level_02/Level_02_House
+[2023.05.03-10.51.16:598][652]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02_House
+[2023.05.03-10.51.16:598][652]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.03-10.51.16:598][652]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.03-10.51.16:599][652]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.03-10.51.16:599][652]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.51.16:599][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.51.16:658][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.51.16:661][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.05.03-10.51.16:676][652]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_02_House'.
+[2023.05.03-10.51.16:676][652]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.51.16:677][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.51.16:677][652]LogAIModule: Creating AISystem for world Level_02_House
+[2023.05.03-10.51.16:677][652]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2023.05.03-10.51.16:677][652]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.51.16:700][652]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02_House.Level_02_House up for play (max tick rate 0) at 2023.05.03-11.51.16
+[2023.05.03-10.51.16:701][652]LogWorld: Bringing up level for play took: 0.023343
+[2023.05.03-10.51.16:703][652]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.51.16:703][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.16:703][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.16:703][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.16:704][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 0
+[2023.05.03-10.51.16:706][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 1
+[2023.05.03-10.51.16:706][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.16:706][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.16:706][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.16:706][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.16:707][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.16:707][652]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.16:707][652]LogBlueprintUserMessages: [W_InGameHUD_C_2] added in game hud
+[2023.05.03-10.51.16:708][652]LogLoad: Took 0.110478 seconds to LoadMap(/Game/Maps/Level_02/Level_02_House)
+[2023.05.03-10.51.20:525][971]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.03-10.51.22:021][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.22:022][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.22:022][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.22:435][123]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.22:435][123]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.22:435][123]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.22:934][166]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.51.22:934][166]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.51.22:934][166]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02_House
+[2023.05.03-10.51.22:935][166]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.51.22:935][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.51.22:997][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.51.23:000][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.03-10.51.23:021][166]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_02'.
+[2023.05.03-10.51.23:021][166]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.51.23:021][166]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.51.23:022][166]LogAIModule: Creating AISystem for world Level_02
+[2023.05.03-10.51.23:022][166]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2023.05.03-10.51.23:022][166]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.51.23:058][166]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.03-11.51.23
+[2023.05.03-10.51.23:058][166]LogWorld: Bringing up level for play took: 0.036257
+[2023.05.03-10.51.23:060][166]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.51.23:060][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.23:060][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.23:060][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.23:062][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 0
+[2023.05.03-10.51.23:064][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 1
+[2023.05.03-10.51.23:064][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.23:064][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.23:064][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.23:064][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.23:064][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.23:064][166]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.23:064][166]LogBlueprintUserMessages: [W_InGameHUD_C_3] added in game hud
+[2023.05.03-10.51.23:066][166]LogLoad: Took 0.131819 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.03-10.51.26:574][417]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.26:574][417]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.26:574][417]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.26:848][437]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.26:848][437]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.26:848][437]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.27:352][475]LogNet: Browse: /Game/Maps/Level_03/Level_03
+[2023.05.03-10.51.27:353][475]LogLoad: LoadMap: /Game/Maps/Level_03/Level_03
+[2023.05.03-10.51.27:353][475]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.03-10.51.27:354][475]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.51.27:354][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.51.27:407][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.51.27:410][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.05.03-10.51.27:431][475]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_03'.
+[2023.05.03-10.51.27:431][475]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.51.27:432][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.51.27:432][475]LogAIModule: Creating AISystem for world Level_03
+[2023.05.03-10.51.27:432][475]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2023.05.03-10.51.27:432][475]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.51.27:469][475]LogWorld: Bringing World /Game/Maps/Level_03/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2023.05.03-11.51.27
+[2023.05.03-10.51.27:469][475]LogWorld: Bringing up level for play took: 0.036852
+[2023.05.03-10.51.27:471][475]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.51.27:471][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.27:471][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.27:471][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.27:473][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 0
+[2023.05.03-10.51.27:475][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 1
+[2023.05.03-10.51.27:475][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.27:475][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.27:475][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.27:475][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.27:475][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.27:475][475]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.27:475][475]LogBlueprintUserMessages: [W_InGameHUD_C_4] added in game hud
+[2023.05.03-10.51.27:477][475]LogLoad: Took 0.124271 seconds to LoadMap(/Game/Maps/Level_03/Level_03)
+[2023.05.03-10.51.31:842][803]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.03-10.51.33:110][901]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.33:110][901]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.33:110][901]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.42:096][639]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.42:096][639]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.42:096][639]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.42:608][677]LogNet: Browse: /Game/Maps/Level_End/Level_End
+[2023.05.03-10.51.42:608][677]LogLoad: LoadMap: /Game/Maps/Level_End/Level_End
+[2023.05.03-10.51.42:608][677]LogWorld: BeginTearingDown for /Game/Maps/Level_03/UEDPIE_0_Level_03
+[2023.05.03-10.51.42:609][677]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.51.42:609][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.51.42:668][677]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.51.42:671][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.05.03-10.51.42:681][677]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_End'.
+[2023.05.03-10.51.42:681][677]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.51.42:681][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.51.42:682][677]LogAIModule: Creating AISystem for world Level_End
+[2023.05.03-10.51.42:682][677]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2023.05.03-10.51.42:682][677]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.51.42:683][677]LogWorld: Bringing World /Game/Maps/Level_End/UEDPIE_0_Level_End.Level_End up for play (max tick rate 0) at 2023.05.03-11.51.42
+[2023.05.03-10.51.42:683][677]LogWorld: Bringing up level for play took: 0.000810
+[2023.05.03-10.51.42:685][677]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.51.42:685][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.42:685][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.42:685][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.42:686][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 0
+[2023.05.03-10.51.42:688][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Added player 1
+[2023.05.03-10.51.42:688][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.42:688][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.42:688][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.42:688][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 0
+[2023.05.03-10.51.42:689][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Player 1
+[2023.05.03-10.51.42:689][677]LogBlueprintUserMessages: [BP_Core_GameInstance_C_10] Current players: 
+[2023.05.03-10.51.42:689][677]LogBlueprintUserMessages: [W_InGameHUD_C_5] added in game hud
+[2023.05.03-10.51.42:695][677]LogLoad: Took 0.086648 seconds to LoadMap(/Game/Maps/Level_End/Level_End)
+[2023.05.03-10.51.44:411][875]LogBlueprintUserMessages: [WBP_End_C_0] quitting game
+[2023.05.03-10.51.44:412][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.51.44:412][875]LogWorld: BeginTearingDown for /Game/Maps/Level_End/UEDPIE_0_Level_End
+[2023.05.03-10.51.44:414][875]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.03-10.51.44:445][875]LogWorld: UWorld::CleanupWorld for Level_End, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.51.44:446][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.51.44:453][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-10.51.44:457][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.51.44:490][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.03-10.51.44:491][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.03-10.51.44:497][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.05.03-10.51.44:553][876]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.05.03-10.51.45:953][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.03-10.52.15:482][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-10.52.15:490][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-10.52.15:490][689]PIE: New page: PIE session: Level_01 (3 May 2023, 12:52:15)
+[2023.05.03-10.52.15:490][689]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.52.15:511][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021041s)
+[2023.05.03-10.52.15:511][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.021114s)
+[2023.05.03-10.52.15:511][689]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.52.15:511][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.52.15:512][689]LogAIModule: Creating AISystem for world Level_01
+[2023.05.03-10.52.15:512][689]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2023.05.03-10.52.15:547][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.03-10.52.15:547][689]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.03-10.52.15:547][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-10.52.15:547][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-10.52.15:547][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-10.52.15:547][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-10.52.15:547][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-10.52.15:547][689]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-10.52.15:547][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-10.52.15:547][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-10.52.15:548][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-10.52.15:548][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-10.52.15:548][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-10.52.15:550][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-10.52.15:591][689]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.03-10.52.15:591][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-10.52.15:591][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-10.52.15:591][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-10.52.15:591][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.05.03-10.52.15:591][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.05.03-10.52.15:593][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.05.03-10.52.15:593][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.05.03-10.52.15:593][689]LogInit: FAudioDevice initialized.
+[2023.05.03-10.52.15:593][689]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_01'.
+[2023.05.03-10.52.15:645][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.52.15:645][689]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.52.15:650][689]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.03-11.52.15
+[2023.05.03-10.52.15:650][689]LogWorld: Bringing up level for play took: 0.005234
+[2023.05.03-10.52.15:652][689]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.05.03-10.52.15:654][689]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.52.15:655][689]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.52.15:656][689]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.03-10.52.15:659][689]PIE: Server logged in
+[2023.05.03-10.52.15:660][689]PIE: Play in editor total start time 0.171 seconds.
+[2023.05.03-10.52.15:670][689]LogViewport: Scene viewport resized to 2560x1440, mode Windowed.
+[2023.05.03-10.52.19:401][861]LogViewport: Scene viewport resized to 3840x2049, mode Windowed.
+[2023.05.03-10.52.28:730][317]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 0
+[2023.05.03-10.52.28:986][328]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 1
+[2023.05.03-10.52.29:949][375]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.29:949][375]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.29:949][375]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.29:949][375]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.29:949][375]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.29:949][375]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.29:950][375]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.03-10.52.32:669][500]LogBlueprintUserMessages: [House_C_0] Hello, come in!
+[2023.05.03-10.52.34:131][566]LogBlueprintUserMessages: [House_02_C_1] Hello, come in!
+[2023.05.03-10.52.35:563][629]LogBlueprintUserMessages: [House_02_C_1] Bye!
+[2023.05.03-10.52.35:585][630]LogBlueprintUserMessages: [House_C_0] Bye!
+[2023.05.03-10.52.37:432][710]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.03-10.52.39:056][780]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.03-10.52.39:383][794]LogBlueprintUserMessages: [BP_VendingMachine_C_0] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.03-10.52.41:184][872]LogBlueprintUserMessages: [House_02_C_0] Hello, come in!
+[2023.05.03-10.52.42:928][948]LogBlueprintUserMessages: [House_02_C_0] Bye!
+[2023.05.03-10.52.45:626][ 65]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.45:626][ 65]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.45:626][ 65]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.46:065][ 84]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.46:065][ 84]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.46:065][ 84]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.46:580][107]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.52.46:580][107]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.52.46:580][107]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.03-10.52.46:581][107]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.52.46:581][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.52.46:619][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.52.46:622][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.03-10.52.46:645][107]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_02'.
+[2023.05.03-10.52.46:645][107]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.52.46:645][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.52.46:645][107]LogAIModule: Creating AISystem for world Level_02
+[2023.05.03-10.52.46:645][107]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2023.05.03-10.52.46:645][107]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.52.46:684][107]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.03-11.52.46
+[2023.05.03-10.52.46:684][107]LogWorld: Bringing up level for play took: 0.038236
+[2023.05.03-10.52.46:686][107]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.52.46:686][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.46:686][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.46:686][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.46:688][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 0
+[2023.05.03-10.52.46:690][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 1
+[2023.05.03-10.52.46:690][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.46:690][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.46:690][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.46:690][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.46:690][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.46:690][107]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.46:690][107]LogBlueprintUserMessages: [W_InGameHUD_C_1] added in game hud
+[2023.05.03-10.52.46:692][107]LogLoad: Took 0.112199 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.03-10.52.48:030][173]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.03-10.52.48:396][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.48:396][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.48:396][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.49:964][262]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.03-10.52.50:251][275]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.50:251][275]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.50:251][275]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.50:754][298]LogNet: Browse: /Game/Maps/Level_02/Level_02_House
+[2023.05.03-10.52.50:754][298]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02_House
+[2023.05.03-10.52.50:754][298]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.03-10.52.50:755][298]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.03-10.52.50:755][298]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.03-10.52.50:755][298]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.52.50:756][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.52.50:791][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.52.50:795][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.05.03-10.52.50:812][298]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_02_House'.
+[2023.05.03-10.52.50:812][298]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.52.50:812][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.52.50:813][298]LogAIModule: Creating AISystem for world Level_02_House
+[2023.05.03-10.52.50:813][298]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2023.05.03-10.52.50:813][298]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.52.50:842][298]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02_House.Level_02_House up for play (max tick rate 0) at 2023.05.03-11.52.50
+[2023.05.03-10.52.50:842][298]LogWorld: Bringing up level for play took: 0.028846
+[2023.05.03-10.52.50:844][298]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.52.50:844][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.50:845][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.50:845][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.50:846][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 0
+[2023.05.03-10.52.50:848][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 1
+[2023.05.03-10.52.50:848][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.50:848][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.50:848][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.50:848][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.50:848][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.50:848][298]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.50:849][298]LogBlueprintUserMessages: [W_InGameHUD_C_2] added in game hud
+[2023.05.03-10.52.50:850][298]LogLoad: Took 0.095925 seconds to LoadMap(/Game/Maps/Level_02/Level_02_House)
+[2023.05.03-10.52.52:834][400]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.03-10.52.54:409][476]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.54:409][476]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.54:409][476]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.54:547][483]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.54:547][483]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.54:547][483]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.55:060][510]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.52.55:060][510]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.03-10.52.55:060][510]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02_House
+[2023.05.03-10.52.55:061][510]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.52.55:062][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.52.55:096][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.52.55:099][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.03-10.52.55:122][510]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_02'.
+[2023.05.03-10.52.55:122][510]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.52.55:122][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.52.55:122][510]LogAIModule: Creating AISystem for world Level_02
+[2023.05.03-10.52.55:122][510]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2023.05.03-10.52.55:122][510]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.52.55:160][510]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.03-11.52.55
+[2023.05.03-10.52.55:160][510]LogWorld: Bringing up level for play took: 0.038009
+[2023.05.03-10.52.55:163][510]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.52.55:163][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.55:163][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.55:163][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.55:165][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 0
+[2023.05.03-10.52.55:167][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 1
+[2023.05.03-10.52.55:167][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.55:167][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.55:167][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.55:167][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.55:167][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.55:167][510]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.55:167][510]LogBlueprintUserMessages: [W_InGameHUD_C_3] added in game hud
+[2023.05.03-10.52.55:169][510]LogLoad: Took 0.108256 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.03-10.52.58:603][665]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.58:603][665]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.58:603][665]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.58:781][673]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.58:781][673]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.58:781][673]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.59:283][696]LogNet: Browse: /Game/Maps/Level_03/Level_03
+[2023.05.03-10.52.59:283][696]LogLoad: LoadMap: /Game/Maps/Level_03/Level_03
+[2023.05.03-10.52.59:283][696]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.03-10.52.59:285][696]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.52.59:285][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.52.59:341][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.52.59:344][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.03-10.52.59:367][696]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_03'.
+[2023.05.03-10.52.59:367][696]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.52.59:367][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.52.59:367][696]LogAIModule: Creating AISystem for world Level_03
+[2023.05.03-10.52.59:367][696]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2023.05.03-10.52.59:368][696]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.52.59:407][696]LogWorld: Bringing World /Game/Maps/Level_03/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2023.05.03-11.52.59
+[2023.05.03-10.52.59:408][696]LogWorld: Bringing up level for play took: 0.040033
+[2023.05.03-10.52.59:410][696]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.52.59:410][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.59:410][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.59:410][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.59:412][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 0
+[2023.05.03-10.52.59:414][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 1
+[2023.05.03-10.52.59:414][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.59:414][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.59:414][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.59:414][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.52.59:414][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.52.59:414][696]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.52.59:415][696]LogBlueprintUserMessages: [W_InGameHUD_C_4] added in game hud
+[2023.05.03-10.52.59:416][696]LogLoad: Took 0.132648 seconds to LoadMap(/Game/Maps/Level_03/Level_03)
+[2023.05.03-10.53.02:551][843]LogBlueprintUserMessages: [BP_Cactus_C_2] you walked into a cactus and took 5.0 damage, ouch!
+[2023.05.03-10.53.02:661][848]LogBlueprintUserMessages: [BP_Cactus_C_2] you walked into a cactus and took 5.0 damage, ouch!
+[2023.05.03-10.53.02:788][854]LogBlueprintUserMessages: [BP_Cactus_C_2] you walked into a cactus and took 5.0 damage, ouch!
+[2023.05.03-10.53.05:158][962]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.53.05:158][962]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.53.05:158][962]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.53.05:402][973]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.03-10.53.06:043][  2]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.03-10.53.07:418][ 65]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.53.07:418][ 65]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.53.07:418][ 65]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.53.07:922][ 89]LogNet: Browse: /Game/Maps/Level_End/Level_End
+[2023.05.03-10.53.07:922][ 89]LogLoad: LoadMap: /Game/Maps/Level_End/Level_End
+[2023.05.03-10.53.07:922][ 89]LogWorld: BeginTearingDown for /Game/Maps/Level_03/UEDPIE_0_Level_03
+[2023.05.03-10.53.07:923][ 89]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.53.07:923][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.53.07:980][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-10.53.07:982][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.03-10.53.07:992][ 89]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_End'.
+[2023.05.03-10.53.07:992][ 89]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.03-10.53.07:993][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.53.07:993][ 89]LogAIModule: Creating AISystem for world Level_End
+[2023.05.03-10.53.07:993][ 89]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2023.05.03-10.53.07:993][ 89]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.03-10.53.07:994][ 89]LogWorld: Bringing World /Game/Maps/Level_End/UEDPIE_0_Level_End.Level_End up for play (max tick rate 0) at 2023.05.03-11.53.07
+[2023.05.03-10.53.07:994][ 89]LogWorld: Bringing up level for play took: 0.000808
+[2023.05.03-10.53.07:996][ 89]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.03-10.53.07:996][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.53.07:996][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.53.07:996][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.53.07:998][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 0
+[2023.05.03-10.53.08:000][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Added player 1
+[2023.05.03-10.53.08:000][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.53.08:000][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.53.08:000][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.53.08:000][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 0
+[2023.05.03-10.53.08:000][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Player 1
+[2023.05.03-10.53.08:000][ 89]LogBlueprintUserMessages: [BP_Core_GameInstance_C_11] Current players: 
+[2023.05.03-10.53.08:000][ 89]LogBlueprintUserMessages: [W_InGameHUD_C_5] added in game hud
+[2023.05.03-10.53.08:007][ 89]LogLoad: Took 0.084953 seconds to LoadMap(/Game/Maps/Level_End/Level_End)
+[2023.05.03-10.53.12:213][392]LogBlueprintUserMessages: [WBP_End_C_0] quitting game
+[2023.05.03-10.53.12:214][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-10.53.12:214][392]LogWorld: BeginTearingDown for /Game/Maps/Level_End/UEDPIE_0_Level_End
+[2023.05.03-10.53.12:215][392]LogSlate: Window 'Survival_Game Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.03-10.53.12:276][392]LogWorld: UWorld::CleanupWorld for Level_End, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-10.53.12:276][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.53.12:288][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-10.53.12:292][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-10.53.12:326][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.03-10.53.12:327][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.03-10.53.12:333][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.05.03-10.53.12:388][393]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.05.03-10.55.23:168][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
