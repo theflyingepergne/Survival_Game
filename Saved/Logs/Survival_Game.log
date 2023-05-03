@@ -3549,3 +3549,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.03-11.06.26:557][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
 [2023.05.03-11.06.26:565][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2023.05.03-11.06.26:617][888]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.05.03-11.50.55:747][944]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.587 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.03-11.59.29:654][753]LogEditorViewport: Clicking Background
+[2023.05.03-11.59.35:633][238]LogClient: High resolution screenshot saved as D:/GitHub/Survival_Game/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
