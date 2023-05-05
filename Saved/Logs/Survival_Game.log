@@ -6754,3 +6754,55 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.05-08.40.27:945][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
 [2023.05.05-08.40.28:021][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_42
 [2023.05.05-08.40.35:387][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.05-08.42.34:075][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.05.05-08.42.34:147][554]LogSavePackage: Moving output files for package: /Game/Characters/BP_Player
+[2023.05.05-08.42.34:147][554]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_PlayerADCCEF494271F1DD541E409671A27A13.tmp' to '../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset'
+[2023.05.05-08.42.34:168][554]AssetCheck: New page: Asset Save: BP_Player
+[2023.05.05-08.42.34:168][554]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Player.BP_Player
+[2023.05.05-08.42.36:300][686]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-08.42.36:300][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-08.43.26:480][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.05-08.43.26:489][805]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_01/Level_01' took 0.048
+[2023.05.05-08.43.26:503][805]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/BP_Player] ([2] browsable assets)...
+[2023.05.05-08.43.26:503][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Player]
+[2023.05.05-08.43.26:503][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../GitHub/Survival_Game/Saved/Autosaves/Game/Characters/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.05.05-08.43.26:565][805]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/BP_Player_Auto1
+[2023.05.05-08.43.26:579][805]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Player_Auto1C71F24054A24C266AE8B2390B6F86328.tmp' to '../../../../../../GitHub/Survival_Game/Saved/Autosaves/Game/Characters/BP_Player_Auto1.uasset'
+[2023.05.05-08.43.26:580][805]LogFileHelpers: Auto-saving content packages took 0.091
+[2023.05.05-08.43.59:890][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.05.05-08.43.59:957][896]LogSavePackage: Moving output files for package: /Game/Characters/BP_Player
+[2023.05.05-08.43.59:957][896]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_Player0BCBFE004697ADD480C8C792DD50CD3B.tmp' to '../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset'
+[2023.05.05-08.43.59:979][896]AssetCheck: New page: Asset Save: BP_Player
+[2023.05.05-08.43.59:979][896]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Player.BP_Player
+[2023.05.05-08.44.03:728][143]LogSlate: Window 'BP_Player' being destroyed
+[2023.05.05-09.25.31:345][633]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.766 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.05-10.25.30:542][310]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.129 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.05-11.25.30:867][991]LogDerivedDataCache: C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.247 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.05-11.58.22:002][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.05-11.58.22:094][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.05.05-11.58.22:157][252]LogSavePackage: Moving output files for package: /Game/Characters/BP_Player
+[2023.05.05-11.58.22:157][252]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_PlayerB24F453C47EDADAC68CF2AB09D54F031.tmp' to '../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset'
+[2023.05.05-11.58.22:171][252]AssetCheck: New page: Asset Save: BP_Player
+[2023.05.05-11.58.22:171][252]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Player.BP_Player
+[2023.05.05-11.58.23:134][362]BlueprintLog: New page: Compile BP_Player
+[2023.05.05-11.58.23:256][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.05-11.58.23:648][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.05.05-11.58.23:711][388]LogSavePackage: Moving output files for package: /Game/Characters/BP_Player
+[2023.05.05-11.58.23:711][388]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_PlayerB3FE35C045CB4F206AAC3DAA3379F6BF.tmp' to '../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset'
+[2023.05.05-11.58.23:727][388]AssetCheck: New page: Asset Save: BP_Player
+[2023.05.05-11.58.23:727][388]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Player.BP_Player
+[2023.05.05-11.58.27:931][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.05.05-11.58.35:972][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.05.05-11.58.36:035][756]LogSavePackage: Moving output files for package: /Game/Characters/BP_Player
+[2023.05.05-11.58.36:035][756]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_PlayerE71D36AB498BAEF0975B3785A105958E.tmp' to '../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset'
+[2023.05.05-11.58.36:049][756]AssetCheck: New page: Asset Save: BP_Player
+[2023.05.05-11.58.36:049][756]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Player.BP_Player
+[2023.05.05-11.58.37:317][906]BlueprintLog: New page: Compile BP_Player
+[2023.05.05-11.58.37:449][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.05.05-11.58.37:632][907]BlueprintLog: New page: Compile BP_Player
+[2023.05.05-11.58.37:756][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.05-11.58.37:981][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Player" FILE="../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset" SILENT=true
+[2023.05.05-11.58.38:045][908]LogSavePackage: Moving output files for package: /Game/Characters/BP_Player
+[2023.05.05-11.58.38:046][908]LogSavePackage: Moving '../../../../../../GitHub/Survival_Game/Saved/BP_PlayerDF2DFC1345D14C8E912F3CA251190065.tmp' to '../../../../../../GitHub/Survival_Game/Content/Characters/BP_Player.uasset'
+[2023.05.05-11.58.38:062][908]AssetCheck: New page: Asset Save: BP_Player
+[2023.05.05-11.58.38:062][908]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Player.BP_Player
