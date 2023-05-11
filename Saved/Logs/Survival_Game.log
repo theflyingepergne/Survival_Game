@@ -4940,3 +4940,333 @@ Make sure 'TestGameMode_C' has been compiled for  Get SpawnTransform
 [2023.05.11-10.23.46:345][352]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
 [2023.05.11-10.23.46:345][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.05.11-10.23.47:313][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.05.11-10.57.03:751][833]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.11-10.57.03:759][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.11-10.57.03:759][833]PIE: New page: PIE session: TestLevel (11 May 2023, 12:57:03)
+[2023.05.11-10.57.03:781][833]LogPlayLevel: Creating play world package: /Game/Maps/LevelPrototyping/UEDPIE_0_TestLevel
+[2023.05.11-10.57.03:783][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002466s)
+[2023.05.11-10.57.03:783][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelPrototyping/TestLevel.TestLevel to /Game/Maps/LevelPrototyping/UEDPIE_0_TestLevel.TestLevel (0.002570s)
+[2023.05.11-10.57.03:784][833]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-10.57.03:784][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-10.57.03:784][833]LogAIModule: Creating AISystem for world TestLevel
+[2023.05.11-10.57.03:784][833]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2023.05.11-10.57.03:829][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.11-10.57.03:831][833]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.05.11-10.57.03:831][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.11-10.57.03:831][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.11-10.57.03:831][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.11-10.57.03:831][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.11-10.57.03:831][833]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.11-10.57.03:831][833]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.11-10.57.03:831][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.11-10.57.03:831][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.11-10.57.03:831][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.11-10.57.03:831][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.11-10.57.03:831][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.11-10.57.03:833][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.11-10.57.03:873][833]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.11-10.57.03:873][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.11-10.57.03:874][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.11-10.57.03:874][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.11-10.57.03:874][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.05.11-10.57.03:874][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.05.11-10.57.03:876][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.05.11-10.57.03:876][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.05.11-10.57.03:876][833]LogInit: FAudioDevice initialized.
+[2023.05.11-10.57.03:876][833]LogAudio: Display: Audio Device (ID: 39) registered with world 'TestLevel'.
+[2023.05.11-10.57.03:891][833]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.11-10.57.03:892][833]LogWorld: Bringing World /Game/Maps/LevelPrototyping/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.05.11-11.57.03
+[2023.05.11-10.57.03:892][833]LogWorld: Bringing up level for play took: 0.000704
+[2023.05.11-10.57.03:894][833]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2023.05.11-10.57.03:895][833]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.11-10.57.03:897][833]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.11-10.57.03:898][833]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.11-10.57.03:898][833]PIE: Server logged in
+[2023.05.11-10.57.03:899][833]PIE: Play in editor total start time 0.14 seconds.
+[2023.05.11-10.57.23:931][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-10.57.23:931][939]LogWorld: BeginTearingDown for /Game/Maps/LevelPrototyping/UEDPIE_0_TestLevel
+[2023.05.11-10.57.23:931][939]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-10.57.23:931][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-10.57.23:946][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.11-10.57.23:950][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-10.57.23:989][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-10.57.23:989][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.05.11-10.57.23:991][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.05.11-10.57.23:996][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.11-10.57.24:029][940]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2023.05.11-11.08.46:469][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.11-11.08.46:585][222]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_01/Level_01.Level_01
+[2023.05.11-11.08.46:585][222]Cmd: MAP LOAD FILE="../../../../../../GitHub/Survival_Game/Content/Maps/Level_01/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.11-11.08.46:585][222]LightingResults: New page: Lighting Build
+[2023.05.11-11.08.46:585][222]LoadErrors: New page: Loading map: Level_01.umap
+[2023.05.11-11.08.46:586][222]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.08.46:586][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.08.46:587][222]MapCheck: New page: Map Check
+[2023.05.11-11.08.46:587][222]LightingResults: New page: Lighting Build
+[2023.05.11-11.08.46:627][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-11.08.46:630][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.11-11.08.46:633][222]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.08.46:633][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.08.46:675][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.11-11.08.46:718][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.05.11-11.08.46:743][222]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.05.11-11.08.46:743][222]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-11.08.46:743][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-11.08.46:743][222]LogAIModule: Creating AISystem for world Level_01
+[2023.05.11-11.08.46:810][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.11-11.08.46:882][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.11-11.08.46:898][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.11-11.08.46:898][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2023.05.11-11.08.46:898][222]LogFileHelpers: Loading map 'Level_01' took 0.314
+[2023.05.11-11.08.48:494][332]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.11-11.08.48:502][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.11-11.08.48:502][332]PIE: New page: PIE session: Level_01 (11 May 2023, 13:08:48)
+[2023.05.11-11.08.48:525][332]LogPlayLevel: Creating play world package: /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.11-11.08.48:545][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020135s)
+[2023.05.11-11.08.48:545][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_01/Level_01.Level_01 to /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 (0.020233s)
+[2023.05.11-11.08.48:545][332]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-11.08.48:545][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-11.08.48:546][332]LogAIModule: Creating AISystem for world Level_01
+[2023.05.11-11.08.48:546][332]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2023.05.11-11.08.48:585][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.05.11-11.08.48:587][332]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.05.11-11.08.48:587][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.11-11.08.48:587][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.11-11.08.48:587][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.11-11.08.48:587][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.11-11.08.48:587][332]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.11-11.08.48:587][332]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.11-11.08.48:587][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.11-11.08.48:587][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.11-11.08.48:587][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.11-11.08.48:587][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.11-11.08.48:587][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.11-11.08.48:589][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.11-11.08.48:630][332]LogAudioMixer: Display: Using Audio Hardware Device U32J59x (NVIDIA High Definition Audio)
+[2023.05.11-11.08.48:630][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.11-11.08.48:630][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.11-11.08.48:630][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.11-11.08.48:631][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.05.11-11.08.48:632][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.05.11-11.08.48:633][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.05.11-11.08.48:633][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.05.11-11.08.48:633][332]LogInit: FAudioDevice initialized.
+[2023.05.11-11.08.48:633][332]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_01'.
+[2023.05.11-11.08.48:649][332]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.11-11.08.48:653][332]LogWorld: Bringing World /Game/Maps/Level_01/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.05.11-12.08.48
+[2023.05.11-11.08.48:653][332]LogWorld: Bringing up level for play took: 0.003860
+[2023.05.11-11.08.48:655][332]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2023.05.11-11.08.48:657][332]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.11-11.08.48:658][332]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.11-11.08.48:659][332]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] STARTING LEVEL
+[2023.05.11-11.08.48:659][332]PIE: Server logged in
+[2023.05.11-11.08.48:660][332]PIE: Play in editor total start time 0.158 seconds.
+[2023.05.11-11.08.50:360][476]Cmd: LevelEditor.ToggleImmersive
+[2023.05.11-11.08.50:399][476]LogViewport: Scene viewport resized to 1265x667, mode Windowed.
+[2023.05.11-11.08.50:471][476]LogViewport: Scene viewport resized to 1265x667, mode Windowed.
+[2023.05.11-11.08.50:521][476]LogViewport: Scene viewport resized to 1265x667, mode Windowed.
+[2023.05.11-11.08.50:570][476]LogViewport: Scene viewport resized to 3385x1837, mode Windowed.
+[2023.05.11-11.08.50:623][477]LogViewport: Scene viewport resized to 3847x2107, mode Windowed.
+[2023.05.11-11.08.57:664][900]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton samurai_rigged_Skeleton, removing AnimBP from actor.
+[2023.05.11-11.08.57:664][900]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Added player 0
+[2023.05.11-11.09.00:004][ 44]LogBlueprintUserMessages: [BP_Core_PlayerController_C_0] Controller input
+[2023.05.11-11.10.30:256][584]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.30:256][584]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.30:257][584]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.30:257][584]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.30:257][584]LogBlueprintUserMessages: [W_InGameHUD_C_0] added in game hud
+[2023.05.11-11.10.37:411][971]LogBlueprintUserMessages: [House_02_C_0] Hello, come in!
+[2023.05.11-11.10.39:630][ 85]LogBlueprintUserMessages: [House_02_C_0] Bye!
+[2023.05.11-11.10.41:189][164]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.41:189][164]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.41:692][190]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.11-11.10.41:692][190]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.11-11.10.41:692][190]LogWorld: BeginTearingDown for /Game/Maps/Level_01/UEDPIE_0_Level_01
+[2023.05.11-11.10.41:694][190]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.10.41:694][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.10.41:757][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-11.10.41:760][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.11-11.10.41:784][190]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_02'.
+[2023.05.11-11.10.41:784][190]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-11.10.41:784][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-11.10.41:784][190]LogAIModule: Creating AISystem for world Level_02
+[2023.05.11-11.10.41:785][190]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2023.05.11-11.10.41:785][190]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.11-11.10.41:823][190]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.11-12.10.41
+[2023.05.11-11.10.41:824][190]LogWorld: Bringing up level for play took: 0.038704
+[2023.05.11-11.10.41:826][190]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.11-11.10.41:826][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.41:826][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.41:828][190]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton samurai_rigged_Skeleton, removing AnimBP from actor.
+[2023.05.11-11.10.41:829][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Added player 0
+[2023.05.11-11.10.41:829][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.41:829][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.41:829][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.41:829][190]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.41:829][190]LogBlueprintUserMessages: [W_InGameHUD_C_1] added in game hud
+[2023.05.11-11.10.41:831][190]LogLoad: Took 0.138449 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.11-11.10.43:282][274]LogBlueprintUserMessages: [House_C_1] Hello, come in!
+[2023.05.11-11.10.44:304][329]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.44:304][329]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.44:820][357]LogNet: Browse: /Game/Maps/Level_02/Level_02_House
+[2023.05.11-11.10.44:820][357]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02_House
+[2023.05.11-11.10.44:820][357]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.11-11.10.44:821][357]LogBlueprintUserMessages: [House_C_1] Bye!
+[2023.05.11-11.10.44:821][357]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.10.44:822][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.10.44:896][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-11.10.44:899][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.11-11.10.44:916][357]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_02_House'.
+[2023.05.11-11.10.44:916][357]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-11.10.44:916][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-11.10.44:916][357]LogAIModule: Creating AISystem for world Level_02_House
+[2023.05.11-11.10.44:916][357]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2023.05.11-11.10.44:917][357]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.11-11.10.44:939][357]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02_House.Level_02_House up for play (max tick rate 0) at 2023.05.11-12.10.44
+[2023.05.11-11.10.44:940][357]LogWorld: Bringing up level for play took: 0.022961
+[2023.05.11-11.10.44:942][357]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.11-11.10.44:942][357]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.44:942][357]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.44:944][357]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton samurai_rigged_Skeleton, removing AnimBP from actor.
+[2023.05.11-11.10.44:945][357]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Added player 0
+[2023.05.11-11.10.44:945][357]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.44:945][357]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.44:945][357]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.44:945][357]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.44:945][357]LogBlueprintUserMessages: [W_InGameHUD_C_2] added in game hud
+[2023.05.11-11.10.44:947][357]LogLoad: Took 0.126215 seconds to LoadMap(/Game/Maps/Level_02/Level_02_House)
+[2023.05.11-11.10.46:386][448]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.11-11.10.47:931][538]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.47:931][538]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.48:434][570]LogNet: Browse: /Game/Maps/Level_02/Level_02
+[2023.05.11-11.10.48:434][570]LogLoad: LoadMap: /Game/Maps/Level_02/Level_02
+[2023.05.11-11.10.48:434][570]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02_House
+[2023.05.11-11.10.48:435][570]LogWorld: UWorld::CleanupWorld for Level_02_House, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.10.48:435][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.10.48:495][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-11.10.48:498][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.11-11.10.48:522][570]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_02'.
+[2023.05.11-11.10.48:522][570]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-11.10.48:522][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-11.10.48:522][570]LogAIModule: Creating AISystem for world Level_02
+[2023.05.11-11.10.48:522][570]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2023.05.11-11.10.48:522][570]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.11-11.10.48:562][570]LogWorld: Bringing World /Game/Maps/Level_02/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2023.05.11-12.10.48
+[2023.05.11-11.10.48:562][570]LogWorld: Bringing up level for play took: 0.039700
+[2023.05.11-11.10.48:565][570]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.11-11.10.48:565][570]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.48:565][570]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.48:568][570]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton samurai_rigged_Skeleton, removing AnimBP from actor.
+[2023.05.11-11.10.48:569][570]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Added player 0
+[2023.05.11-11.10.48:569][570]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.48:569][570]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.48:569][570]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.48:569][570]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.48:569][570]LogBlueprintUserMessages: [W_InGameHUD_C_3] added in game hud
+[2023.05.11-11.10.48:570][570]LogLoad: Took 0.136307 seconds to LoadMap(/Game/Maps/Level_02/Level_02)
+[2023.05.11-11.10.52:123][760]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.52:123][760]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.52:626][786]LogNet: Browse: /Game/Maps/Level_03/Level_03
+[2023.05.11-11.10.52:626][786]LogLoad: LoadMap: /Game/Maps/Level_03/Level_03
+[2023.05.11-11.10.52:626][786]LogWorld: BeginTearingDown for /Game/Maps/Level_02/UEDPIE_0_Level_02
+[2023.05.11-11.10.52:627][786]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.10.52:627][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.10.52:671][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-11.10.52:674][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.11-11.10.52:699][786]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_03'.
+[2023.05.11-11.10.52:699][786]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-11.10.52:699][786]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-11.10.52:699][786]LogAIModule: Creating AISystem for world Level_03
+[2023.05.11-11.10.52:699][786]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.05.11-11.10.52:699][786]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.11-11.10.52:740][786]LogWorld: Bringing World /Game/Maps/Level_03/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2023.05.11-12.10.52
+[2023.05.11-11.10.52:740][786]LogWorld: Bringing up level for play took: 0.040666
+[2023.05.11-11.10.52:743][786]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.11-11.10.52:743][786]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.52:743][786]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.52:745][786]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton samurai_rigged_Skeleton, removing AnimBP from actor.
+[2023.05.11-11.10.52:746][786]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Added player 0
+[2023.05.11-11.10.52:746][786]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.52:746][786]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.52:746][786]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.52:746][786]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.52:746][786]LogBlueprintUserMessages: [W_InGameHUD_C_4] added in game hud
+[2023.05.11-11.10.52:747][786]LogLoad: Took 0.121184 seconds to LoadMap(/Game/Maps/Level_03/Level_03)
+[2023.05.11-11.10.55:965][954]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.11-11.10.57:070][ 12]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.57:070][ 12]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.57:578][ 38]LogNet: Browse: /Game/Maps/Level_04/Level_04
+[2023.05.11-11.10.57:578][ 38]LogLoad: LoadMap: /Game/Maps/Level_04/Level_04
+[2023.05.11-11.10.57:578][ 38]LogWorld: BeginTearingDown for /Game/Maps/Level_03/UEDPIE_0_Level_03
+[2023.05.11-11.10.57:578][ 38]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.10.57:579][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.10.57:621][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-11.10.57:624][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.11-11.10.57:667][ 38]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_04'.
+[2023.05.11-11.10.57:667][ 38]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-11.10.57:667][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-11.10.57:668][ 38]LogAIModule: Creating AISystem for world Level_04
+[2023.05.11-11.10.57:668][ 38]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2023.05.11-11.10.57:668][ 38]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.11-11.10.57:757][ 38]LogWorld: Bringing World /Game/Maps/Level_04/UEDPIE_0_Level_04.Level_04 up for play (max tick rate 0) at 2023.05.11-12.10.57
+[2023.05.11-11.10.57:757][ 38]LogWorld: Bringing up level for play took: 0.089038
+[2023.05.11-11.10.57:760][ 38]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.11-11.10.57:760][ 38]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.57:760][ 38]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.57:762][ 38]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton samurai_rigged_Skeleton, removing AnimBP from actor.
+[2023.05.11-11.10.57:763][ 38]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Added player 0
+[2023.05.11-11.10.57:763][ 38]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.57:763][ 38]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.57:763][ 38]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.10.57:763][ 38]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.10.57:763][ 38]LogBlueprintUserMessages: [W_InGameHUD_C_5] added in game hud
+[2023.05.11-11.10.57:764][ 38]LogLoad: Took 0.186658 seconds to LoadMap(/Game/Maps/Level_04/Level_04)
+[2023.05.11-11.11.07:432][516]LogBlueprintUserMessages: [BP_VendingMachine_C_1] you got healed 10.0 by buying something healthy from the vending machine!
+[2023.05.11-11.11.10:471][678]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.11.10:471][678]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.11.10:973][708]LogNet: Browse: /Game/Maps/Level_End/Level_End
+[2023.05.11-11.11.10:973][708]LogLoad: LoadMap: /Game/Maps/Level_End/Level_End
+[2023.05.11-11.11.10:973][708]LogWorld: BeginTearingDown for /Game/Maps/Level_04/UEDPIE_0_Level_04
+[2023.05.11-11.11.10:974][708]LogWorld: UWorld::CleanupWorld for Level_04, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.11.10:975][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.11.11:018][708]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-11.11.11:022][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.11-11.11.11:036][708]LogPlayLevel: Creating play world package: /Game/Maps/Level_End/UEDPIE_0_Level_End_Congratulations
+[2023.05.11-11.11.11:038][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001543s)
+[2023.05.11-11.11.11:038][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_End/Level_End_Congratulations.Level_End_Congratulations to /Game/Maps/Level_End/UEDPIE_0_Level_End_Congratulations.Level_End_Congratulations (0.001665s)
+[2023.05.11-11.11.11:038][708]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_End_Congratulations'.
+[2023.05.11-11.11.11:038][708]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-11.11.11:038][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-11.11.11:039][708]LogAIModule: Creating AISystem for world Level_End_Congratulations
+[2023.05.11-11.11.11:039][708]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2023.05.11-11.11.11:039][708]LogLoad: Game class is 'BP_Core_GameMode_C'
+[2023.05.11-11.11.11:039][708]LogWorld: Bringing World /Game/Maps/Level_End/UEDPIE_0_Level_End_Congratulations.Level_End_Congratulations up for play (max tick rate 0) at 2023.05.11-12.11.11
+[2023.05.11-11.11.11:039][708]LogWorld: Bringing up level for play took: 0.000311
+[2023.05.11-11.11.11:041][708]LogBlueprintUserMessages: [BP_Core_GameMode_C_0] NOT STARTING LEVEL
+[2023.05.11-11.11.11:041][708]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.11.11:041][708]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.11.11:043][708]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton samurai_rigged_Skeleton, removing AnimBP from actor.
+[2023.05.11-11.11.11:044][708]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Added player 0
+[2023.05.11-11.11.11:044][708]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.11.11:044][708]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.11.11:044][708]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Player 0
+[2023.05.11-11.11.11:044][708]LogBlueprintUserMessages: [BP_Core_GameInstance_C_38] Current players: 
+[2023.05.11-11.11.11:044][708]LogBlueprintUserMessages: [W_InGameHUD_C_6] added in game hud
+[2023.05.11-11.11.11:048][708]LogAnimation: Warning: AnimBP ABP_Quinn_C is incompatible with skeleton samurai_rigged_Skeleton, removing AnimBP from actor.
+[2023.05.11-11.11.11:050][708]LogLoad: Took 0.076454 seconds to LoadMap(/Game/Maps/Level_End/UEDPIE_0_Level_End_Congratulations)
+[2023.05.11-11.11.14:183][995]LogBlueprintUserMessages: [WBP_End_Congratulations_C_0] quitting game
+[2023.05.11-11.11.14:184][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-11.11.14:184][995]LogWorld: BeginTearingDown for /Game/Maps/Level_End/UEDPIE_0_Level_End_Congratulations
+[2023.05.11-11.11.14:206][995]LogWorld: UWorld::CleanupWorld for Level_End_Congratulations, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-11.11.14:206][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.11.14:239][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.11-11.11.14:244][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-11.11.14:285][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-11.11.14:285][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.05.11-11.11.14:287][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.05.11-11.11.14:290][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-11.11.14:293][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.05.11-11.11.15:083][996]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2023.05.11-11.11.16:966][ 79]LogViewport: Scene viewport resized to 3036x1633, mode Windowed.
+[2023.05.11-11.11.17:013][ 80]LogViewport: Scene viewport resized to 2623x1391, mode Windowed.
+[2023.05.11-11.11.17:096][ 81]LogViewport: Scene viewport resized to 2537x1341, mode Windowed.
